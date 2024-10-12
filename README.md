@@ -3,6 +3,7 @@ Sales trends analysis for e-commerce company
 
 # Overview
 
+
 ## ERD
 ![image](https://github.com/user-attachments/assets/0354bfec-1a23-4ba8-b706-09dfaf221d42)
 
