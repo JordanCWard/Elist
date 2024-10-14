@@ -1,6 +1,7 @@
 # elist_analysis
 Sales trends analysis for e-commerce company
 
+
 # Overview
 
 
@@ -9,7 +10,7 @@ Sales trends analysis for e-commerce company
 
 
 # Deep-Dive Insights
-Body text
+Add insights here
 
 ## Sales Trends
 Body text
