@@ -37,7 +37,7 @@ Average order value (AOV) and percentage of total sales have little to note sinc
 
 
 
-
+Add graphs next to the table images
 
 
 ### Global Reach
