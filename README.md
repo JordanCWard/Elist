@@ -39,6 +39,8 @@ Average order value (AOV) and percentage of total sales have little to note sinc
 
 Add graphs next to the table images
 
+Add questions I was asked
+
 
 ### Global Reach
 DotDash had customers place orders from 191 countries. Of these countries, 17 countries drive 85% of total sales (shown below). Maintaining strong presences in these countires should be a top priority, especially as DotDash angles to maintain some of the excess value captured from 2020. Further, it would serve DotDash well to identify similarities between countries because this analysis can be used to identify new market opportunities. Countries in the APAC region appear to be a solid option to start this analysis. On a high level, even though the APAC region provides 12% of total sales, customers in this region have the highest AOV by a significant margin. Thus suggesting experimentation with efforts to increase brand reach within these countries may drive future sales growth.
