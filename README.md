@@ -8,15 +8,37 @@ Rewrite this after doing the rest
 From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Across these 4 years, sales and order count are up 28%. Not to be overlooked is the meteoric sales boom in 2020 (163%).. A signficant portion of this rise can be attributed to the paradigm shift in customer behavior, to order online, observed during the start of the pandemic. However beginning in 2022, the trend in sales, average order value (aov) and order count has taken a sharp dive. Hence, the battle lies in finding ways to maintain the value captured during 2020 and 2021, which should outline our path to longer-term growth.
 
 
+
+
+
+
 ## Deep-Dive Insights
 
-### Product Performance
-Apple Airpods are DotDash's most popular product by order count, comprising 45% of all orders (45K+). The 27in 4K Gaming Monitor is DotDash's top revenue generating product, generating almost $10M (35% of total sales). Paired with the Gaming Monitor and Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue. DotDash should prioritize the marketing of these top 4 products (Airpods, Gaming Monitor, Macbook Air & ThinkPad) over the rest of its current catalog to maintain market presence.
+<br>
 
-Of importance to note, DotDash sees a significant amount of orders of the Samsung Charging Cable Pack (20%). Even though this product generates 2% of total sales, an opportunity to capture more value by offering a bundle version of this product, with a relevant device, exists.
+### Product Performance
+
+<img width="700" alt="Product Sales" src="https://github.com/user-attachments/assets/e5653945-2e59-4971-b0a0-56ae690b86a7">
+
+Apple Airpods are Elist's most popular product by order count, comprising 45% of all orders (48K+). The 27in 4K Gaming Monitor is Elist's top revenue generating product, generating almost $10M (35% of total sales). The Gaming Monitor, Apple Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue. Elitch should prioritize the marketing of these 4 products over the rest of its current catalog to maintain market presence.
+
+Of importance to note, Elist sees a significant percentage of orders of the Samsung Charging Cable Pack (20%). This product generates 2% of total sales and an opportunity to capture more value by either increasing the price or offering a bundle version of this product exists.
+
+<br>
 
 ### Seasonality
-Elist sees a holiday sales surge, each year in November (18%) and December (23%). Additionally, a bounceback in sales of roughly 18% MoM is experienced in March, after sharp declines in sales occur in February. The worst months are February and October, where sales fall around -27% on average during these months. While DotDash's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere.
+
+<img width="700" alt="Seasonality" src="https://github.com/user-attachments/assets/29957c3b-ee26-452a-b163-983c28180cc0">
+
+Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
+
+Average order value (AOV) and percentage of total sales have little to note since all months are very similar.
+
+
+
+
+
+
 
 ### Global Reach
 DotDash had customers place orders from 191 countries. Of these countries, 17 countries drive 85% of total sales (shown below). Maintaining strong presences in these countires should be a top priority, especially as DotDash angles to maintain some of the excess value captured from 2020. Further, it would serve DotDash well to identify similarities between countries because this analysis can be used to identify new market opportunities. Countries in the APAC region appear to be a solid option to start this analysis. On a high level, even though the APAC region provides 12% of total sales, customers in this region have the highest AOV by a significant margin. Thus suggesting experimentation with efforts to increase brand reach within these countries may drive future sales growth.
