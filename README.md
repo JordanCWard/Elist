@@ -1,3 +1,11 @@
+Add graphs next to the table images
+
+Add questions I was asked
+
+Fix grammar and rewrite each section
+
+
+
 # Elist Sales Analysis
 Elist, established in 2018, is an e-commerce business specializing in popular electronics. Initially focused on the local market, Elist has grown to serve customers worldwide. Their products are available for purchase through both their website and mobile app. To engage their audience, they utilize various marketing strategies such as email marketing, SEO tactics, and affiliate programs. Among their top-selling items are electronics from major brands like Apple, Samsung, and ThinkPad.
 
@@ -18,7 +26,9 @@ From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Acros
 
 ### Product Performance
 
-<img width="700" alt="Product Sales" src="https://github.com/user-attachments/assets/e5653945-2e59-4971-b0a0-56ae690b86a7">
+<img width="700" alt="Product Sales Graph" src="https://github.com/user-attachments/assets/f4dba482-1582-4cbe-8f46-46296741d313">
+<img width="600" alt="Product Sales Table" src="https://github.com/user-attachments/assets/75100b5a-31e7-4fb0-887e-f29a724896d1">
+
 
 Apple Airpods are Elist's most popular product by order count, comprising 45% of all orders (48K+). The 27in 4K Gaming Monitor is Elist's top revenue generating product, generating almost $10M (35% of total sales). The Gaming Monitor, Apple Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue. Elitch should prioritize the marketing of these 4 products over the rest of its current catalog to maintain market presence.
 
@@ -28,22 +38,19 @@ Of importance to note, Elist sees a significant percentage of orders of the Sams
 
 ### Seasonality
 
-<img width="700" alt="Seasonality" src="https://github.com/user-attachments/assets/29957c3b-ee26-452a-b163-983c28180cc0">
+<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650"> <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/29957c3b-ee26-452a-b163-983c28180cc0">
 
 Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
 
 Average order value (AOV) and percentage of total sales have little to note since all months are very similar.
 
 
-
-
-Add graphs next to the table images
-
-Add questions I was asked
-
-
 ### Global Reach
 DotDash had customers place orders from 191 countries. Of these countries, 17 countries drive 85% of total sales (shown below). Maintaining strong presences in these countires should be a top priority, especially as DotDash angles to maintain some of the excess value captured from 2020. Further, it would serve DotDash well to identify similarities between countries because this analysis can be used to identify new market opportunities. Countries in the APAC region appear to be a solid option to start this analysis. On a high level, even though the APAC region provides 12% of total sales, customers in this region have the highest AOV by a significant margin. Thus suggesting experimentation with efforts to increase brand reach within these countries may drive future sales growth.
+
+
+
+
 
 ### Loyalty Program
 The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers.
