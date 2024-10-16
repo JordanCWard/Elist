@@ -26,8 +26,8 @@ From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Acros
 
 ### Product Performance
 
-<img width="700" alt="Product Sales Graph" src="https://github.com/user-attachments/assets/f4dba482-1582-4cbe-8f46-46296741d313">
-<img width="600" alt="Product Sales Table" src="https://github.com/user-attachments/assets/75100b5a-31e7-4fb0-887e-f29a724896d1">
+<img width="500" alt="Product Sales Graph" src="https://github.com/user-attachments/assets/f4dba482-1582-4cbe-8f46-46296741d313">
+<img width="500" alt="Product Sales Table" src="https://github.com/user-attachments/assets/75100b5a-31e7-4fb0-887e-f29a724896d1">
 
 
 Apple Airpods are Elist's most popular product by order count, comprising 45% of all orders (48K+). The 27in 4K Gaming Monitor is Elist's top revenue generating product, generating almost $10M (35% of total sales). The Gaming Monitor, Apple Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue. Elitch should prioritize the marketing of these 4 products over the rest of its current catalog to maintain market presence.
@@ -38,7 +38,8 @@ Of importance to note, Elist sees a significant percentage of orders of the Sams
 
 ### Seasonality
 
-<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650"> <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/29957c3b-ee26-452a-b163-983c28180cc0">
+<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
+<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/29957c3b-ee26-452a-b163-983c28180cc0">
 
 Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
 
