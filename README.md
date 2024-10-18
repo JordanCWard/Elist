@@ -8,13 +8,6 @@ Rewrite this after doing the rest
 From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Across these 4 years, sales and order count are up 28%. Not to be overlooked is the meteoric sales boom in 2020 (163%).. A signficant portion of this rise can be attributed to the paradigm shift in customer behavior, to order online, observed during the start of the pandemic. However beginning in 2022, the trend in sales, average order value (aov) and order count has taken a sharp dive. Hence, the battle lies in finding ways to maintain the value captured during 2020 and 2021, which should outline our path to longer-term growth.
 
 
-Add graphs next to the table images
-
-Add questions I was asked
-
-Fix grammar and rewrite each section
-
-
 
 ## Deep-Dive Insights
 
@@ -40,6 +33,13 @@ Of importance to note, Elist sees a significant percentage of orders of the Sams
 Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
 
 Average order value (AOV) and percentage of total sales have little to note since all months are very similar.
+
+
+Add graphs next to the table images
+
+Add questions I was asked
+
+Fix grammar and rewrite each section
 
 
 ### Global Reach
