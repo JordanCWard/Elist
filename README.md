@@ -13,8 +13,6 @@ From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Acros
 
 <br>
 
-
-
 ### Product Performance
 
 <img width="500" alt="Product Sales Graph" src="https://github.com/user-attachments/assets/f4dba482-1582-4cbe-8f46-46296741d313">
