@@ -5,7 +5,7 @@ Elist, established in 2018, is an e-commerce business specializing in popular el
 Rewrite this after doing the rest
 From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Across these 4 years, sales and order count are up 28%. Not to be overlooked is the meteoric sales boom in 2020 (163%).. A signficant portion of this rise can be attributed to the paradigm shift in customer behavior, to order online, observed during the start of the pandemic. However beginning in 2022, the trend in sales, average order value (aov) and order count has taken a sharp dive. Hence, the battle lies in finding ways to maintain the value captured during 2020 and 2021, which should outline our path to longer-term growth.
 
-
+<br>
 
 ## Deep-Dive Insights
 
