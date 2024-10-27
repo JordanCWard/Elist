@@ -13,10 +13,12 @@ From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Acros
 <br>
 
 
+
 ### Product Performance
 
 <img width="500" alt="Product Sales Graph" src="https://github.com/user-attachments/assets/f4dba482-1582-4cbe-8f46-46296741d313">
 <img width="500" alt="Product Sales Table" src="https://github.com/user-attachments/assets/75100b5a-31e7-4fb0-887e-f29a724896d1">
+
 
 
 Apple Airpods are Elist's most popular product by order count, comprising 45% of all orders (48K+). The 27in 4K Gaming Monitor is Elist's top revenue generating product, generating almost $10M (35% of total sales). The Gaming Monitor, Apple Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue. Elitch should prioritize the marketing of these 4 products over the rest of its current catalog to maintain market presence.
