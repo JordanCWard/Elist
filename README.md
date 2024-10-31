@@ -59,7 +59,9 @@ After filtering for countries with 100 or more orders, there are 12 countries wi
 
 #### Loyalty Program
 
-<img width="400" alt="Loyalty Program - Total Sales" src="https://github.com/user-attachments/assets/dc40cdd5-359f-4f3d-9b18-571f03bd44e2">
+<img width="400" alt="Loyalty Program - Total Sales" src="https://github.com/user-attachments/assets/fa356026-ccc6-462f-832e-eb4e4fa73958">
+<img width="400" alt="Loyalty Program - Order Count" src="https://github.com/user-attachments/assets/18246f19-886b-4e2e-9335-fc342df1affb">
+
 
 The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers.
 
