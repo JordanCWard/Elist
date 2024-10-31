@@ -57,21 +57,6 @@ After filtering for countries with 100 or more orders, there are 12 countries wi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### Sales Trends
 Body text
 
