@@ -1,0 +1,115 @@
+-- 1) What were the order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years?
+
+-- count(orders.id) as order count
+-- sum(usd_price) as sales
+-- avg(usd_price) as AOV
+-- product_name = "Macbook Air Laptop"
+-- region = 'NA'
+-- purchase_ts by quarter
+-- group by quarter
+-- order by quarter asc
+
+SELECT DATE_TRUNC(purchase_ts, quarter) AS quarter,
+    COUNT(DISTINCT(orders.id)) AS order_count,
+    SUM(usd_price) AS sales,
+    AVG(usd_price) AS aov
+FROM core.orders
+LEFT JOIN core.customers
+ON orders.customer_id = customers.id
+LEFT JOIN core.geo_lookup
+ON customers.country_code = geo_lookup.country_code
+WHERE product_name = 'Macbook Air Laptop'
+AND region = 'NA'
+GROUP BY 1
+ORDER BY quarter ASC;
+
+
+
+-- 2) For products purchased in 2022 on the website or products purchased on mobile in any year, which region has the average highest time to deliver? 
+
+-- time to deliver = delivery_ts - purchase_ts desc
+-- purchase_platform = "website" in 2022 or = "mobile app"
+-- group by region
+-- order by time to deliver desc
+
+SELECT geo_lookup.region, 
+    AVG(DATE_DIFF(order_status.delivery_ts, order_status.purchase_ts, day)) time_to_deliver
+FROM core.orders
+LEFT JOIN core.customers 
+    ON orders.customer_id = customers.id
+LEFT JOIN core.geo_lookup 
+    ON customers.country_code = geo_lookup.country_code
+LEFT JOIN core.order_status 
+    ON orders.id = order_status.order_id
+WHERE purchase_platform = "website" AND extract(year from orders.purchase_ts) = 2022 
+    OR purchase_platform = "mobile app"
+GROUP BY 1
+ORDER BY 2 DESC
+;
+
+
+
+
+-- 3) What was the refund rate and refund count for each product overall?
+
+-- product_name
+-- refund rate? percentage of products that are refunded
+-- count of all refunds for each product
+-- group by product_name
+
+SELECT CASE WHEN product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name END AS product_clean, 
+    SUM(CASE WHEN refund_ts IS NOT NULL THEN 1 ELSE 0 END) AS refunds, 
+    AVG(CASE WHEN refund_ts IS NOT NULL THEN 1 ELSE 0 END) AS refund_rate
+FROM core.orders
+LEFT JOIN core.order_status ON 
+    orders.id = order_status.order_id
+GROUP BY 1
+ORDER BY 3 DESC
+;
+
+
+
+
+-- 4) Within each region, what is the most popular product? 
+
+-- count of product_id
+-- region, product_name
+-- group by region and product_name
+-- in a CTE, rank each region separately and take the highest rank for each region
+
+WITH sales_by_product AS (
+    SELECT count(product_id) AS total_orders,
+        CASE WHEN product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name END AS product_clean,
+        region
+    FROM core.orders
+    LEFT JOIN core.customers
+        ON orders.customer_id = customers.id
+    LEFT JOIN core.geo_lookup
+        ON customers.country_code = geo_lookup.country_code
+    GROUP BY product_name, region
+    ORDER BY total_orders DESC
+)
+
+SELECT *,
+    ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) AS order_ranking
+FROM sales_by_product
+QUALIFY ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) = 1
+;
+
+
+
+
+
+
+-- 5) How does the time to make a purchase differ between loyalty customers vs. non-loyalty customers?
+
+-- time to purchase = purchase_ts - created_on
+-- loyalty_program
+-- group by loyalty_program
+
+SELECT AVG(DATE_DIFF(orders.purchase_ts, created_on, day)) AS time_to_purchase,
+      loyalty_program
+FROM core.customers
+LEFT JOIN core.orders
+ ON customers.id = orders.customer_id
+GROUP BY 2;
