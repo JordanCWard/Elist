@@ -101,6 +101,7 @@ Email Marketing Channel: 59% signup rate | 8K signups
 #### Marketing Channel Performance
 The direct marketing channels brought in both the highest number of orders (84K) and total revenue ($23.2 million) while social media brought in both the lowest number of orders (1.3K) and total revenue ($300K). While direct marketing channels brought in the highest number of loyalty members (23K), the email marketing channel had the highest loyalty program signup rate (58%), second to those that were unknown (59%).
 
+
 #### Refund Rates
 The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
 
