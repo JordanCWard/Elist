@@ -66,19 +66,30 @@ After filtering for countries with 100 or more orders, there are 12 countries wi
 The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers.
 
 
+#### Loyalty Program part 2
 
 
-Create graphs for part 2 of loyalty program then continue from there
+<img width="330" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/ad06dcd7-ef4a-459e-966c-849b7015ec01">
+
+The direct marketing channel has the highest number of loyalty participants: 32.9K signups (39% signup rate)
+The email marketing channel has the highest average signup rate: 58% signup rate (~11K signups)
+The affiliate marketing channel has the lowest average signup rate: 16% signup rate (~500 signups)
+Based on this information, more money should be spent on the email marketing channel and less spent on the affiliate marketing channel. Money should continue to be spent on the direct marketing channel even though the signup rate isn't the highest because the number of signups is still very high.
 
 
-part 2
-Looking into our marketing efforts and how it translates to loyalty program signups:
-
-The direct marketing channel has the highest number of loyalty participants: 23.5K signups (40% signup rate)
-The email marketing channel has the highest average signup rate: 59% signup rate (~8K signups)
-Doing a deeper assessment of the loyalty program to breakdown what consumers are using or seeming to enjoy the most will provide clarity on ways to grow this program in a manner aligned with DotDash's customers.
 
 
+Next to complete:
+
+#### Refund Rates
+The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
+
+
+
+
+
+
+## Recommendations
 
 #### Loyalty Program recommendations
 There is a cause for concern that should be noted and monitored for a set amount of time before decisions to continue or cut the program are made.
@@ -90,18 +101,6 @@ Due to this concerning recent trend in the loyalty program, DotDash should cut a
 Direct Marketing Channel: 40% signup rate | 23.5K signups
 Email Marketing Channel: 59% signup rate | 8K signups
 
-
-
-
-#### Marketing Channel Performance
-The direct marketing channels brought in both the highest number of orders (84K) and total revenue ($23.2 million) while social media brought in both the lowest number of orders (1.3K) and total revenue ($300K). While direct marketing channels brought in the highest number of loyalty members (23K), the email marketing channel had the highest loyalty program signup rate (58%), second to those that were unknown (59%).
-
-
-#### Refund Rates
-The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
-
-
-## Recommendations
 
 #### Product Performance
 96% of current sales come from products in these categories:
