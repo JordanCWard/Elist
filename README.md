@@ -14,7 +14,7 @@ Final Note: The pivot tables and charts outlining this analysis can be found in 
 
 Summary of insights
 
-
+show various charts/graphs/insights
 
 From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Across these 4 years, sales and order count are up 28%. Not to be overlooked is the meteoric sales boom in 2020 (163%).. A signficant portion of this rise can be attributed to the paradigm shift in customer behavior, to order online, observed during the start of the pandemic. However beginning in 2022, the trend in sales, average order value (aov) and order count has taken a sharp dive. Hence, the battle lies in finding ways to maintain the value captured during 2020 and 2021, which should outline our path to longer-term growth.
 
@@ -68,23 +68,21 @@ The loyalty program seems to serve as another viable avenue to maintain some of 
 
 #### Loyalty Program part 2
 
-
 <img width="330" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/ad06dcd7-ef4a-459e-966c-849b7015ec01">
 
 The direct marketing channel has the highest number of loyalty participants: 32.9K signups (39% signup rate). The email marketing channel has the highest average signup rate: 58% signup rate (~10.8K signups). The affiliate marketing channel has the lowest average signup rate: 16% signup rate (~500 signups). Based on this information, more money should be spent on the email marketing channel and less spent on the affiliate marketing channel. Money should continue to be spent on the direct marketing channel even though the signup rate isn't the highest because the number of signups is still very high.
 
 
+#### Refund Rates
+
+<img width="500" alt="AOV and Refund Rate - Bar Graph" src="https://github.com/user-attachments/assets/6a04c540-c496-4361-8f10-631bfa304124">
+<img width="500" alt="AOV and Refund Rate - Scatter Plot" src="https://github.com/user-attachments/assets/41c769b3-0d9a-432d-a191-1f6dad1ed290">
+
+The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds. However, this isn't cause for concern because there's a strong trend between average order value and refund rate that shows when the average order value increases, the refund rate also increases. Therefore, higher number of refunds are a natural consequence of higher price.
+
 
 
 Next to complete:
-
-#### Refund Rates
-The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
-
-
-
-
-
 
 ## Recommendations
 
