@@ -28,7 +28,7 @@ Apple Airpods are Elist's most popular product by order count, comprising 45% of
 
 Of importance to note, Elist sees a significant percentage of orders of the Samsung Charging Cable Pack (20%). This product generates 2% of total sales and an opportunity to capture more value by either increasing the price or offering a bundle version of this product exists.
 
-<img width="500" alt="Product Sales Graph" src="https://github.com/user-attachments/assets/f4dba482-1582-4cbe-8f46-46296741d313">
+<img width="500" alt="Product Sales Graph" src="https://github.com/user-attachments/assets/53c4f5dd-2e01-4219-9175-327cf63a8235">
 <img width="500" alt="Product Sales Table" src="https://github.com/user-attachments/assets/75100b5a-31e7-4fb0-887e-f29a724896d1">
 
 
