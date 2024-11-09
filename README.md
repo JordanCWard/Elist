@@ -65,12 +65,27 @@ After filtering for countries with 100 or more orders, there are 12 countries wi
 
 The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers.
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
-#### Loyalty Program part 2
+#### Marketing Channels
 
 <img width="330" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/ad06dcd7-ef4a-459e-966c-849b7015ec01">
 
 The direct marketing channel has the highest number of loyalty participants: 32.9K signups (39% signup rate). The email marketing channel has the highest average signup rate: 58% signup rate (~10.8K signups). The affiliate marketing channel has the lowest average signup rate: 16% signup rate (~500 signups). Based on this information, more money should be spent on the email marketing channel and less spent on the affiliate marketing channel. Money should continue to be spent on the direct marketing channel even though the signup rate isn't the highest because the number of signups is still very high.
+
+Mention needing to identify blank or unknown values and how many there are.
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 #### Refund Rates
