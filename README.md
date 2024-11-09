@@ -1,8 +1,6 @@
 # <p align="center"> Elist Sales Analysis </p>
 Elist, established in 2018, is an e-commerce business specializing in popular electronics. Initially focused on the local market, Elist has grown to serve customers worldwide. Their products are available for purchase through both their website and mobile app. To engage their audience, they utilize various marketing strategies such as email marketing, SEO tactics, and affiliate programs. Among their top-selling items are electronics from major brands like Apple, Samsung, and ThinkPad.
 
-
-
 #### Overview
 Add questions from talking on saturday morning
 
@@ -76,9 +74,11 @@ The loyalty program seems to serve as another viable avenue to maintain some of 
 <img width="500" alt="Marketing Channels" src="https://github.com/user-attachments/assets/29e9d65c-0c5b-49b1-ab13-c7c04253750a">
 <img width="500" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/ad06dcd7-ef4a-459e-966c-849b7015ec01">
 
-The direct marketing channel has the highest number of loyalty participants: 32.9K signups (39% signup rate). The email marketing channel has the highest average signup rate: 58% signup rate (~10.8K signups). The affiliate marketing channel has the lowest average signup rate: 16% signup rate (~500 signups). Based on this information, more money should be spent on the email marketing channel and less spent on the affiliate marketing channel. Money should continue to be spent on the direct marketing channel even though the signup rate isn't the highest because the number of signups is still very high.
+The direct marketing channel has the highest number of loyalty participants: 32.9K signups (39% signup rate). The email marketing channel has the highest average signup rate: 58% signup rate (~10.8K signups). The affiliate marketing channel has the lowest average signup rate: 16% signup rate (~500 signups). Based on this information, more money should be spent on the email marketing channel and less spent on the affiliate marketing channel. Money should continue to be spent on the direct marketing channel even though the signup rate isn't the highest because the number of signups are still very high.
 
-Mention needing to identify blank or unknown values and how many there are.
+The direct marketing channel has been the most successful for the number of orders each year. However, the affiliate marketing channel has steadily had the highest average order value each year and should be pursued further. Email marketing channel has consistently had the lowest number of orders and average order value, so less marketing should be spent here.
+
+Need to identify the marketing channels for 85 unknown and 1387 blank customers.
 
 
 
@@ -88,6 +88,7 @@ Mention needing to identify blank or unknown values and how many there are.
 <br>
 <br>
 
+need overarching story that I'm telling
 
 #### Refund Rates
 
