@@ -1,6 +1,6 @@
-### analysis on purchase_platform, account_creation_method
+## analysis on purchase_platform, account_creation_method
 
-### Add questions from talking on saturday morning
+## Add questions from talking on saturday morning
 
 
 This is all the analysis so far, weave into overarching story that I'm telling
