@@ -125,8 +125,10 @@ The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund r
 
 #### Purchase Platform
 
-<img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/2d4ce97e-3b24-4bee-b59b-cabd76489e7d">
+<img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/dedbe4e3-e4b7-4dee-958e-913dc6691d51">
 
+
+<img width="489" alt="Mobile App" src="https://github.com/user-attachments/assets/0a8f3610-7c1e-4647-90d2-8e6c0d520d3f">
 
 
 Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%, suggesting that people were starting to switch from the website to the mobile app. Some resources from the website should be switched to the mobile app to increase sales.
