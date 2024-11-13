@@ -3,33 +3,43 @@
 
 This is all the analysis so far, weave into overarching story that I'm telling
 
-Apple Airpods are Elist's most popular product by order count, comprising 45% of all orders (48K+). The 27in 4K Gaming Monitor is Elist's top revenue generating product, generating almost $10M (35% of total sales). The Gaming Monitor, Apple Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue. Elitch should prioritize the marketing of these 4 products over the rest of its current catalog to maintain market presence.
+Apple Airpods are Elist's most popular product by order count
+27in 4K Gaming Monitor is Elist's top revenue generating product
+Gaming Monitor, Apple Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue
+prioritize the marketing of these 4 products
 
-Of importance to note, Elist sees a significant percentage of orders of the Samsung Charging Cable Pack (20%). This product generates 2% of total sales and an opportunity to capture more value by either increasing the price or offering a bundle version of this product exists.
+significant percentage of orders of the Samsung Charging Cable Pack (20%)
+product generates 2% of total sales and an opportunity to capture more value
 
-Apple Airpods are Elist's most popular product by order count, comprising 45% of all orders (48K+). The 27in 4K Gaming Monitor is Elist's top revenue generating product, generating almost $10M (35% of total sales). The Gaming Monitor, Apple Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue. Elitch should prioritize the marketing of these 4 products over the rest of its current catalog to maintain market presence.
+holiday sales surge each year in sales growth rate in November (18%) and December (23%)
+decrease following in January (-10%) and February (-25%)
+rebound in March (18%)
+October requires more insight analysis into whether something can be done to improve sales
 
-Of importance to note, Elist sees a significant percentage of orders of the Samsung Charging Cable Pack (20%). This product generates 2% of total sales and an opportunity to capture more value by either increasing the price or offering a bundle version of this product exists.
+195 countries
+US drives by far the most sales with 47% of total sales
+top 12 countries drive 80% of total sales
+12 countries with an average order value above $300
 
-Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
+loyalty program rollout in 2019, significant customer adoption did not occur until the beginning of 2021
+Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021
+trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers
 
-Average order value (AOV) and percentage of total sales have little to note since all months are very similar.
-
-Elist had customers place orders from 195 countries. The US drives by far the most sales with 47% of total sales. If we expand further, the top 12 countries drive 80% of total sales (shown below). Maintaining strong presences in these countires should be a top priority, especially as Elist angles to maintain some of the excess value captured from 2020. Further, it would serve Elist well to identify similarities between countries because this analysis can be used to identify new market opportunities.
-
-After filtering for countries with 100 or more orders, there are 12 countries with an average order value above $300. Thus suggesting experimentation with efforts to increase brand reach within these countries may drive future sales growth.
-
-The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers.
-
-The direct marketing channel has the highest number of loyalty participants: 32.9K signups (39% signup rate). The email marketing channel has the highest average signup rate: 58% signup rate (~10.8K signups). The affiliate marketing channel has the lowest average signup rate: 16% signup rate (~500 signups). Based on this information, more money should be spent on the email marketing channel and less spent on the affiliate marketing channel. Money should continue to be spent on the direct marketing channel even though the signup rate isn't the highest because the number of signups are still very high.
-
-The direct marketing channel has been the most successful for the number of orders each year. However, the affiliate marketing channel has steadily had the highest average order value each year and should be pursued further. Email marketing channel has consistently had the lowest number of orders and average order value, so less marketing should be spent here.
+direct marketing channel highest number of loyalty participants: 32.9K signups (39% signup rate)
+email marketing channel highest average signup rate: 58% signup rate (~10.8K signups)
+affiliate marketing channel lowest average signup rate: 16% signup rate (~500 signups)
+direct marketing channel most successful for number of orders each year
+affiliate marketing channel highest average order value each year
+Email marketing channel lowest number of orders and average order value
 
 Need to identify the marketing channels for 85 unknown and 1387 blank customers.
 
-The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds. However, this isn't cause for concern because there's a strong trend between average order value and refund rate that shows when the average order value increases, the refund rate also increases. Therefore, higher number of refunds are a natural consequence of higher price.
+ThinkPad Laptop (12%) and Macbook Air Laptop (11%) highest refund rates
+Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) highest number of refunds
 
-Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%. This increase in mobile app orders came from the Samsung Charging Cable Pack (351% increase) and the Samsung Webcam (128% increase). This suggests that it might be worth focusing the mobile app on smaller purchases whereas the website should focus on larger purchases.
+Both the mobile app and the website significant increase in total sales and orders in 2020
+mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%
+mobile app orders came from the Samsung Charging Cable Pack (351% increase) and the Samsung Webcam (128% increase)
 
 <br>
 <br>
