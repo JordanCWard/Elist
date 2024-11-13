@@ -29,7 +29,7 @@ Need to identify the marketing channels for 85 unknown and 1387 blank customers.
 
 The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds. However, this isn't cause for concern because there's a strong trend between average order value and refund rate that shows when the average order value increases, the refund rate also increases. Therefore, higher number of refunds are a natural consequence of higher price.
 
-Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%, suggesting that people were starting to switch from the website to the mobile app. Some resources from the website should be switched to the mobile app to increase sales.
+Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%. This increase in mobile app orders came from the Samsung Charging Cable Pack (351% increase) and the Samsung Webcam (128% increase). This suggests that it might be worth focusing the mobile app on smaller purchases whereas the website should focus on larger purchases.
 
 <br>
 <br>
@@ -123,6 +123,9 @@ Need to identify the marketing channels for 85 unknown and 1387 blank customers.
 
 The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds. However, this isn't cause for concern because there's a strong trend between average order value and refund rate that shows when the average order value increases, the refund rate also increases. Therefore, higher number of refunds are a natural consequence of higher price.
 
+<br>
+<br>
+
 #### Purchase Platform
 
 <img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/dedbe4e3-e4b7-4dee-958e-913dc6691d51">
@@ -130,9 +133,9 @@ The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund r
 <img width="501" alt="Mobile App" src="https://github.com/user-attachments/assets/a4d961ad-6a5b-4ee4-a052-4f069a3f6ff5">
 
 
+Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%. This increase in mobile app orders came from the Samsung Charging Cable Pack (351% increase) and the Samsung Webcam (128% increase). This suggests that it might be worth focusing the mobile app on smaller purchases whereas the website should focus on larger purchases.
 
 
-Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%, suggesting that people were starting to switch from the website to the mobile app. Some resources from the website should be switched to the mobile app to increase sales.
 
 
 
