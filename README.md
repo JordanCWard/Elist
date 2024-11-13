@@ -1,7 +1,3 @@
-## analysis on purchase_platform, account_creation_method
-
-<br>
-
 ## Add questions from talking on saturday morning
 
 
@@ -32,6 +28,8 @@ The direct marketing channel has been the most successful for the number of orde
 Need to identify the marketing channels for 85 unknown and 1387 blank customers.
 
 The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds. However, this isn't cause for concern because there's a strong trend between average order value and refund rate that shows when the average order value increases, the refund rate also increases. Therefore, higher number of refunds are a natural consequence of higher price.
+
+Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%, suggesting that people were starting to switch from the website to the mobile app. Some resources from the website should be switched to the mobile app to increase sales.
 
 <br>
 <br>
@@ -125,9 +123,16 @@ Need to identify the marketing channels for 85 unknown and 1387 blank customers.
 
 The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds. However, this isn't cause for concern because there's a strong trend between average order value and refund rate that shows when the average order value increases, the refund rate also increases. Therefore, higher number of refunds are a natural consequence of higher price.
 
-#### purchase_platform
+#### Purchase Platform
 
-#### account_creation_method
+<img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/2d4ce97e-3b24-4bee-b59b-cabd76489e7d">
+
+
+
+Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%, suggesting that people were starting to switch from the website to the mobile app. Some resources from the website should be switched to the mobile app to increase sales.
+
+
+
 
 
 <br>
