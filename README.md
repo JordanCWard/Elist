@@ -1,23 +1,32 @@
-## Add questions from talking on saturday morning
-
-
 # <p align="center"> Elist Sales Analysis </p>
-Elist, established in 2018, is an e-commerce business specializing in popular electronics. Initially focused on the local market, Elist has grown to serve customers worldwide. Their products are available for purchase through both their website and mobile app. To engage their audience, they utilize various marketing strategies such as email marketing, SEO tactics, and affiliate programs. Among their top-selling items are electronics from major brands like Apple, Samsung, and ThinkPad.
 
 #### Overview
-Add questions from talking on saturday morning
 
-Fix grammar and rewrite each section
+Elist, established in 2018, is an e-commerce business specializing in popular electronics. Initially focused on the local market, Elist has grown to serve customers worldwide. Their products are available for purchase through both their website and mobile app. To engage their audience, they utilize various marketing strategies such as email marketing, SEO tactics, and affiliate programs. Among their top-selling items are electronics from major brands like Apple, Samsung, and ThinkPad.
 
-Rewrite this after doing the rest
+The company has vast amounts of data on its (fill in topics). This data, previously underutilised, is now being thoroughly analysed to uncover critical insights aimed at enhancing their commercial performance. The project provides insights and recommendations on the following key areas:
 
-Final Note: The pivot tables and charts outlining this analysis can be found in the attached workbooks. (add them to it)
+# Current list of topics
+- Product Performance
+- Global Reach
+- Loyalty Program
+- Marketing Channels
+- Refund Rates
+- Purchase Platform
 
-Summary of insights
+# Should I include these topics? Exclude some topics?
+- Sales Trends - Focused on Revenue, Orders Placed, and Average Order Value (AOV).
+- Product Performance - An analysis of different product lines and their market impact.
+- Loyalty Programme Performance - Assessment of the loyalty programme's effectiveness and its future.
+- Operational Effectiveness - Evaluation of logistics and operational efficiency.
+- Marketing Channel Effectiveness - Analysis of various marketing channels and their return on investment.
 
-show various charts/graphs/insights
+# The SQL queries performed to uncover these general insights are found here.
 
-From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Across these 4 years, sales and order count are up 28%. Not to be overlooked is the meteoric sales boom in 2020 (163%).. A signficant portion of this rise can be attributed to the paradigm shift in customer behavior, to order online, observed during the start of the pandemic. However beginning in 2022, the trend in sales, average order value (aov) and order count has taken a sharp dive. Hence, the battle lies in finding ways to maintain the value captured during 2020 and 2021, which should outline our path to longer-term growth.
+# Targeted SQL queries relating to these categories can also be found here.
+
+# Tableau dashboard can be found here.
+
 
 <br>
 <br>
