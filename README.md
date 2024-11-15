@@ -7,12 +7,13 @@ Elist, established in 2018, is an e-commerce business specializing in popular el
 The company has vast amounts of data on its (fill in topics). This data, previously underutilised, is now being thoroughly analysed to uncover critical insights aimed at enhancing their commercial performance. The project provides insights and recommendations on the following key areas:
 
 ### Current list of topics
+- Sales Trends: Focused on Revenue, Orders Placed, and Average Order Value (AOV).
 - Product Performance
 - Global Reach
 - Loyalty Program
 - Marketing Channels
 - Refund Rates
-- Purchase Platform
+- Purchasing Platform
 
 ### Should I include these topics? Exclude some topics?
 - Sales Trends - Focused on Revenue, Orders Placed, and Average Order Value (AOV).
@@ -31,7 +32,23 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <br>
 <br>
 
+
 ### <p align="center"> Deep-Dive Insights </p>
+
+
+#### Sales Trends
+
+- **Findings:** Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
+
+Average order value (AOV) and percentage of total sales have little to note since all months are very similar.
+
+- **Recommendation:** 
+
+
+<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
+<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/29957c3b-ee26-452a-b163-983c28180cc0">
+
+
 
 #### Product Performance
 
@@ -59,17 +76,7 @@ DotDash should expand its product catalog to offer similar, in-class products. D
 <img width="500" alt="Product Sales Table" src="https://github.com/user-attachments/assets/75100b5a-31e7-4fb0-887e-f29a724896d1">
 
 
-#### Seasonality
 
-- **Findings:** Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
-
-Average order value (AOV) and percentage of total sales have little to note since all months are very similar.
-
-- **Recommendation:** 
-
-
-<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
-<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/29957c3b-ee26-452a-b163-983c28180cc0">
 
 
 
@@ -151,7 +158,7 @@ Work with the products team to investigate the high refund rates of the ThinkPad
 <br>
 <br>
 
-#### Purchase Platform
+#### Purchasing Platform
 
 - **Findings:** Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%. This increase in mobile app orders came from the Samsung Charging Cable Pack (351% increase) and the Samsung Webcam (128% increase).
 - **Recommendation:** This suggests that it might be worth focusing the mobile app on smaller purchases whereas the website should focus on larger purchases.
