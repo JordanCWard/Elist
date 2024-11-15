@@ -33,8 +33,18 @@ Of importance to note, Elist sees a significant percentage of orders of the Sams
 <img width="500" alt="Product Sales Graph" src="https://github.com/user-attachments/assets/53c4f5dd-2e01-4219-9175-327cf63a8235">
 <img width="500" alt="Product Sales Table" src="https://github.com/user-attachments/assets/75100b5a-31e7-4fb0-887e-f29a724896d1">
 
+Product Performance
+96% of current sales come from products in these categories:
+Wireless In-Ear Headphones
+High-End Gaming Monitors
+Lighterweight Laptops
+DotDash should expand its product catalog to offer similar, in-class products. Doing so will improve sales performance and brand reach.
 
 
+- **Yearly summary:** From 2019 to 2022, average number of sales per year was 27K, with average yearly sale revenue of $7M and average order value of $254. 2021 saw the highest number of sales (36K), but 2020 had on average the most expensive sales (AOV of $300).
+- **Growth rates:** 2020 had by far the highest growth rate, with more than double the number of sales and the total sales revenue than 2019. On average, 2020 sales were also 31% more expensive than 2019 sales. While 2021 exhibited positive growth in the number of sales, total sales revenue went down, as people purchased items that were an average of 15% less expensive than in 2021.
+
+  
 
 
 #### Seasonality
@@ -59,6 +69,11 @@ After filtering for countries with 100 or more orders, there are 12 countries wi
 <img width="206" alt="Average Order Value by Location" src="https://github.com/user-attachments/assets/47e8fdad-a042-431e-9140-3c4c33841ad5">
 <img width="1000" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
 
+Global Presence
+Knowing 85% orders and sales come from 17 countries, DotDash should concentrate marketing efforts on maintaining market penetration in these countries in the short-term. To create growth opportunities over the longer term, DotDash should create a project to identify 'similar' countries, to its top performers.
+
+It is also in DotDash's best interest to prioritize experimenting in the APAC region. Even though this region accounts for 12% of sales, it has the highest AOV. Pairing that with an understanding that consumer tendencies in this region are to purchase higher-priced "status symbols", efforts to penetrate this market should provide a significant boost in sales.
+
 
 
 #### Loyalty Program
@@ -68,6 +83,24 @@ After filtering for countries with 100 or more orders, there are 12 countries wi
 The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers.
 
 
+Loyalty Program recommendations
+There is a cause for concern that should be noted and monitored for a set amount of time before decisions to continue or cut the program are made.
+
+From Sep through Dec ‘22, non-loyalty customer sales, aov and order count has surpassed the metrics of loyalty customers. This is the first time since Dec ‘20 order count of non-loyalty customers has exceeded that of loyalty customers.
+Until these most recent micro trends, there has been evidence to support the loyalty program as a key way to maintaining captured value, given DotDash's overall sales have been declining since ‘20.
+Due to this concerning recent trend in the loyalty program, DotDash should cut affiliate channel marketing efforts and focus efforts on reaching customers through the direct and email channels. These channels have led to the most signups and have a significant signup rate:
+
+Direct Marketing Channel: 40% signup rate | 23.5K signups
+Email Marketing Channel: 59% signup rate | 8K signups
+
+
+Should we keep using the loyalty program?
+
+- **Findings:** During 2019 and 2020, loyalty program customers made fewer purchases than non-loyalty program customers, and their purchases were less expensive than non-loyalty customers. However, in more recent years (2021-2022), loyalty customers not only made more purchases than non-loyalty customers, but also purchased about $30 more on average in 2022.
+- **Recommendation:** Considering the fact that in recent years, loyalty customers are not only making more purchases but also more expensive purchases than non-loyalty customers, we would recommend continuing with the loyalty program.
+
+
+  
 #### Marketing Channels
 
 <img width="500" alt="Marketing Channels" src="https://github.com/user-attachments/assets/29e9d65c-0c5b-49b1-ab13-c7c04253750a">
@@ -78,6 +111,17 @@ The direct marketing channel has the highest number of loyalty participants: 32.
 The direct marketing channel has been the most successful for the number of orders each year. However, the affiliate marketing channel has steadily had the highest average order value each year and should be pursued further. Email marketing channel has consistently had the lowest number of orders and average order value, so less marketing should be spent here.
 
 Need to identify the marketing channels for 85 unknown and 1387 blank customers.
+
+Recommendations
+The team provides the following recommendations:
+
+Prioritize marketing incentives on high-performing items like the Apple AirPods Headphones and 27in 4K Gaming Monitor.
+Work with the products team to investigate the poor product performance of the Bose Soundsport Headphones and identify a replacement.
+Incentivize email marketing channels to increase customer loyalty signup rate.
+Continue the loyalty program and work with data analyst teams to monitor yearly growth and revenue.
+Work with the products team to investigate the high refund rates of the ThinkPad Laptop and Macbook Air Laptop while improving product descriptions and photos.
+
+
 
 
 #### Refund Rates
@@ -105,69 +149,6 @@ Both the mobile app and the website saw a significant increase in total sales an
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## Recommendations
-
-#### Loyalty Program recommendations
-There is a cause for concern that should be noted and monitored for a set amount of time before decisions to continue or cut the program are made.
-
-From Sep through Dec ‘22, non-loyalty customer sales, aov and order count has surpassed the metrics of loyalty customers. This is the first time since Dec ‘20 order count of non-loyalty customers has exceeded that of loyalty customers.
-Until these most recent micro trends, there has been evidence to support the loyalty program as a key way to maintaining captured value, given DotDash's overall sales have been declining since ‘20.
-Due to this concerning recent trend in the loyalty program, DotDash should cut affiliate channel marketing efforts and focus efforts on reaching customers through the direct and email channels. These channels have led to the most signups and have a significant signup rate:
-
-Direct Marketing Channel: 40% signup rate | 23.5K signups
-Email Marketing Channel: 59% signup rate | 8K signups
-
-
-#### Product Performance
-96% of current sales come from products in these categories:
-Wireless In-Ear Headphones
-High-End Gaming Monitors
-Lighterweight Laptops
-DotDash should expand its product catalog to offer similar, in-class products. Doing so will improve sales performance and brand reach.
-
-#### Global Presence
-Knowing 85% orders and sales come from 17 countries, DotDash should concentrate marketing efforts on maintaining market penetration in these countries in the short-term. To create growth opportunities over the longer term, DotDash should create a project to identify 'similar' countries, to its top performers.
-
-It is also in DotDash's best interest to prioritize experimenting in the APAC region. Even though this region accounts for 12% of sales, it has the highest AOV. Pairing that with an understanding that consumer tendencies in this region are to purchase higher-priced "status symbols", efforts to penetrate this market should provide a significant boost in sales.
-
-#### Loyalty Program
-There is a cause for concern that should be noted and monitored for a set amount of time before decisions to continue or cut the program are made.
-
-From Sep through Dec ‘22, non-loyalty customer sales, aov and order count has surpassed the metrics of loyalty customers. This is the first time since Dec ‘20 order count of non-loyalty customers has exceeded that of loyalty customers.
-Until these most recent micro trends, there has been evidence to support the loyalty program as a key way to maintaining captured value, given DotDash's overall sales have been declining since ‘20.
-Due to this concerning recent trend in the loyalty program, DotDash should cut affiliate channel marketing efforts and focus efforts on reaching customers through the direct and email channels. These channels have led to the most signups and have a significant signup rate:
-
-Direct Marketing Channel: 40% signup rate | 23.5K signups
-Email Marketing Channel: 59% signup rate | 8K signups
-
-#### Should we keep using the loyalty program?
-
-- **Findings:** During 2019 and 2020, loyalty program customers made fewer purchases than non-loyalty program customers, and their purchases were less expensive than non-loyalty customers. However, in more recent years (2021-2022), loyalty customers not only made more purchases than non-loyalty customers, but also purchased about $30 more on average in 2022.
-- **Recommendation:** Considering the fact that in recent years, loyalty customers are not only making more purchases but also more expensive purchases than non-loyalty customers, we would recommend continuing with the loyalty program.
-
-
-
-Recommendations
-The team provides the following recommendations:
-
-Prioritize marketing incentives on high-performing items like the Apple AirPods Headphones and 27in 4K Gaming Monitor.
-Work with the products team to investigate the poor product performance of the Bose Soundsport Headphones and identify a replacement.
-Incentivize email marketing channels to increase customer loyalty signup rate.
-Continue the loyalty program and work with data analyst teams to monitor yearly growth and revenue.
-Work with the products team to investigate the high refund rates of the ThinkPad Laptop and Macbook Air Laptop while improving product descriptions and photos.
-
-
-
-#### What were the overall trends?
-
-- **Yearly summary:** From 2019 to 2022, average number of sales per year was 27K, with average yearly sale revenue of $7M and average order value of $254. 2021 saw the highest number of sales (36K), but 2020 had on average the most expensive sales (AOV of $300).
-- **Growth rates:** 2020 had by far the highest growth rate, with more than double the number of sales and the total sales revenue than 2019. On average, 2020 sales were also 31% more expensive than 2019 sales. While 2021 exhibited positive growth in the number of sales, total sales revenue went down, as people purchased items that were an average of 15% less expensive than in 2021.
 
 
 ## ERD
