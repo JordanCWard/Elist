@@ -1,9 +1,54 @@
-#### add to sales trends
-#### clean up 
+## to do
+
+#### sales trends
+- add more info about trends
+- clean up findings, shorten it
+- write recommendation
+
+#### product performance
+- clean up findings, shorten it
+- write recommendation
+
+#### global reach
+- clean up findings
+- write recommendation
+
+#### loyalty program
+- clean up findings
+- write recommendation
+
+#### marketing channels
+- clean up findings
+- write recommendation
+
+#### refund rates
+- rewrite findings to be more beneficial for stakeholders
+- clean up recommendation
+
+#### purchasing platform
+- rewrite findings to be more beneficial for stakeholders
+- clean up recommendation
+
+#### operational effectiveness
+- add more info about effectiveness
+- write recommendation
+
 #### graphs/tables
 - include various types
 - don't repeat too often
 - standardize colors, fonts, borders
+- put them before or after info?
+
+#### rewrite current list of topics/titles better
+
+#### fix sizing of headers
+
+#### clean up excel file
+
+
+
+
+
 
 
 # <p align="center"> Elist Sales Analysis </p>
