@@ -1,12 +1,12 @@
 # <p align="center"> Elist Sales Analysis </p>
 
-#### Overview
+### Overview
 
 Elist, established in 2018, is an e-commerce business specializing in popular electronics. Initially focused on the local market, Elist has grown to serve customers worldwide. Their products are available for purchase through both their website and mobile app. To engage their audience, they utilize various marketing strategies such as email marketing, SEO tactics, and affiliate programs. Among their top-selling items are electronics from major brands like Apple, Samsung, and ThinkPad.
 
 The company has vast amounts of data on its (fill in topics). This data, previously underutilised, is now being thoroughly analysed to uncover critical insights aimed at enhancing their commercial performance. The project provides insights and recommendations on the following key areas:
 
-# Current list of topics
+### Current list of topics
 - Product Performance
 - Global Reach
 - Loyalty Program
@@ -14,18 +14,18 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - Refund Rates
 - Purchase Platform
 
-# Should I include these topics? Exclude some topics?
+### Should I include these topics? Exclude some topics?
 - Sales Trends - Focused on Revenue, Orders Placed, and Average Order Value (AOV).
 - Product Performance - An analysis of different product lines and their market impact.
 - Loyalty Programme Performance - Assessment of the loyalty programme's effectiveness and its future.
 - Operational Effectiveness - Evaluation of logistics and operational efficiency.
 - Marketing Channel Effectiveness - Analysis of various marketing channels and their return on investment.
 
-# The SQL queries performed to uncover these general insights are found here.
+### The SQL queries performed to uncover these general insights are found here.
 
-# Targeted SQL queries relating to these categories can also be found here.
+### Targeted SQL queries relating to these categories can also be found here.
 
-# Tableau dashboard can be found here.
+### Tableau dashboard can be found here.
 
 
 <br>
