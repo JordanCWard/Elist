@@ -1,54 +1,6 @@
 ## Add questions from talking on saturday morning
 
 
-This is all the analysis so far, weave into overarching story that I'm telling
-
-Apple Airpods are Elist's most popular product by order count
-27in 4K Gaming Monitor is Elist's top revenue generating product
-Gaming Monitor, Apple Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue
-prioritize the marketing of these 4 products
-
-significant percentage of orders of the Samsung Charging Cable Pack (20%)
-product generates 2% of total sales and an opportunity to capture more value
-
-holiday sales surge each year in sales growth rate in November (18%) and December (23%)
-decrease following in January (-10%) and February (-25%)
-rebound in March (18%)
-October requires more insight analysis into whether something can be done to improve sales
-
-195 countries
-US drives by far the most sales with 47% of total sales
-top 12 countries drive 80% of total sales
-12 countries with an average order value above $300
-
-loyalty program rollout in 2019, significant customer adoption did not occur until the beginning of 2021
-Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021
-trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers
-
-direct marketing channel highest number of loyalty participants: 32.9K signups (39% signup rate)
-email marketing channel highest average signup rate: 58% signup rate (~10.8K signups)
-affiliate marketing channel lowest average signup rate: 16% signup rate (~500 signups)
-direct marketing channel most successful for number of orders each year
-affiliate marketing channel highest average order value each year
-Email marketing channel lowest number of orders and average order value
-
-Need to identify the marketing channels for 85 unknown and 1387 blank customers.
-
-ThinkPad Laptop (12%) and Macbook Air Laptop (11%) highest refund rates
-Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) highest number of refunds
-
-Both the mobile app and the website significant increase in total sales and orders in 2020
-mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%
-mobile app orders came from the Samsung Charging Cable Pack (351% increase) and the Samsung Webcam (128% increase)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 # <p align="center"> Elist Sales Analysis </p>
 Elist, established in 2018, is an e-commerce business specializing in popular electronics. Initially focused on the local market, Elist has grown to serve customers worldwide. Their products are available for purchase through both their website and mobile app. To engage their audience, they utilize various marketing strategies such as email marketing, SEO tactics, and affiliate programs. Among their top-selling items are electronics from major brands like Apple, Samsung, and ThinkPad.
 
