@@ -1,3 +1,11 @@
+#### add to sales trends
+#### clean up 
+#### graphs/tables
+- include various types
+- don't repeat too often
+- standardize colors, fonts, borders
+
+
 # <p align="center"> Elist Sales Analysis </p>
 
 ### Overview
@@ -7,20 +15,14 @@ Elist, established in 2018, is an e-commerce business specializing in popular el
 The company has vast amounts of data on its (fill in topics). This data, previously underutilised, is now being thoroughly analysed to uncover critical insights aimed at enhancing their commercial performance. The project provides insights and recommendations on the following key areas:
 
 ### Current list of topics
-- Sales Trends: Focused on Revenue, Orders Placed, and Average Order Value (AOV).
-- Product Performance
-- Global Reach
-- Loyalty Program
-- Marketing Channels
-- Refund Rates
-- Purchasing Platform
-
-### Should I include these topics? Exclude some topics?
-- Sales Trends - Focused on Revenue, Orders Placed, and Average Order Value (AOV).
-- Product Performance - An analysis of different product lines and their market impact.
-- Loyalty Programme Performance - Assessment of the loyalty programme's effectiveness and its future.
-- Operational Effectiveness - Evaluation of logistics and operational efficiency.
-- Marketing Channel Effectiveness - Analysis of various marketing channels and their return on investment.
+- Sales Trends: Focused on ____ (Focused on Revenue, Orders Placed, and Average Order Value (AOV).)
+- Product Performance: Focused on ____ (An analysis of different product lines and their market impact.)
+- Global Reach: Focused on ____
+- Loyalty Program: Focused on ____ (Loyalty Programme Performance - Assessment of the loyalty programme's effectiveness and its future.)
+- Marketing Channels: Focused on ____ (Marketing Channel Effectiveness - Analysis of various marketing channels and their return on investment.)
+- Purchasing Platform: Focused on ____
+- Refund Rates: Focused on ____
+- Operational Effectiveness: Focused on ____ (Evaluation of logistics and operational efficiency.)
 
 ### The SQL queries performed to uncover these general insights are found here.
 
@@ -37,6 +39,8 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 
 #### Sales Trends
+
+Add more info about trends, this is just about seasonality
 
 - **Findings:** Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
 
@@ -168,9 +172,10 @@ Work with the products team to investigate the high refund rates of the ThinkPad
 <img width="501" alt="Mobile App" src="https://github.com/user-attachments/assets/a4d961ad-6a5b-4ee4-a052-4f069a3f6ff5">
 
 
+#### Operational Effectiveness
 
-
-
+The general average time to ship (3 days) and deliver (14 days) across all regions has remained extremely consistent since 2019. However, without proper benchmarks it is unclear whether these figures fare well against competitors.
+Loyalty members do not appear to receive faster delivery times, with time to deliver being equal with non-members (14 days).
 
 
 
