@@ -1,5 +1,8 @@
 ## to do
 
+<br>
+<br>
+
 #### sales trends
 - add more info about trends
 - clean up findings, shorten it
