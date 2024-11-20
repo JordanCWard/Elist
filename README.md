@@ -6,6 +6,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 #### sales trends
 - add more info about trends
