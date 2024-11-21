@@ -124,6 +124,7 @@ Average order value (AOV) and percentage of total sales have little to note sinc
 <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
 <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/29957c3b-ee26-452a-b163-983c28180cc0">
 <img width="500" alt="Sales by Month" src="https://github.com/user-attachments/assets/b7d45180-9743-42c2-b1c2-00047c63bd2d">
+<img width="500" alt="Total Sales - 3 Month Moving Average" src="https://github.com/user-attachments/assets/e6ed8f17-b0c1-4d31-a090-7ef80e5b588b">
 
 
 
