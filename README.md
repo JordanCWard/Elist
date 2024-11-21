@@ -10,12 +10,6 @@
 <br>
 
 #### sales trends
-- add more info about trends
-- - monthly sales trends
-  - yearly sales trends
-- heatmap for seasonality
-- trend() function to project future sales based on historical trends
-- moving averages
 - exponential smoothing (excel's built-in forecast sheet feature)
 - regression analysis: Add sales as a dependent variable and time as an independent variable, then use Excel's Data Analysis tool to run a regression.
 - Use Excel's Forecast.Linear or Forecast.ETS functions for basic predictive modeling.
@@ -123,6 +117,7 @@ Average order value (AOV) and percentage of total sales have little to note sinc
 
 <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
 <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/29957c3b-ee26-452a-b163-983c28180cc0">
+
 <img width="500" alt="Total Sales - 3 Month Moving Average" src="https://github.com/user-attachments/assets/e6ed8f17-b0c1-4d31-a090-7ef80e5b588b">
 
 
