@@ -11,6 +11,19 @@
 
 #### sales trends
 - add more info about trends
+- - monthly sales trends
+  - yearly sales trends
+- heatmap for seasonality
+- trend() function to project future sales based on historical trends
+- moving averages
+- exponential smoothing (excel's built-in forecast sheet feature)
+- regression analysis: Add sales as a dependent variable and time as an independent variable, then use Excel's Data Analysis tool to run a regression.
+- Use Excel's Forecast.Linear or Forecast.ETS functions for basic predictive modeling.
+- Build a simple linear regression model to predict sales:
+- X-axis: Time (e.g., months).
+- Y-axis: Sales (total sales or per product).
+- Incorporate other variables:
+- Include external factors like shipping times, product category trends, etc., if possible.
 - clean up findings, shorten it
 - write recommendation
 
@@ -37,6 +50,10 @@
 #### purchasing platform
 - rewrite findings to be more beneficial for stakeholders
 - clean up recommendation
+
+#### Time to deliver
+- are there any trends
+- trends with refunds vs non-refunds?
 
 #### operational effectiveness
 - add more info about effectiveness
@@ -106,6 +123,23 @@ Average order value (AOV) and percentage of total sales have little to note sinc
 
 <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
 <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/29957c3b-ee26-452a-b163-983c28180cc0">
+<img width="500" alt="Sales by Month" src="https://github.com/user-attachments/assets/b7d45180-9743-42c2-b1c2-00047c63bd2d">
+
+
+
+Yearly trends: Between 2019 and 2022, the total revenue exceeded $28 million over 100K orders with an AOV of $260. In particular, 2020 saw the highest growth across the board along with the greatest revenue ($10.2 million) and highest AOV ($300), potentially related to increased pandemic spending. Meanwhile, 2021 saw the highest number of orders (36K).
+
+Revenue, Orders Placed, and Average Order Value (AOV).)
+
+
+
+
+
+
+
+
+
+
 
 
 
