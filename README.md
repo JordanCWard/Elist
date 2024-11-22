@@ -132,28 +132,18 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 ### Product Performance
 
-- **Findings:**
-
-Apple Airpods are Elist's most popular product by order count, comprising 45% of all orders (48K+). The 27in 4K Gaming Monitor is Elist's top revenue generating product, generating almost $10M (35% of total sales). The Gaming Monitor, Apple Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue. Elitch should prioritize the marketing of these 4 products over the rest of its current catalog to maintain market presence.
-
-Of importance to note, Elist sees a significant percentage of orders of the Samsung Charging Cable Pack (20%). This product generates 2% of total sales and an opportunity to capture more value by either increasing the price or offering a bundle version of this product exists.
-
-Product Performance
-96% of current sales come from products in these categories:
-Wireless In-Ear Headphones
-High-End Gaming Monitors
-Lighterweight Laptops
-DotDash should expand its product catalog to offer similar, in-class products. Doing so will improve sales performance and brand reach.
-
-- **Yearly summary:** From 2019 to 2022, average number of sales per year was 27K, with average yearly sale revenue of $7M and average order value of $254. 2021 saw the highest number of sales (36K), but 2020 had on average the most expensive sales (AOV of $300).
-- **Growth rates:** 2020 had by far the highest growth rate, with more than double the number of sales and the total sales revenue than 2019. On average, 2020 sales were also 31% more expensive than 2019 sales. While 2021 exhibited positive growth in the number of sales, total sales revenue went down, as people purchased items that were an average of 15% less expensive than in 2021.
-
-
-- **Recommendation:** ghjghh
-  
-
 <img width="500" alt="Product Sales Graph" src="https://github.com/user-attachments/assets/53c4f5dd-2e01-4219-9175-327cf63a8235">
 <img width="500" alt="Product Sales Table" src="https://github.com/user-attachments/assets/75100b5a-31e7-4fb0-887e-f29a724896d1">
+
+- **Findings:**
+- Popular Products by Order Volume: Apple AirPods are Elist's most popular product, accounting for 45% of all orders (48,000+ units).
+- Top Revenue Generator: The 27-inch 4K Gaming Monitor is Elist's highest revenue-generating product, contributing nearly $10 million (35% of total sales).
+- Key Revenue Drivers: Four products—Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of Elist's total revenue.
+- Samsung Charging Cable Pack: This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
+
+- **Recommendation:** 
+- Expand Product Catalog: To diversify revenue streams, Elist should consider adding more products in the same categories as its top performers, focusing on in-class alternatives.
+- Optimize Samsung Charging Cable Pack Strategy: Increase profitability by exploring price adjustments or introducing a bundled version of the product to capture additional value.
 
 
 
