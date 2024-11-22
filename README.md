@@ -18,9 +18,6 @@ Excel's Data Analysis tool
 - X-axis: Time (e.g., months).
 - Y-axis: Sales (total sales or per product).
 
-#### product performance
-- clean up findings, shorten it
-- write recommendation
 
 #### global reach
 - clean up findings
@@ -120,7 +117,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 - Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
 
-**Recommendations:** 
+**Recommendations:**
 
 - Maximize November and December Promotions: Expand marketing campaigns starting in early November to capitalize on the surge in sales growth (18% in November and 23% in December). Highlight exclusive deals, limited-time offers, and bundle packages to drive urgency and boost AOV.
 - Retain Post-Holiday Shoppers: Offer “New Year” incentives in January to mitigate the 10% sales decline, such as discount codes for future purchases or post-holiday clearance sales.
@@ -135,13 +132,13 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="500" alt="Product Sales Graph" src="https://github.com/user-attachments/assets/53c4f5dd-2e01-4219-9175-327cf63a8235">
 <img width="500" alt="Product Sales Table" src="https://github.com/user-attachments/assets/75100b5a-31e7-4fb0-887e-f29a724896d1">
 
-- **Findings:**
+**Findings:**
 - Popular Products by Order Volume: Apple AirPods are Elist's most popular product, accounting for 45% of all orders (48,000+ units).
 - Top Revenue Generator: The 27-inch 4K Gaming Monitor is Elist's highest revenue-generating product, contributing nearly $10 million (35% of total sales).
 - Key Revenue Drivers: Four products—Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of Elist's total revenue.
 - Samsung Charging Cable Pack: This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
 
-- **Recommendation:** 
+**Recommendation:** 
 - Expand Product Catalog: To diversify revenue streams, Elist should consider adding more products in the same categories as its top performers, focusing on in-class alternatives.
 - Optimize Samsung Charging Cable Pack Strategy: Increase profitability by exploring price adjustments or introducing a bundled version of the product to capture additional value.
 
