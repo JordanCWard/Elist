@@ -148,14 +148,15 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 ### Global Reach
 
 <img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/9d40231b-97f8-42b2-b947-093f20e18e8c">
-<img width="341" alt="Average Order Value by Location" src="https://github.com/user-attachments/assets/b4a5f655-87bd-4760-8ab1-262f2d566e2a">
+<img width="337" alt="Average Order Value by Location" src="https://github.com/user-attachments/assets/cdf35e3f-4fa7-4159-b17c-1f041267f8db">
 <img width="1000" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
 
 - **Findings:**
 
 Elist had customers place orders from 195 countries. The US drives by far the most sales with 47% of total sales. The top 12 countries drive 80% of total sales. Maintaining strong presences in these countires should be a top priority, especially as Elist angles to maintain some of the excess value captured from 2020. Further, it would serve Elist well to identify similarities between countries because this analysis can be used to identify new market opportunities.
 
-After filtering for countries with 100 or more orders, there are 12 countries with an average order value above $300. Thus suggesting experimentation with efforts to increase brand reach within these countries may drive future sales growth.
+After filtering for countries with 100 or more orders, there are 12 countries with an average order value above $300. These countries account
+Thus suggesting experimentation with efforts to increase brand reach within these countries may drive future sales growth.
 
 It is also in Elist's best interest to prioritize experimenting in the APAC region. Even though this region accounts for 12% of sales, it has the highest AOV. Pairing that with an understanding that consumer tendencies in this region are to purchase higher-priced "status symbols", efforts to penetrate this market should provide a significant boost in sales.
 
