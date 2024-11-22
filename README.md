@@ -85,19 +85,17 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - Refund Rates: Focused on ____
 - Operational Effectiveness: Focused on ____ (Evaluation of logistics and operational efficiency.)
 
-### The SQL queries performed to uncover these general insights are found here.
+- The SQL queries performed to uncover these general insights are found here.
 
-### Targeted SQL queries relating to these categories can also be found here.
+- Targeted SQL queries relating to these categories can also be found here.
 
-### Tableau dashboard can be found here.
+- Tableau dashboard can be found here.
 
 
-<br>
-<br>
+
 
 
 ### <p align="center"> Deep-Dive Insights </p>
-
 
 
 ### Sales Trends
@@ -109,13 +107,13 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="500" alt="Total Sales - 3 Month Moving Average" src="https://github.com/user-attachments/assets/e6ed8f17-b0c1-4d31-a090-7ef80e5b588b">
 <img width="216" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
 
-<br>
 
 **Findings:**
 
 - Between 2019 and 2022, the total revenue exceeded $28 million over 100K orders with an AOV of $260. In particular, 2020 saw the highest growth across the board along with the greatest revenue ($10.2 million) and highest AOV ($300), potentially related to increased pandemic spending. Meanwhile, 2021 saw the highest number of orders (36K).
 
 - Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
+
 
 **Recommendations:**
 
@@ -147,24 +145,25 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 
 
-#### Global Reach
+### Global Reach
+
+<img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/9d40231b-97f8-42b2-b947-093f20e18e8c">
+<img width="341" alt="Average Order Value by Location" src="https://github.com/user-attachments/assets/b4a5f655-87bd-4760-8ab1-262f2d566e2a">
+<img width="1000" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
 
 - **Findings:**
-Elist had customers place orders from 195 countries. The US drives by far the most sales with 47% of total sales. If we expand further, the top 12 countries drive 80% of total sales (shown below). Maintaining strong presences in these countires should be a top priority, especially as Elist angles to maintain some of the excess value captured from 2020. Further, it would serve Elist well to identify similarities between countries because this analysis can be used to identify new market opportunities.
+
+Elist had customers place orders from 195 countries. The US drives by far the most sales with 47% of total sales. The top 12 countries drive 80% of total sales. Maintaining strong presences in these countires should be a top priority, especially as Elist angles to maintain some of the excess value captured from 2020. Further, it would serve Elist well to identify similarities between countries because this analysis can be used to identify new market opportunities.
 
 After filtering for countries with 100 or more orders, there are 12 countries with an average order value above $300. Thus suggesting experimentation with efforts to increase brand reach within these countries may drive future sales growth.
 
-Global Presence
-Knowing 85% orders and sales come from 17 countries, DotDash should concentrate marketing efforts on maintaining market penetration in these countries in the short-term. To create growth opportunities over the longer term, DotDash should create a project to identify 'similar' countries, to its top performers.
+It is also in Elist's best interest to prioritize experimenting in the APAC region. Even though this region accounts for 12% of sales, it has the highest AOV. Pairing that with an understanding that consumer tendencies in this region are to purchase higher-priced "status symbols", efforts to penetrate this market should provide a significant boost in sales.
 
-It is also in DotDash's best interest to prioritize experimenting in the APAC region. Even though this region accounts for 12% of sales, it has the highest AOV. Pairing that with an understanding that consumer tendencies in this region are to purchase higher-priced "status symbols", efforts to penetrate this market should provide a significant boost in sales.
-
-- **Recommendation:** ghjghh
+- **Recommendation:**
 
 
-<img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/9d40231b-97f8-42b2-b947-093f20e18e8c">
-<img width="206" alt="Average Order Value by Location" src="https://github.com/user-attachments/assets/47e8fdad-a042-431e-9140-3c4c33841ad5">
-<img width="1000" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
+
+
 
 
 #### Loyalty Program
