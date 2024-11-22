@@ -107,22 +107,16 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="500" alt="Total Sales - 3 Month Moving Average" src="https://github.com/user-attachments/assets/e6ed8f17-b0c1-4d31-a090-7ef80e5b588b">
 <img width="216" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
 
-
 **Findings:**
-
-- Between 2019 and 2022, the total revenue exceeded $28 million over 100K orders with an AOV of $260. In particular, 2020 saw the highest growth across the board along with the greatest revenue ($10.2 million) and highest AOV ($300), potentially related to increased pandemic spending. Meanwhile, 2021 saw the highest number of orders (36K).
-
-- Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
-
+- Revenue and Order Trends: Between 2019 and 2022, Elist generated over $28 million in revenue from more than 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely due to increased pandemic-related spending. In contrast, 2021 recorded the highest number of orders (36,000).
+- Seasonal Sales Patterns: Elist experiences a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
+- Consumer Behavior Insights: The sales pattern aligns with typical electronics seasonality, with holiday promotions influencing consumer purchasing decisions. October’s lower activity highlights a potential opportunity to better engage customers before the holiday season.
 
 **Recommendations:**
-
 - Maximize November and December Promotions: Expand marketing campaigns starting in early November to capitalize on the surge in sales growth (18% in November and 23% in December). Highlight exclusive deals, limited-time offers, and bundle packages to drive urgency and boost AOV.
 - Retain Post-Holiday Shoppers: Offer “New Year” incentives in January to mitigate the 10% sales decline, such as discount codes for future purchases or post-holiday clearance sales.
 - Optimize for March Rebound: Prepare a focused campaign to harness the 18% sales rebound in March, potentially targeting customers who paused spending after the holiday season. Promote spring deals or “fresh start” themes tied to new product launches or upgrades.
 - Investigate Drop-off Causes: Conduct customer surveys and study competitor trends to understand consumer behavior in October and other slower months. Test incentives (e.g., early-bird discounts, pre-holiday bundles) to encourage purchases before the “deal season” begins in November.
-
-
 
 
 ### Product Performance
@@ -136,13 +130,9 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - Key Revenue Drivers: Four products—Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of Elist's total revenue.
 - Samsung Charging Cable Pack: This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
 
-**Recommendation:** 
+**Recommendations:** 
 - Expand Product Catalog: To diversify revenue streams, Elist should consider adding more products in the same categories as its top performers, focusing on in-class alternatives.
 - Optimize Samsung Charging Cable Pack Strategy: Increase profitability by exploring price adjustments or introducing a bundled version of the product to capture additional value.
-
-
-
-
 
 
 ### Global Reach
@@ -152,16 +142,14 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="1000" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
 
 - **Findings:**
+- Global Reach: Elist customers placed orders from 195 countries, with the United States contributing 47% of total sales.
+- Concentration of Sales: The top 12 countries account for 80% of Elist's total sales, highlighting the importance of maintaining a strong presence in these markets.
+- High-AOV Countries: After filtering for countries with 100 or more orders, 12 countries show an average order value (AOV) above $300. These countries represent 8% of total orders and 10% of total sales.
 
-Elist had customers place orders from 195 countries. The US drives by far the most sales with 47% of total sales. The top 12 countries drive 80% of total sales. Maintaining strong presences in these countires should be a top priority, especially as Elist angles to maintain some of the excess value captured from 2020. Further, it would serve Elist well to identify similarities between countries because this analysis can be used to identify new market opportunities.
-
-After filtering for countries with 100 or more orders, there are 12 countries with an average order value above $300. These countries account
-Thus suggesting experimentation with efforts to increase brand reach within these countries may drive future sales growth.
-
-It is also in Elist's best interest to prioritize experimenting in the APAC region. Even though this region accounts for 12% of sales, it has the highest AOV. Pairing that with an understanding that consumer tendencies in this region are to purchase higher-priced "status symbols", efforts to penetrate this market should provide a significant boost in sales.
-
-- **Recommendation:**
-
+- **Recommendations:**
+- Prioritize Top Markets: Continue to focus on the top 12 countries driving 80% of sales, ensuring a strong presence and tailored strategies to maintain momentum, particularly in capturing retained value from 2020.
+- Explore High-AOV Markets: Develop targeted efforts to penetrate the 12 high-AOV countries, leveraging consumer preferences for premium products to drive significant sales growth.
+- Market Analysis for Expansion: Conduct in-depth analysis to identify similarities among countries, using these insights to pinpoint new market opportunities and refine global expansion strategies.
 
 
 
