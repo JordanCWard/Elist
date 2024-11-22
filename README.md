@@ -131,7 +131,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 <img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/9d40231b-97f8-42b2-b947-093f20e18e8c">
 <img width="337" alt="Average Order Value by Location" src="https://github.com/user-attachments/assets/cdf35e3f-4fa7-4159-b17c-1f041267f8db">
-<img width="1000" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
+<img width="400" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
 
 #### Findings:
 - **Global Reach:** Elist customers placed orders from 195 countries, with the United States contributing 47% of total sales.
@@ -146,9 +146,9 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Loyalty Program
 
-<img width="800" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/f43730e3-d160-435b-b393-a25c0ddb9bb9">
-<img width="800" alt="Loyalty vs Non-Loyalty Orders" src="https://github.com/user-attachments/assets/4431eae5-a2ef-4f1e-9c53-9015b7379c1f">
-<img width="800" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/c2753bc7-ab27-4424-a6e6-49a148a16780">
+<img width="400" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/f43730e3-d160-435b-b393-a25c0ddb9bb9">
+<img width="400" alt="Loyalty vs Non-Loyalty Orders" src="https://github.com/user-attachments/assets/4431eae5-a2ef-4f1e-9c53-9015b7379c1f">
+<img width="400" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/c2753bc7-ab27-4424-a6e6-49a148a16780">
 
 #### Findings:
 - **Loyalty Program Adoption and Performance:** The loyalty program, introduced in 2019, saw significant customer adoption beginning in early 2021. Since then, loyalty customers have consistently outperformed non-loyalty customers in sales and order count, a trend that has continued through 2022.
