@@ -19,14 +19,6 @@ Excel's Data Analysis tool
 - Y-axis: Sales (total sales or per product).
 
 
-#### global reach
-- clean up findings
-- write recommendation
-
-#### loyalty program
-- clean up findings
-- write recommendation
-
 #### marketing channels
 - clean up findings
 - write recommendation
@@ -107,16 +99,16 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="500" alt="Total Sales - 3 Month Moving Average" src="https://github.com/user-attachments/assets/e6ed8f17-b0c1-4d31-a090-7ef80e5b588b">
 <img width="216" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
 
-**Findings:**
-- Revenue and Order Trends: Between 2019 and 2022, Elist generated over $28 million in revenue from more than 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely due to increased pandemic-related spending. In contrast, 2021 recorded the highest number of orders (36,000).
-- Seasonal Sales Patterns: Elist experiences a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
-- Consumer Behavior Insights: The sales pattern aligns with typical electronics seasonality, with holiday promotions influencing consumer purchasing decisions. October’s lower activity highlights a potential opportunity to better engage customers before the holiday season.
+#### Findings:
+- **Revenue and Order Trends:** Between 2019 and 2022, Elist generated over $28 million in revenue from more than 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely due to increased pandemic-related spending. In contrast, 2021 recorded the highest number of orders (36,000).
+- **Seasonal Sales Patterns:** Elist experiences a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
+- **Consumer Behavior Insights:** The sales pattern aligns with typical electronics seasonality, with holiday promotions influencing consumer purchasing decisions. October’s lower activity highlights a potential opportunity to better engage customers before the holiday season.
 
-**Recommendations:**
-- Maximize November and December Promotions: Expand marketing campaigns starting in early November to capitalize on the surge in sales growth (18% in November and 23% in December). Highlight exclusive deals, limited-time offers, and bundle packages to drive urgency and boost AOV.
-- Retain Post-Holiday Shoppers: Offer “New Year” incentives in January to mitigate the 10% sales decline, such as discount codes for future purchases or post-holiday clearance sales.
-- Optimize for March Rebound: Prepare a focused campaign to harness the 18% sales rebound in March, potentially targeting customers who paused spending after the holiday season. Promote spring deals or “fresh start” themes tied to new product launches or upgrades.
-- Investigate Drop-off Causes: Conduct customer surveys and study competitor trends to understand consumer behavior in October and other slower months. Test incentives (e.g., early-bird discounts, pre-holiday bundles) to encourage purchases before the “deal season” begins in November.
+#### Recommendations:
+- **Maximize November and December Promotions:** Expand marketing campaigns starting in early November to capitalize on the surge in sales growth (18% in November and 23% in December). Highlight exclusive deals, limited-time offers, and bundle packages to drive urgency and boost AOV.
+- **Retain Post-Holiday Shoppers:** Offer “New Year” incentives in January to mitigate the 10% sales decline, such as discount codes for future purchases or post-holiday clearance sales.
+- **Optimize for March Rebound:** Prepare a focused campaign to harness the 18% sales rebound in March, potentially targeting customers who paused spending after the holiday season. Promote spring deals or “fresh start” themes tied to new product launches or upgrades.
+- **Investigate Drop-off Causes:** Conduct customer surveys and study competitor trends to understand consumer behavior in October and other slower months. Test incentives (e.g., early-bird discounts, pre-holiday bundles) to encourage purchases before the “deal season” begins in November.
 
 
 ### Product Performance
@@ -124,15 +116,15 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="500" alt="Product Sales Graph" src="https://github.com/user-attachments/assets/53c4f5dd-2e01-4219-9175-327cf63a8235">
 <img width="500" alt="Product Sales Table" src="https://github.com/user-attachments/assets/75100b5a-31e7-4fb0-887e-f29a724896d1">
 
-**Findings:**
-- Popular Products by Order Volume: Apple AirPods are Elist's most popular product, accounting for 45% of all orders (48,000+ units).
-- Top Revenue Generator: The 27-inch 4K Gaming Monitor is Elist's highest revenue-generating product, contributing nearly $10 million (35% of total sales).
-- Key Revenue Drivers: Four products—Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of Elist's total revenue.
-- Samsung Charging Cable Pack: This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
+#### Findings:
+- **Popular Products by Order Volume:** Apple AirPods are Elist's most popular product, accounting for 45% of all orders (48,000+ units).
+- **Top Revenue Generator:** The 27-inch 4K Gaming Monitor is Elist's highest revenue-generating product, contributing nearly $10 million (35% of total sales).
+- **Key Revenue Drivers:** Four products—Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of Elist's total revenue.
+- **Samsung Charging Cable Pack:** This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
 
-**Recommendations:** 
-- Expand Product Catalog: To diversify revenue streams, Elist should consider adding more products in the same categories as its top performers, focusing on in-class alternatives.
-- Optimize Samsung Charging Cable Pack Strategy: Increase profitability by exploring price adjustments or introducing a bundled version of the product to capture additional value.
+#### Recommendations:
+- **Expand Product Catalog:** To diversify revenue streams, Elist should consider adding more products in the same categories as its top performers, focusing on in-class alternatives.
+- **Optimize Samsung Charging Cable Pack Strategy:** Increase profitability by exploring price adjustments or introducing a bundled version of the product to capture additional value.
 
 
 ### Global Reach
@@ -141,42 +133,47 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="337" alt="Average Order Value by Location" src="https://github.com/user-attachments/assets/cdf35e3f-4fa7-4159-b17c-1f041267f8db">
 <img width="1000" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
 
-- **Findings:**
-- Global Reach: Elist customers placed orders from 195 countries, with the United States contributing 47% of total sales.
-- Concentration of Sales: The top 12 countries account for 80% of Elist's total sales, highlighting the importance of maintaining a strong presence in these markets.
-- High-AOV Countries: After filtering for countries with 100 or more orders, 12 countries show an average order value (AOV) above $300. These countries represent 8% of total orders and 10% of total sales.
+#### Findings:
+- **Global Reach:** Elist customers placed orders from 195 countries, with the United States contributing 47% of total sales.
+- **Concentration of Sales:** The top 12 countries account for 80% of Elist's total sales, highlighting the importance of maintaining a strong presence in these markets.
+- **High-AOV Countries:** After filtering for countries with 100 or more orders, 12 countries show an average order value (AOV) above $300. These countries represent 8% of total orders and 10% of total sales.
 
-- **Recommendations:**
-- Prioritize Top Markets: Continue to focus on the top 12 countries driving 80% of sales, ensuring a strong presence and tailored strategies to maintain momentum, particularly in capturing retained value from 2020.
-- Explore High-AOV Markets: Develop targeted efforts to penetrate the 12 high-AOV countries, leveraging consumer preferences for premium products to drive significant sales growth.
-- Market Analysis for Expansion: Conduct in-depth analysis to identify similarities among countries, using these insights to pinpoint new market opportunities and refine global expansion strategies.
-
-
-
+#### Recommendations:
+- **Prioritize Top Markets:** Continue to focus on the top 12 countries driving 80% of sales, ensuring a strong presence and tailored strategies to maintain momentum, particularly in capturing retained value from 2020.
+- **Explore High-AOV Markets:** Develop targeted efforts to penetrate the 12 high-AOV countries, leveraging consumer preferences for premium products to drive significant sales growth.
+- **Market Analysis for Expansion:** Conduct in-depth analysis to identify similarities among countries, using these insights to pinpoint new market opportunities and refine global expansion strategies.
 
 
 #### Loyalty Program
 
 <img width="800" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/f43730e3-d160-435b-b393-a25c0ddb9bb9">
+<img width="800" alt="Loyalty vs Non-Loyalty Orders" src="https://github.com/user-attachments/assets/4431eae5-a2ef-4f1e-9c53-9015b7379c1f">
+<img width="800" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/c2753bc7-ab27-4424-a6e6-49a148a16780">
 
-- **Findings:**
-The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers.
+#### Findings:
+- **Loyalty Program Adoption and Performance:** The loyalty program, introduced in 2019, saw significant customer adoption beginning in early 2021. Since then, loyalty customers have consistently outperformed non-loyalty customers in sales and order count, a trend that has continued through 2022.
+- **Higher AOV for Loyalty Customers:** In addition to higher order volumes, loyalty customers now have a greater average order value (AOV) compared to non-loyalty customers. This indicates that loyalty members are making not only more frequent purchases but also higher-value purchases.
+- **Forecasted Growth for Loyalty Sales:** Based on current trends, loyalty sales are expected to continue outpacing non-loyalty sales in the foreseeable future, highlighting the growing effectiveness of the program.
 
-From Sep through Dec ‘22, non-loyalty customer sales, aov and order count has surpassed the metrics of loyalty customers. This is the first time since Dec ‘20 order count of non-loyalty customers has exceeded that of loyalty customers.
-
-Until these most recent micro trends, there has been evidence to support the loyalty program as a key way to maintaining captured value, given DotDash's overall sales have been declining since ‘20.
-
-Due to this concerning recent trend in the loyalty program, DotDash should cut affiliate channel marketing efforts and focus efforts on reaching customers through the direct and email channels. These channels have led to the most signups and have a significant signup rate:
-
-Direct Marketing Channel: 40% signup rate | 23.5K signups
-Email Marketing Channel: 59% signup rate | 8K signups
-
-During 2019 and 2020, loyalty program customers made fewer purchases than non-loyalty program customers, and their purchases were less expensive than non-loyalty customers. However, in more recent years (2021-2022), loyalty customers not only made more purchases than non-loyalty customers, but also purchased about $30 more on average in 2022.
-
-- **Recommendation:** Considering the fact that in recent years, loyalty customers are not only making more purchases but also more expensive purchases than non-loyalty customers, we would recommend continuing with the loyalty program.
+#### Recommendations:
+- **Sustain and Expand the Loyalty Program:** Continue to invest in and refine the loyalty program to maintain its positive trajectory and further boost loyalty customer engagement and revenue.
+- **Increase Focus on Loyalty Customer Growth:** Prioritize initiatives that encourage more customers to join the loyalty program, leveraging its demonstrated ability to drive higher sales and order values.
+- **Monitor and Enhance Effectiveness:** Regularly analyze the differences between loyalty and non-loyalty customer behaviors to identify opportunities for targeted improvements in program offerings and incentives.
 
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Marketing Channels
 
 - **Findings:** The direct marketing channel has the highest number of loyalty participants: 32.9K signups (39% signup rate). The email marketing channel has the highest average signup rate: 58% signup rate (~10.8K signups). The affiliate marketing channel has the lowest average signup rate: 16% signup rate (~500 signups). Based on this information, more money should be spent on the email marketing channel and less spent on the affiliate marketing channel. Money should continue to be spent on the direct marketing channel even though the signup rate isn't the highest because the number of signups are still very high.
@@ -184,6 +181,11 @@ During 2019 and 2020, loyalty program customers made fewer purchases than non-lo
 The direct marketing channel has been the most successful for the number of orders each year. However, the affiliate marketing channel has steadily had the highest average order value each year and should be pursued further. Email marketing channel has consistently had the lowest number of orders and average order value, so less marketing should be spent here.
 
 Need to identify the marketing channels for 85 unknown and 1387 blank customers.
+
+Due to this concerning recent trend in the loyalty program, DotDash should cut affiliate channel marketing efforts and focus efforts on reaching customers through the direct and email channels. These channels have led to the most signups and have a significant signup rate:
+
+Direct Marketing Channel: 40% signup rate | 23.5K signups
+Email Marketing Channel: 59% signup rate | 8K signups
 
 - **Recommendation:** 
 Prioritize marketing incentives on high-performing items like the Apple AirPods Headphones and 27in 4K Gaming Monitor.
