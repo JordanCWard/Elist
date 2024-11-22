@@ -9,11 +9,6 @@
 <br>
 <br>
 
-#### sales trends
-- edit recommendations, choose 1 or 2
-
-
-
 #### Use this somewhere in the future sections
 regression analysis
 Excel's Data Analysis tool
