@@ -10,16 +10,19 @@
 <br>
 
 #### sales trends
-- exponential smoothing (excel's built-in forecast sheet feature)
-- regression analysis: Add sales as a dependent variable and time as an independent variable, then use Excel's Data Analysis tool to run a regression.
+- clean up findings, shorten it
+- write recommendation
+
+
+
+#### Use this somewhere in the future sections
+regression analysis
+Excel's Data Analysis tool
 - Use Excel's Forecast.Linear or Forecast.ETS functions for basic predictive modeling.
+
 - Build a simple linear regression model to predict sales:
 - X-axis: Time (e.g., months).
 - Y-axis: Sales (total sales or per product).
-- Incorporate other variables:
-- Include external factors like shipping times, product category trends, etc., if possible.
-- clean up findings, shorten it
-- write recommendation
 
 #### product performance
 - clean up findings, shorten it
@@ -47,6 +50,7 @@
 
 #### Time to deliver
 - are there any trends
+- shipping times
 - trends with refunds vs non-refunds?
 
 #### operational effectiveness
