@@ -110,7 +110,14 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Sales Trends
 
+Yearly trends: Between 2019 and 2022, the total revenue exceeded $28 million over 100K orders with an AOV of $260. In particular, 2020 saw the highest growth across the board along with the greatest revenue ($10.2 million) and highest AOV ($300), potentially related to increased pandemic spending. Meanwhile, 2021 saw the highest number of orders (36K).
+
+
 Add more info about trends, this is just about seasonality
+
+Sales have followed a trend where they averaged around $300k in 
+
+Revenue, Orders Placed, and Average Order Value (AOV).
 
 - **Findings:** Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
 
@@ -124,11 +131,12 @@ Average order value (AOV) and percentage of total sales have little to note sinc
 
 <img width="500" alt="Total Sales - 3 Month Moving Average" src="https://github.com/user-attachments/assets/e6ed8f17-b0c1-4d31-a090-7ef80e5b588b">
 
+<img width="216" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
 
 
-Yearly trends: Between 2019 and 2022, the total revenue exceeded $28 million over 100K orders with an AOV of $260. In particular, 2020 saw the highest growth across the board along with the greatest revenue ($10.2 million) and highest AOV ($300), potentially related to increased pandemic spending. Meanwhile, 2021 saw the highest number of orders (36K).
 
-Revenue, Orders Placed, and Average Order Value (AOV).)
+
+
 
 
 
