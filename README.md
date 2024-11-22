@@ -124,7 +124,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 - Maximize November and December Promotions: Expand marketing campaigns starting in early November to capitalize on the surge in sales growth (18% in November and 23% in December). Highlight exclusive deals, limited-time offers, and bundle packages to drive urgency and boost AOV.
 - Retain Post-Holiday Shoppers: Offer “New Year” incentives in January to mitigate the 10% sales decline, such as discount codes for future purchases or post-holiday clearance sales.
-- - Optimize for March Rebound: Prepare a focused campaign to harness the 18% sales rebound in March, potentially targeting customers who paused spending after the holiday season. Promote spring deals or “fresh start” themes tied to new product launches or upgrades.
+- Optimize for March Rebound: Prepare a focused campaign to harness the 18% sales rebound in March, potentially targeting customers who paused spending after the holiday season. Promote spring deals or “fresh start” themes tied to new product launches or upgrades.
 - Investigate Drop-off Causes: Conduct customer surveys and study competitor trends to understand consumer behavior in October and other slower months. Test incentives (e.g., early-bird discounts, pre-holiday bundles) to encourage purchases before the “deal season” begins in November.
 
 
