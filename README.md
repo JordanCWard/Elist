@@ -10,8 +10,7 @@
 <br>
 
 #### sales trends
-- clean up findings, shorten it
-- write recommendation
+- edit recommendations, choose 1 or 2
 
 
 
@@ -108,49 +107,35 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 ### <p align="center"> Deep-Dive Insights </p>
 
 
-#### Sales Trends
 
-Yearly trends: Between 2019 and 2022, the total revenue exceeded $28 million over 100K orders with an AOV of $260. In particular, 2020 saw the highest growth across the board along with the greatest revenue ($10.2 million) and highest AOV ($300), potentially related to increased pandemic spending. Meanwhile, 2021 saw the highest number of orders (36K).
+### Sales Trends
 
-
-Add more info about trends, this is just about seasonality
-
-Sales have followed a trend where they averaged around $300k in 
-
-Revenue, Orders Placed, and Average Order Value (AOV).
-
-- **Findings:** Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
-
-Average order value (AOV) and percentage of total sales have little to note since all months are very similar.
-
-- **Recommendation:** 
-
+- Remove Sales by Month and Growth Rates?
 
 <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
-<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/29957c3b-ee26-452a-b163-983c28180cc0">
-
+<img width="388" alt="Sales by Month and Growth Rates" src="https://github.com/user-attachments/assets/64ae9d32-2163-47e4-9987-9c3986daca0f">
 <img width="500" alt="Total Sales - 3 Month Moving Average" src="https://github.com/user-attachments/assets/e6ed8f17-b0c1-4d31-a090-7ef80e5b588b">
-
 <img width="216" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
 
+<br>
+
+**Findings:**
+
+- Between 2019 and 2022, the total revenue exceeded $28 million over 100K orders with an AOV of $260. In particular, 2020 saw the highest growth across the board along with the greatest revenue ($10.2 million) and highest AOV ($300), potentially related to increased pandemic spending. Meanwhile, 2021 saw the highest number of orders (36K).
+
+- Elist experiences a holiday sales surge each year in sales growth rate in November (18%) and December (23%), with a decrease following in January (-10%) and February (-25%) and a rebound in March (18%). While Elist's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere. October requires more insight analysis into whether something can be done to improve sales.
+
+**Recommendations:** 
+
+- Maximize November and December Promotions: Expand marketing campaigns starting in early November to capitalize on the surge in sales growth (18% in November and 23% in December). Highlight exclusive deals, limited-time offers, and bundle packages to drive urgency and boost AOV.
+- Retain Post-Holiday Shoppers: Offer “New Year” incentives in January to mitigate the 10% sales decline, such as discount codes for future purchases or post-holiday clearance sales.
+- - Optimize for March Rebound: Prepare a focused campaign to harness the 18% sales rebound in March, potentially targeting customers who paused spending after the holiday season. Promote spring deals or “fresh start” themes tied to new product launches or upgrades.
+- Investigate Drop-off Causes: Conduct customer surveys and study competitor trends to understand consumer behavior in October and other slower months. Test incentives (e.g., early-bird discounts, pre-holiday bundles) to encourage purchases before the “deal season” begins in November.
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Product Performance
+### Product Performance
 
 - **Findings:**
 
