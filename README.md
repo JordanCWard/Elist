@@ -48,6 +48,8 @@ Excel's Data Analysis tool
 - standardize colors, fonts, borders
 - put them before or after info?
 
+#### make sure that graphs are the best chosen for what the data is showing
+
 #### rewrite current list of topics/titles better
 
 #### fix sizing of headers
