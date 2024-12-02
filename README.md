@@ -88,7 +88,6 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 ### <p align="center"> Deep-Dive Insights </p>
 
-
 ### Sales Trends
 
 - Remove Sales by Month and Growth Rates?
@@ -173,9 +172,12 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Recommendations:
 - **Direct Channel:** Focus marketing efforts on promoting products to further leverage its large customer base. Deprioritize loyalty program marketing due to its relatively lower success in converting customers to loyalty members.
-- **Email Channel:** Emphasize acquiring more customers while leveraging its high loyalty conversion rate to grow loyalty program participation. Continue prioritizing the loyalty program for this channel.
+- **Email Channel:** Emphasize acquiring more customers while leveraging its high loyalty conversion rate to grow loyalty program participation.
 - **Affiliate Channel:** Shift focus toward customer acquisition, capitalizing on its high average order value. Deprioritize loyalty program efforts for this channel due to its low loyalty conversion performance.
 - **Social Media Channel:** Concentrate marketing efforts on acquiring more loyalty members, leveraging its strong loyalty conversion rate. Consider strategies to increase overall order volume for improved channel performance.
+
+
+
 
 
 
