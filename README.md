@@ -20,10 +20,6 @@ Excel's Data Analysis tool
 - Y-axis: Sales (total sales or per product).
 
 
-#### marketing channels
-- clean up findings
-- write recommendation
-
 #### refund rates
 - rewrite findings to be more beneficial for stakeholders
 - clean up recommendation
@@ -172,8 +168,8 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Findings:
 - **Key Channels:** The **direct channel** is the most successful at acquiring customers (~84K) and generating loyalty signups (~32.9K) but has a moderate conversion rate to loyalty members (39%). The **email channel** ranks second in customer acquisition (~19K) and has the highest loyalty conversion rate (58%). 
-- **Other Channels** Despite its low number of orders (2,900) and low loyalty member conversion rate (16%), the **affiliate channel** achieves the highest average order value. The **social media channel** has a low number of orders (1,293) but demonstrates strong loyalty conversion performance (50%), second only to email marketing.
-- **Data Gaps** Marketing channels are unidentified for 85 "unknown" and 1,387 "blank" customers.
+- **Other Channels:** Despite its low number of orders (2,900) and low loyalty member conversion rate (16%), the **affiliate channel** achieves the highest average order value. The **social media channel** has a low number of orders (1,293) but demonstrates strong loyalty conversion performance (50%), second only to email marketing.
+- **Data Gaps:** Marketing channels are unidentified for 85 "unknown" and 1,387 "blank" customers.
 
 #### Recommendations:
 - **Direct Channel:** Focus marketing efforts on promoting products to further leverage its large customer base. Deprioritize loyalty program marketing due to its relatively lower success in converting customers to loyalty members.
