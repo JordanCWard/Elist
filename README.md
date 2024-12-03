@@ -19,12 +19,6 @@ Excel's Data Analysis tool
 - X-axis: Time (e.g., months).
 - Y-axis: Sales (total sales or per product).
 
-
-
-#### purchasing platform
-- rewrite findings to be more beneficial for stakeholders
-- clean up recommendation
-
 #### Time to deliver
 - are there any trends
 - shipping times
@@ -197,18 +191,21 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/a2d675c6-f169-4e95-bb5e-e59164b47479">
 <img width="501" alt="Mobile App" src="https://github.com/user-attachments/assets/3cdc1095-a95b-4bba-aeaf-9abeead4a61b">
 
-- **Findings:** Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%. This increase in mobile app orders came from the Samsung Charging Cable Pack (351% increase) and the Samsung Webcam (128% increase).
-- **Recommendation:** This suggests that it might be worth focusing the mobile app on smaller purchases whereas the website should focus on larger purchases.
-
-
-
 #### Findings:
-- **High Refund Rates:** The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) have the highest refund rates.
-- **Context of High Refunds:** A strong correlation (R-squared = 0.8843) exists between average order value and refund rate, indicating that higher-priced items tend to have higher refund rates.
+- **Mobile App Performance:** Sales and order growth spiked in 2020 (114% increase in sales, 237% increase in orders) but slowed in 2021 (42% sales growth, 165% order growth) and declined significantly in 2022 (41% drop in sales, 39% drop in orders). The average order value (AOV) decreased steadily from $111 in 2019 to $36 in 2022, reflecting a shift toward smaller item purchases such as the Samsung Charging Cable Pack (351% growth in 2021) and the Samsung Webcam (128% growth in 2021).
+- **Website Performance:** Total sales surged in 2020 (164% growth) but declined by 11% in 2021 and 46% in 2022, with order growth patterns varying. The website's AOV has generally increased, from $237 in 2019 to $294 in 2022, with fluctuations in between. Customers primarily use the website for purchasing higher-value items.
+- **Customer Preferences:** Customers tend to purchase lower-value items on the mobile app and higher-value items on the website.
 
 #### Recommendations:
-- **Investigate Refund Causes:** Conduct a detailed analysis of the ThinkPad Laptop and MacBook Air Laptop to identify the underlying reasons for their high refund rates. Explore strategies to address potential issues such as product quality, customer expectations, or post-purchase support to reduce refunds.
-- **Monitor Refund Trends:** Continue tracking the relationship between average order value and refund rates to ensure these trends remain within acceptable parameters for higher-priced products.
+- **Mobile App Strategy:** Focus marketing efforts on smaller, lower-value items that align with customer purchase behavior. Expand promotions and optimize the app for smaller, high-demand products to capitalize on this trend.
+- **Website Strategy:** Emphasize high-value items in marketing campaigns to leverage the website’s alignment with these purchases. Ensure the website experience supports customers looking for premium or expensive items.
+- **Cross-Channel Opportunity:** Use cross-promotion to encourage customers who browse on the app to complete higher-value purchases on the website. Consider encouraging mobile app users to explore higher-value items by promoting exclusive deals or bundles.
+
+
+
+
+
+
 
 
 
