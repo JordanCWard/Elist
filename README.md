@@ -193,7 +193,8 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 
 #### Purchasing Platform
-<img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/a6a64fb2-ec1b-4095-8798-e38440f223bd">
+
+<img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/a2d675c6-f169-4e95-bb5e-e59164b47479">
 <img width="501" alt="Mobile App" src="https://github.com/user-attachments/assets/3cdc1095-a95b-4bba-aeaf-9abeead4a61b">
 
 - **Findings:** Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%. This increase in mobile app orders came from the Samsung Charging Cable Pack (351% increase) and the Samsung Webcam (128% increase).
