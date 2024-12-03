@@ -20,9 +20,6 @@ Excel's Data Analysis tool
 - Y-axis: Sales (total sales or per product).
 
 
-#### refund rates
-- rewrite findings to be more beneficial for stakeholders
-- clean up recommendation
 
 #### purchasing platform
 - rewrite findings to be more beneficial for stakeholders
@@ -177,31 +174,45 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - **Social Media Channel:** Concentrate marketing efforts on acquiring more loyalty members, leveraging its strong loyalty conversion rate. Consider strategies to increase overall order volume for improved channel performance.
 
 
-
-
-
-
-
-
 #### Refund Rates
-
-- **Findings:** The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
-- **Recommendation:** This isn't cause for concern because there's a strong trend between average order value and refund rate that shows when the average order value increases, the refund rate also increases. Therefore, higher number of refunds are a natural consequence of higher price.
 
 <img width="500" alt="AOV and Refund Rate - Bar Graph" src="https://github.com/user-attachments/assets/6a04c540-c496-4361-8f10-631bfa304124">
 <img width="500" alt="AOV and Refund Rate - Scatter Plot" src="https://github.com/user-attachments/assets/f00b746c-3551-4532-b713-b34082254550">
 
-<br>
-<br>
+#### Findings:
+- **High Refund Rates:** The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) have the highest refund rates.
+- **Context of High Refunds:** A strong correlation (R-squared = 0.8843) exists between average order value and refund rate, indicating that higher-priced items tend to have higher refund rates.
+
+#### Recommendations:
+- **Investigate Refund Causes:** Conduct a detailed analysis of the ThinkPad Laptop and MacBook Air Laptop to identify the underlying reasons for their high refund rates. Explore strategies to address potential issues such as product quality, customer expectations, or post-purchase support to reduce refunds.
+- **Monitor Refund Trends:** Continue tracking the relationship between average order value and refund rates to ensure these trends remain within acceptable parameters for higher-priced products.
+
+
+
+
+
 
 #### Purchasing Platform
+<img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/a6a64fb2-ec1b-4095-8798-e38440f223bd">
+<img width="501" alt="Mobile App" src="https://github.com/user-attachments/assets/3cdc1095-a95b-4bba-aeaf-9abeead4a61b">
 
 - **Findings:** Both the mobile app and the website saw a significant increase in total sales and orders in 2020. This is inline with the other data. One other significant point is that the mobile app had a 165% increase in orders in 2021 and the website had a decrease of 11%. This increase in mobile app orders came from the Samsung Charging Cable Pack (351% increase) and the Samsung Webcam (128% increase).
 - **Recommendation:** This suggests that it might be worth focusing the mobile app on smaller purchases whereas the website should focus on larger purchases.
 
-<img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/dedbe4e3-e4b7-4dee-958e-913dc6691d51">
 
-<img width="501" alt="Mobile App" src="https://github.com/user-attachments/assets/a4d961ad-6a5b-4ee4-a052-4f069a3f6ff5">
+
+#### Findings:
+- **High Refund Rates:** The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) have the highest refund rates.
+- **Context of High Refunds:** A strong correlation (R-squared = 0.8843) exists between average order value and refund rate, indicating that higher-priced items tend to have higher refund rates.
+
+#### Recommendations:
+- **Investigate Refund Causes:** Conduct a detailed analysis of the ThinkPad Laptop and MacBook Air Laptop to identify the underlying reasons for their high refund rates. Explore strategies to address potential issues such as product quality, customer expectations, or post-purchase support to reduce refunds.
+- **Monitor Refund Trends:** Continue tracking the relationship between average order value and refund rates to ensure these trends remain within acceptable parameters for higher-priced products.
+
+
+
+
+
 
 
 #### Operational Effectiveness
