@@ -205,6 +205,34 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 
 
+#### Shipping Time
+
+<img width="410" alt="Delivery Metrics" src="https://github.com/user-attachments/assets/793e68cb-d825-43ca-ab14-6f7dad1f0e63">
+
+There are two countries with outliers for days to ship and time to deliver, Qatar and Taiwan, as shown on the scatter plot. These times should be looked into as why they're so high and how to reduce them.
+
+<img width="239" alt="Refund Metrics" src="https://github.com/user-attachments/assets/fadb310a-e1e9-464c-bd30-5fcff29751f4">
+
+There are no patterns when it comes to refunds and shipping times or delivery times. This means refunds are unrelated to the shipping or delivery time which is a good thing.
+
+
+
+
+
+#### Findings:
+- **Mobile App Performance:** Sales and order growth spiked in 2020 (114% increase in sales, 237% increase in orders) but slowed in 2021 (42% sales growth, 165% order growth) and declined significantly in 2022 (41% drop in sales, 39% drop in orders). The average order value (AOV) decreased steadily from $111 in 2019 to $36 in 2022, reflecting a shift toward smaller item purchases such as the Samsung Charging Cable Pack (351% growth in 2021) and the Samsung Webcam (128% growth in 2021).
+- **Website Performance:** Total sales surged in 2020 (164% growth) but declined by 11% in 2021 and 46% in 2022, with order growth patterns varying. The website's AOV has generally increased, from $237 in 2019 to $294 in 2022, with fluctuations in between. Customers primarily use the website for purchasing higher-value items.
+- **Customer Preferences:** Customers tend to purchase lower-value items on the mobile app and higher-value items on the website.
+
+#### Recommendations:
+- **Mobile App Strategy:** Focus marketing efforts on smaller, lower-value items that align with customer purchase behavior. Expand promotions and optimize the app for smaller, high-demand products to capitalize on this trend.
+- **Website Strategy:** Emphasize high-value items in marketing campaigns to leverage the website’s alignment with these purchases. Ensure the website experience supports customers looking for premium or expensive items.
+- **Cross-Channel Opportunity:** Use cross-promotion to encourage customers who browse on the app to complete higher-value purchases on the website. Consider encouraging mobile app users to explore higher-value items by promoting exclusive deals or bundles.
+
+
+
+
+
 
 
 
