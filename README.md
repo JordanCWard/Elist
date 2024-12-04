@@ -10,6 +10,8 @@
 <br>
 <br>
 
+use gpt to figure out something for operational with regression analysis or skip it?
+
 #### Use this somewhere in the future sections
 regression analysis
 Excel's Data Analysis tool
@@ -18,11 +20,6 @@ Excel's Data Analysis tool
 - Build a simple linear regression model to predict sales:
 - X-axis: Time (e.g., months).
 - Y-axis: Sales (total sales or per product).
-
-#### Time to deliver
-- are there any trends
-- shipping times
-- trends with refunds vs non-refunds?
 
 #### operational effectiveness
 - add more info about effectiveness
@@ -172,17 +169,25 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 <img width="500" alt="AOV and Refund Rate - Bar Graph" src="https://github.com/user-attachments/assets/6a04c540-c496-4361-8f10-631bfa304124">
 <img width="500" alt="AOV and Refund Rate - Scatter Plot" src="https://github.com/user-attachments/assets/f00b746c-3551-4532-b713-b34082254550">
+<img width="254" alt="Highest Refund Rate 5+ Orders" src="https://github.com/user-attachments/assets/4aad9df8-1088-4584-9f96-5c6517b47eb5">
+<img width="254" alt="Highest Refund Rate 100+ Orders" src="https://github.com/user-attachments/assets/5a1620ec-811b-424f-a0ad-a5e3d7c532a0">
+
+The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) have the highest refund rates.
+A strong correlation (R-squared = 0.8843) exists between average order value and refund rate, indicating that higher-priced items tend to have higher refund rates.
+Conduct a detailed analysis of the ThinkPad Laptop and MacBook Air Laptop to identify the underlying reasons for their high refund rates. Explore strategies to address potential issues such as product quality, customer expectations, or post-purchase support to reduce refunds.
+Continue tracking the relationship between average order value and refund rates to ensure these trends remain within acceptable parameters for higher-priced products.
+There are 5 countries with 5 or more orders with a refund rate of at least 20%. This should be looked into even though they don't have many orders.
+There are 8 countries with 100 or more orders with a refund rate of at least 7%. This should be looked into to decrease the refund rate.
 
 #### Findings:
-- **High Refund Rates:** The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) have the highest refund rates.
-- **Context of High Refunds:** A strong correlation (R-squared = 0.8843) exists between average order value and refund rate, indicating that higher-priced items tend to have higher refund rates.
+- **High Refund Rates for Specific Laptops:** The ThinkPad Laptop has the highest refund rate at 12%, followed closely by the MacBook Air Laptop at 11%.
+- **Correlation Between Average Order Value and Refund Rates:** A strong correlation (R-squared = 0.8843) exists, suggesting that higher-priced items are more likely to have higher refund rates.
+- **Country-Specific Refund Trends:** Five countries with five or more orders have refund rates of at least 20%, despite their low order volumes. Eight countries with 100 or more orders have refund rates of at least 7%, indicating potential systemic issues.
 
 #### Recommendations:
-- **Investigate Refund Causes:** Conduct a detailed analysis of the ThinkPad Laptop and MacBook Air Laptop to identify the underlying reasons for their high refund rates. Explore strategies to address potential issues such as product quality, customer expectations, or post-purchase support to reduce refunds.
-- **Monitor Refund Trends:** Continue tracking the relationship between average order value and refund rates to ensure these trends remain within acceptable parameters for higher-priced products.
-
-
-
+- **Investigate High Refund Rates for Laptops:** Conduct an in-depth analysis of the ThinkPad Laptop and MacBook Air Laptop to determine the root causes of their high refund rates. Implement targeted improvements to reduce refunds.
+- **Monitor and Manage High-Value Product Refund Trends:** Develop strategies for mitigating refunds on high-priced items, such as better customer education, enhanced product descriptions, or stricter quality control. Regularly review the relationship between average order value and refund rates to ensure acceptable levels.
+- **Address Country-Specific Refund Issues:** Analyze the countries with small order volumes and high refund rates to identify and address unique regional factors. For the countries with over 100 orders and refund rates of 7% or more, implement localized measures to reduce refund rates, such as improved logistics, better customer support, or tailored return policies.
 
 
 
@@ -202,32 +207,19 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - **Cross-Channel Opportunity:** Use cross-promotion to encourage customers who browse on the app to complete higher-value purchases on the website. Consider encouraging mobile app users to explore higher-value items by promoting exclusive deals or bundles.
 
 
-
-
-
-#### Shipping Time
+#### Shipping Times
 
 <img width="410" alt="Delivery Metrics" src="https://github.com/user-attachments/assets/793e68cb-d825-43ca-ab14-6f7dad1f0e63">
-
-There are two countries with outliers for days to ship and time to deliver, Qatar and Taiwan, as shown on the scatter plot. These times should be looked into as why they're so high and how to reduce them.
-
 <img width="239" alt="Refund Metrics" src="https://github.com/user-attachments/assets/fadb310a-e1e9-464c-bd30-5fcff29751f4">
-
-There are no patterns when it comes to refunds and shipping times or delivery times. This means refunds are unrelated to the shipping or delivery time which is a good thing.
-
-
-
-
+<img width="254" alt="Most Days to Deliver" src="https://github.com/user-attachments/assets/5352bb06-e245-42f9-8206-51d17881856d">
 
 #### Findings:
-- **Mobile App Performance:** Sales and order growth spiked in 2020 (114% increase in sales, 237% increase in orders) but slowed in 2021 (42% sales growth, 165% order growth) and declined significantly in 2022 (41% drop in sales, 39% drop in orders). The average order value (AOV) decreased steadily from $111 in 2019 to $36 in 2022, reflecting a shift toward smaller item purchases such as the Samsung Charging Cable Pack (351% growth in 2021) and the Samsung Webcam (128% growth in 2021).
-- **Website Performance:** Total sales surged in 2020 (164% growth) but declined by 11% in 2021 and 46% in 2022, with order growth patterns varying. The website's AOV has generally increased, from $237 in 2019 to $294 in 2022, with fluctuations in between. Customers primarily use the website for purchasing higher-value items.
-- **Customer Preferences:** Customers tend to purchase lower-value items on the mobile app and higher-value items on the website.
+- **Refunds and Shipping/Delivery Times:** Analysis shows no discernible patterns linking refunds to shipping or delivery times. Refunds are independent of these factors, which is a positive outcome for the process.
+- **Outliers in Shipping and Delivery Times:** Qatar and Taiwan exhibit unusually high days to ship and deliver, as illustrated in the scatter plot. In addition to Taiwan, seven other countries with 100 or more orders have average delivery times exceeding 8 days.
 
 #### Recommendations:
-- **Mobile App Strategy:** Focus marketing efforts on smaller, lower-value items that align with customer purchase behavior. Expand promotions and optimize the app for smaller, high-demand products to capitalize on this trend.
-- **Website Strategy:** Emphasize high-value items in marketing campaigns to leverage the website’s alignment with these purchases. Ensure the website experience supports customers looking for premium or expensive items.
-- **Cross-Channel Opportunity:** Use cross-promotion to encourage customers who browse on the app to complete higher-value purchases on the website. Consider encouraging mobile app users to explore higher-value items by promoting exclusive deals or bundles.
+- **Investigate Outliers:** Analyze the specific reasons for the extended shipping and delivery times in Qatar and Taiwan. Develop strategies to reduce these durations, such as identifying logistical bottlenecks or partnering with more efficient carriers.
+- **Optimize Delivery Times for High-Order Countries:** For the countries with over 100 orders and delivery times averaging more than 8 days, conduct a deeper analysis to understand delays. Implement measures to streamline processes and improve delivery speed in these regions.
 
 
 
