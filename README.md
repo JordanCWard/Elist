@@ -10,7 +10,10 @@
 <br>
 <br>
 
-use gpt to figure out something for operational with regression analysis or skip it?
+Transform categorical variables to numbers then run correlation analysis, such as email = 1, direct = 2, etc
+Use the Data Analysis Toolpak (enable it via File > Options > Add-ins):
+Go to Data > Data Analysis > Correlation.
+Select your data range and get a matrix of correlations.
 
 #### Use this somewhere in the future sections
 regression analysis
