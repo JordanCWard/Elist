@@ -10,8 +10,6 @@
 <br>
 <br>
 
-look at refund section for purchase date stuff
-
 Continue below, data has been created
 file is called regression analysis
 green columns are cleaned and ready to analyze, red need fixing, yellow might need fixing?
@@ -216,17 +214,11 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Shipping Times
 
-108124 total orders so this is a very small amount of data
-18 orders have negative value from -697 to -3 days for ship - purchase
-23 orders have values 25 to 1297 days for ship - purchase
-rest are 1 to 3
-
-108124 total orders so this is a very small amount of data
-17 orders have values from -694 to -16 days for deliver - purchase
-23 orders have values from 29 to 1300 days for deliver - purchase
-rest are 5 to 10
-
-the issue is with the purchase date because deliver - ship has values from 2 to 9
+In the 108,124 orders, there are 41 outliers. The outliers excisted in two categories. The first category (18 orders) had shipping dates before the purchase date. The second (23 orders) had abnormally long shipping days, between 25 to 1297 days. Since this is a small group of outliers, this data should be looked at individually to determine if there is an issue with the data that needs to be fixed.
+After omitting those 41 outliers, the rest of the data had little to note.
+The shipping times had a range of 1 to 3 days with a mean of 2.
+The delivery times had a range of 5 to 10 days with a  mean of 7.5.
+The delivery after shipping times had a range of 2 to 9 days with a mean of 5.5.
 
 
 
