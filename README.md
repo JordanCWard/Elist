@@ -10,6 +10,8 @@
 <br>
 <br>
 
+Continue below, data has been created
+
 Transform categorical variables to numbers then run correlation analysis, such as email = 1, direct = 2, etc
 Use the Data Analysis Toolpak (enable it via File > Options > Add-ins):
 Go to Data > Data Analysis > Correlation.
