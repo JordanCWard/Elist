@@ -39,8 +39,11 @@ Excel's Data Analysis tool
 - don't repeat too often
 - standardize colors, fonts, borders
 - put them before or after info?
+- remove gridlines
 
 #### make sure that graphs are the best chosen for what the data is showing
+
+
 
 #### rewrite current list of topics/titles better
 
