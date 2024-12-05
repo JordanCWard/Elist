@@ -10,6 +10,7 @@
 <br>
 <br>
 
+(18+23)/108124 total orders = 
 18 orders have negative value for ship - purchase
 23 orders have values >=25 for ship - purchase
 rest are 1 to 3
@@ -191,13 +192,6 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="500" alt="AOV and Refund Rate - Scatter Plot" src="https://github.com/user-attachments/assets/f00b746c-3551-4532-b713-b34082254550">
 <img width="254" alt="Highest Refund Rate 5+ Orders" src="https://github.com/user-attachments/assets/4aad9df8-1088-4584-9f96-5c6517b47eb5">
 <img width="254" alt="Highest Refund Rate 100+ Orders" src="https://github.com/user-attachments/assets/5a1620ec-811b-424f-a0ad-a5e3d7c532a0">
-
-The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) have the highest refund rates.
-A strong correlation (R-squared = 0.8843) exists between average order value and refund rate, indicating that higher-priced items tend to have higher refund rates.
-Conduct a detailed analysis of the ThinkPad Laptop and MacBook Air Laptop to identify the underlying reasons for their high refund rates. Explore strategies to address potential issues such as product quality, customer expectations, or post-purchase support to reduce refunds.
-Continue tracking the relationship between average order value and refund rates to ensure these trends remain within acceptable parameters for higher-priced products.
-There are 5 countries with 5 or more orders with a refund rate of at least 20%. This should be looked into even though they don't have many orders.
-There are 8 countries with 100 or more orders with a refund rate of at least 7%. This should be looked into to decrease the refund rate.
 
 #### Findings:
 - **High Refund Rates for Specific Laptops:** The ThinkPad Laptop has the highest refund rate at 12%, followed closely by the MacBook Air Laptop at 11%.
