@@ -10,18 +10,6 @@
 <br>
 <br>
 
-108124 total orders so this is a very small amount of data
-18 orders have negative value from -697 to -3 days for ship - purchase
-23 orders have values 25 to 1297 days for ship - purchase
-rest are 1 to 3
-
-108124 total orders so this is a very small amount of data
-17 orders have values from -694 to -16 days for deliver - purchase
-23 orders have values from 29 to 1300 days for deliver - purchase
-rest are 5 to 10
-
-the issue is with the purchase date because deliver - ship has values from 2 to 9
-
 look at refund section for purchase date stuff
 
 Continue below, data has been created
@@ -223,7 +211,25 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - **Cross-Channel Opportunity:** Use cross-promotion to encourage customers who browse on the app to complete higher-value purchases on the website. Consider encouraging mobile app users to explore higher-value items by promoting exclusive deals or bundles.
 
 
+
+
+
 #### Shipping Times
+
+108124 total orders so this is a very small amount of data
+18 orders have negative value from -697 to -3 days for ship - purchase
+23 orders have values 25 to 1297 days for ship - purchase
+rest are 1 to 3
+
+108124 total orders so this is a very small amount of data
+17 orders have values from -694 to -16 days for deliver - purchase
+23 orders have values from 29 to 1300 days for deliver - purchase
+rest are 5 to 10
+
+the issue is with the purchase date because deliver - ship has values from 2 to 9
+
+
+
 
 <img width="410" alt="Delivery Metrics" src="https://github.com/user-attachments/assets/793e68cb-d825-43ca-ab14-6f7dad1f0e63">
 <img width="239" alt="Refund Metrics" src="https://github.com/user-attachments/assets/fadb310a-e1e9-464c-bd30-5fcff29751f4">
