@@ -10,6 +10,17 @@
 <br>
 <br>
 
+18 orders have negative value for ship - purchase
+23 orders have values >=25 for ship - purchase
+rest are 1 to 3
+
+17 orders have negative value for deliver - purchase
+23 orders have values >= 29 for deliver - purchase
+rest are 5 to 10
+
+the issue is with the purchase date because deliver - ship has values from 2 to 9
+
+
 Continue below, data has been created
 file is called regression analysis
 green columns are cleaned and ready to analyze, red need fixing, yellow might need fixing?
