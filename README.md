@@ -14,6 +14,7 @@ Continue below, data has been created
 file is called regression analysis
 columns A to L are clean, need to clean the rest of them
 there's an issue in the ship - purchase column, is it also in deliver - purchase column and deliver - ship column? data should be noted in the report below somewhere
+negative values should be removed from data, doesn't make sense, should be noted though as part of data cleaning
 
 Transform categorical variables to numbers then run correlation analysis, such as email = 1, direct = 2, etc
 Use the Data Analysis Toolpak (enable it via File > Options > Add-ins):
