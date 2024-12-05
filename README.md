@@ -219,10 +219,11 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 In the 108,124 orders, there are 41 outliers. The outliers excisted in two categories. The first category (18 orders) had shipping dates before the purchase date. The second (23 orders) had abnormally long shipping days, between 25 to 1297 days. Since this is a small group of outliers, this data should be looked at individually to determine if there is an issue with the data that needs to be fixed.
 After omitting those 41 outliers, the rest of the data had little to note.
-The shipping times had a range of 1 to 3 days with a mean of 2.
-The delivery times had a range of 5 to 10 days with a  mean of 7.5.
-The delivery after shipping times had a range of 2 to 9 days with a mean of 5.5.
+The shipping times are between 1 to 3 days with a mean of 2.
+The delivery times are between 5 to 10 days with a  mean of 7.5.
+The delivery after shipping times are between 2 to 9 days with a mean of 5.5.
 
+<img width="252" alt="Shipping Days" src="https://github.com/user-attachments/assets/f2f1cf77-47e5-4ba5-8d08-e6427bc9e89f">
 
 
 
