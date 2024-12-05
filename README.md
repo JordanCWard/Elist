@@ -10,17 +10,19 @@
 <br>
 <br>
 
-(18+23)/108124 total orders = 
-18 orders have negative value for ship - purchase
-23 orders have values >=25 for ship - purchase
+108124 total orders so this is a very small amount of data
+18 orders have negative value from -697 to -3 days for ship - purchase
+23 orders have values 25 to 1297 days for ship - purchase
 rest are 1 to 3
 
-17 orders have negative value for deliver - purchase
-23 orders have values >= 29 for deliver - purchase
+108124 total orders so this is a very small amount of data
+17 orders have values from -694 to -16 days for deliver - purchase
+23 orders have values from 29 to 1300 days for deliver - purchase
 rest are 5 to 10
 
 the issue is with the purchase date because deliver - ship has values from 2 to 9
 
+look at refund section for purchase date stuff
 
 Continue below, data has been created
 file is called regression analysis
