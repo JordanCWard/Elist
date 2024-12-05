@@ -11,6 +11,8 @@
 <br>
 
 Continue below, data has been created
+file is called regression analysis
+columns A to L are clean, need to clean the rest of them
 
 Transform categorical variables to numbers then run correlation analysis, such as email = 1, direct = 2, etc
 Use the Data Analysis Toolpak (enable it via File > Options > Add-ins):
