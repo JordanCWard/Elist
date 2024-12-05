@@ -13,6 +13,7 @@
 Continue below, data has been created
 file is called regression analysis
 columns A to L are clean, need to clean the rest of them
+there's an issue in the ship - purchase column, is it also in deliver - purchase column and deliver - ship column? data should be noted in the report below somewhere
 
 Transform categorical variables to numbers then run correlation analysis, such as email = 1, direct = 2, etc
 Use the Data Analysis Toolpak (enable it via File > Options > Add-ins):
