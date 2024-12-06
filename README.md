@@ -10,16 +10,9 @@
 <br>
 <br>
 
-Continue below, data has been created
-file is called regression analysis
-green columns are cleaned and ready to analyze, red need fixing, yellow might need fixing?
-there's an issue in the ship - purchase column, is it also in deliver - purchase column and deliver - ship column? data should be noted in the report below somewhere
-negative values should be removed from data, doesn't make sense, should be noted though as part of data cleaning
-
-Transform categorical variables to numbers then run correlation analysis, such as email = 1, direct = 2, etc
-Use the Data Analysis Toolpak (enable it via File > Options > Add-ins):
-Go to Data > Data Analysis > Correlation.
-Select your data range and get a matrix of correlations.
+finish shipping analysis in the new workbook created
+data has been cleaned to remove values that don't make sense
+recreate the second tab using the data here, second tab has old data
 
 #### Use this somewhere in the future sections
 regression analysis
@@ -226,6 +219,8 @@ The delivery after shipping times are between 2 to 9 days with a mean of 5.5.
 <img width="252" alt="Shipping Days" src="https://github.com/user-attachments/assets/f2f1cf77-47e5-4ba5-8d08-e6427bc9e89f">
 
 
+
+redo the analysis below with the new shipping analysis workbook, data has been cleaned so it will change the output.
 
 <img width="410" alt="Delivery Metrics" src="https://github.com/user-attachments/assets/793e68cb-d825-43ca-ab14-6f7dad1f0e63">
 <img width="239" alt="Refund Metrics" src="https://github.com/user-attachments/assets/fadb310a-e1e9-464c-bd30-5fcff29751f4">
