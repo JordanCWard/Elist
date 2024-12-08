@@ -61,8 +61,6 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - Remove Sales by Month and Growth Rates?
 
 <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
-<img width="388" alt="Sales by Month and Growth Rates" src="https://github.com/user-attachments/assets/64ae9d32-2163-47e4-9987-9c3986daca0f">
-<img width="500" alt="Total Sales - 3 Month Moving Average" src="https://github.com/user-attachments/assets/e6ed8f17-b0c1-4d31-a090-7ef80e5b588b">
 <img width="216" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
 
 #### Findings:
