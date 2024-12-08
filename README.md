@@ -59,8 +59,8 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="216" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
 
 #### Findings:
-- **Revenue and Order Trends:** Between 2019 and 2022, Elist generated over $28 million in revenue from more than 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely due to increased pandemic-related spending. In contrast, 2021 recorded the highest number of orders (36,000).
-- **Seasonal Sales Patterns:** Elist experiences a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
+- **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from more than 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely due to increased pandemic-related spending. In contrast, 2021 recorded the highest number of orders (36,000).
+- **Seasonal Sales Patterns:** There is a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
 - **Consumer Behavior Insights:** The sales pattern aligns with typical electronics seasonality, with holiday promotions influencing consumer purchasing decisions. October’s lower activity highlights a potential opportunity to better engage customers before the holiday season.
 
 #### Recommendations:
@@ -76,13 +76,13 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="343" alt="Product Performance Table" src="https://github.com/user-attachments/assets/5e2c905f-1f9c-4c04-96df-d8aa4f638344">
 
 #### Findings:
-- **Top Revenue Generator:** The 27-inch 4K Gaming Monitor is Elist's highest revenue-generating product, contributing nearly $10 million (35% of total sales).
-- **Popular Products by Order Volume:** Apple AirPods are Elist's most popular product, accounting for 45% of all orders (48,000+ units).
+- **Top Revenue Generator:** The 27-inch 4K Gaming Monitor is the highest revenue-generating product, contributing nearly $10 million (35% of total sales).
+- **Popular Products by Order Volume:** Apple AirPods are the most popular product, accounting for 45% of all orders (48,000+ units).
 - **Key Revenue Drivers:** Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total revenue.
 - **Samsung Charging Cable Pack:** This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
 
 #### Recommendations:
-- **Expand Product Catalog:** To diversify revenue streams, Elist should consider adding more products in the same categories as its top performers, focusing on in-class alternatives.
+- **Expand Product Catalog:** To diversify revenue streams, consider adding more products in the same categories as the top performers, focusing on in-class alternatives.
 - **Optimize Samsung Charging Cable Pack Strategy:** Increase profitability by exploring price adjustments or introducing a bundled version of the product to capture additional value.
 
 
@@ -93,8 +93,8 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="400" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
 
 #### Findings:
-- **Global Reach:** Elist customers placed orders from 195 countries, with the United States contributing 47% of total sales.
-- **Concentration of Sales:** The top 12 countries account for 80% of Elist's total sales, highlighting the importance of maintaining a strong presence in these markets.
+- **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
+- **Concentration of Sales:** The top 12 countries account for 80% of total sales, highlighting the importance of maintaining a strong presence in these markets.
 - **High-AOV Countries:** After filtering for countries with 100 or more orders, 12 countries show an average order value (AOV) above $300. These countries represent 8% of total orders and 10% of total sales.
 
 #### Recommendations:
@@ -191,25 +191,6 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - **Addressing Outliers:** Investigate the purchase date column for the 18 orders with shipping dates preceding purchase dates to identify and correct data entry or system errors. Analyze the 23 orders with extended shipping times to determine their root cause and assess if system improvements are necessary.
 - **Data Quality Improvements:** Implement validation checks to prevent shipping dates from being earlier than purchase dates in future data entries. Set acceptable thresholds for shipping durations and develop alert systems to flag unusually long shipping times.
 - **Ongoing Monitoring:** Continue monitoring the refund process to ensure it remains independent of shipping and delivery performance. Periodically review and audit the data for consistency and accuracy to maintain its reliability.
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Operational Effectiveness
-
-The general average time to ship (3 days) and deliver (14 days) across all regions has remained extremely consistent since 2019. However, without proper benchmarks it is unclear whether these figures fare well against competitors.
-Loyalty members do not appear to receive faster delivery times, with time to deliver being equal with non-members (14 days).
-
-
 
 
 
