@@ -89,8 +89,9 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 ### Global Reach
 
 <img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/9d40231b-97f8-42b2-b947-093f20e18e8c">
-<img width="337" alt="Average Order Value by Location" src="https://github.com/user-attachments/assets/cdf35e3f-4fa7-4159-b17c-1f041267f8db">
+<img width="337" alt="Countries with AOV over 300" src="https://github.com/user-attachments/assets/4d05ff34-fbe1-46c7-a984-c71ba2423da7">
 <img width="400" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
+
 
 #### Findings:
 - **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
