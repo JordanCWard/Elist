@@ -84,7 +84,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 - **Top Revenue Generator:** The 27-inch 4K Gaming Monitor is the highest revenue-generating product, contributing nearly $10 million (35% of total sales).
 - **Popular Products by Order Volume:** Apple AirPods are the most popular product, accounting for 45% of all orders (48,000+ units).
-- 
+
 <img width="343" alt="Product Performance Table" src="https://github.com/user-attachments/assets/5e2c905f-1f9c-4c04-96df-d8aa4f638344">
 
 - **Key Revenue Drivers:** Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total revenue.
