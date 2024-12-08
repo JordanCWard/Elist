@@ -105,12 +105,14 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Loyalty Program
 
-<img width="400" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/f43730e3-d160-435b-b393-a25c0ddb9bb9">
-<img width="400" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/c2753bc7-ab27-4424-a6e6-49a148a16780">
-
 #### Findings:
+<img width="650" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/f43730e3-d160-435b-b393-a25c0ddb9bb9">
+
 - **Loyalty Program Adoption and Performance:** The loyalty program, introduced in 2019, saw significant customer adoption beginning in early 2021. Since then, loyalty customers have consistently outperformed non-loyalty customers in sales and order count, a trend that has continued through 2022.
 - **Higher AOV for Loyalty Customers:** In addition to higher order volumes, loyalty customers now have a greater average order value (AOV) compared to non-loyalty customers. This indicates that loyalty members are making not only more frequent purchases but also higher-value purchases.
+
+<img width="500" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/c2753bc7-ab27-4424-a6e6-49a148a16780">
+
 - **Forecasted Growth for Loyalty Sales:** Based on current trends, loyalty sales are expected to continue outpacing non-loyalty sales in the foreseeable future, highlighting the growing effectiveness of the program.
 
 #### Recommendations:
