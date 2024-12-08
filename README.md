@@ -23,10 +23,6 @@ Excel's Data Analysis tool
 - X-axis: Time (e.g., months).
 - Y-axis: Sales (total sales or per product).
 
-#### operational effectiveness
-- add more info about effectiveness
-- write recommendation
-
 #### graphs/tables\
 - once I've decided all the ones to use, put them in one sheet in excel then use theme to change all of them
 - include various types
