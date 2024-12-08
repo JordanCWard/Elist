@@ -1,5 +1,9 @@
 ## to do
 
+Currently on purchasing platform
+need to finish cleaning up the last two, moving graphs into data where they're relevant
+Then finish cleaning graphs with info below this
+
 
 #### graphs/tables\
 - once I've decided all the ones to use, put them in one sheet in excel then use theme to change all of them
@@ -12,6 +16,8 @@
 #### make sure that graphs are the best chosen for what the data is showing
 
 #### rewrite current list of topics/titles better
+
+Summary at the top
 
 #### fix sizing of headers
 
@@ -153,31 +159,38 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Refund Rates
 
+#### Findings:
+
 <img width="500" alt="Refund Rate" src="https://github.com/user-attachments/assets/8514ab48-5877-46f3-821b-c95888bd8fd8">
+
+- **High Refund Rates for Specific Laptops:** The ThinkPad Laptop has the highest refund rate at 12%, followed closely by the MacBook Air Laptop at 11%.
+
 <img width="500" alt="AOV and Refund Rate - Scatter Plot" src="https://github.com/user-attachments/assets/f00b746c-3551-4532-b713-b34082254550">
-<img width="206" alt="Highest Refund Rate 10+ Orders" src="https://github.com/user-attachments/assets/8e4399ed-f49d-4eab-9de0-e71468456354">
+
+- **Correlation Between AOV and Refund Rates:** A strong correlation exists (R-squared = 0.8843), suggesting that higher-priced items are more likely to have higher refund rates.
+
+<img width="206" alt="Highest Refund Rate 10+ Orders" src="https://github.com/user-attachments/assets/8e4399ed-f49d-4eab-9de0-e71468456354"> &ensp;
 <img width="215" alt="Highest Refund Rate 100+ Orders" src="https://github.com/user-attachments/assets/784cac26-8065-4933-90bd-8116275663bc">
 
-
-#### Findings:
-- **High Refund Rates for Specific Laptops:** The ThinkPad Laptop has the highest refund rate at 12%, followed closely by the MacBook Air Laptop at 11%.
-- **Correlation Between AOV and Refund Rates:** A strong correlation (R-squared = 0.8843) exists, suggesting that higher-priced items are more likely to have higher refund rates.
-- **Country-Specific Refund Trends:** Five countries with five or more orders have refund rates of at least 20%, despite their low order volumes. Eight countries with 100 or more orders have refund rates of at least 7%, indicating potential systemic issues.
+- **Country-Specific Refund Trends:** The table on the left lists the countries with the highest refund rates among those with 10 or more orders, while the table on the right highlights the countries with the highest refund rates among those with 100 or more orders.
 
 #### Recommendations:
 - **Investigate High Refund Rates for Laptops:** Conduct an in-depth analysis of the ThinkPad Laptop and MacBook Air Laptop to determine the root causes of their high refund rates. Implement targeted improvements to reduce refunds.
 - **Monitor and Manage High-Value Product Refund Trends:** Develop strategies for mitigating refunds on high-priced items, such as better customer education, enhanced product descriptions, or stricter quality control. Regularly review the relationship between AOV and refund rates to ensure acceptable levels.
-- **Address Country-Specific Refund Issues:** Analyze the countries with small order volumes and high refund rates to identify and address unique regional factors. For the countries with over 100 orders and refund rates of 7% or more, implement localized measures to reduce refund rates, such as improved logistics, better customer support, or tailored return policies.
+- **Address Country-Specific Refund Issues:** Analyze the countries with small order volumes and high refund rates to identify and address unique regional factors. For the countries with over 100 orders and refund rates of 6% or more, implement localized measures to reduce refund rates, such as improved logistics, better customer support, or tailored return policies.
 
 
 
 #### Purchasing Platform
 
-<img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/a2d675c6-f169-4e95-bb5e-e59164b47479">
+Change this to a graphic showing that people prefer smaller items on mobile and larger items on website
 <img width="501" alt="Mobile App" src="https://github.com/user-attachments/assets/3cdc1095-a95b-4bba-aeaf-9abeead4a61b">
 
 #### Findings:
-- **Mobile App Performance:** Sales and order growth spiked in 2020 (114% increase in sales, 237% increase in orders) but slowed in 2021 (42% sales growth, 165% order growth) and declined significantly in 2022 (41% drop in sales, 39% drop in orders). The AOV decreased steadily from $111 in 2019 to $36 in 2022, reflecting a shift toward smaller item purchases such as the Samsung Charging Cable Pack (351% growth in 2021) and the Samsung Webcam (128% growth in 2021).
+
+<img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/a2d675c6-f169-4e95-bb5e-e59164b47479">
+
+- **Mobile App Performance:** Sales and order growth spiked in 2020 but slowed in 2021 and declined significantly in 2022. The AOV decreased steadily from $111 in 2019 to $36 in 2022, reflecting a shift toward smaller item purchases such as the Samsung Charging Cable Pack (351% growth in 2021) and the Samsung Webcam (128% growth in 2021).
 - **Website Performance:** Total sales surged in 2020 (164% growth) but declined by 11% in 2021 and 46% in 2022, with order growth patterns varying. The website's AOV has generally increased, from $237 in 2019 to $294 in 2022, with fluctuations in between. Customers primarily use the website for purchasing higher-value items.
 - **Customer Preferences:** Customers tend to purchase lower-value items on the mobile app and higher-value items on the website.
 
