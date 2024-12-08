@@ -106,7 +106,6 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 #### Loyalty Program
 
 <img width="400" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/f43730e3-d160-435b-b393-a25c0ddb9bb9">
-<img width="400" alt="Loyalty vs Non-Loyalty Orders" src="https://github.com/user-attachments/assets/4431eae5-a2ef-4f1e-9c53-9015b7379c1f">
 <img width="400" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/c2753bc7-ab27-4424-a6e6-49a148a16780">
 
 #### Findings:
