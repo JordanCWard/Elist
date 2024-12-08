@@ -55,11 +55,17 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 ### Sales Trends
 
-<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
-<img width="216" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
+
+
 
 #### Findings:
+
+<img width="350" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
+
 - **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from more than 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely due to increased pandemic-related spending. In contrast, 2021 recorded the highest number of orders (36,000).
+
+<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
+
 - **Seasonal Sales Patterns:** There is a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
 - **Consumer Behavior Insights:** The sales pattern aligns with typical electronics seasonality, with holiday promotions influencing consumer purchasing decisions. October’s lower activity highlights a potential opportunity to better engage customers before the holiday season.
 
