@@ -179,8 +179,9 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 <img width="500" alt="AOV and Refund Rate - Bar Graph" src="https://github.com/user-attachments/assets/6a04c540-c496-4361-8f10-631bfa304124">
 <img width="500" alt="AOV and Refund Rate - Scatter Plot" src="https://github.com/user-attachments/assets/f00b746c-3551-4532-b713-b34082254550">
-<img width="254" alt="Highest Refund Rate 5+ Orders" src="https://github.com/user-attachments/assets/4aad9df8-1088-4584-9f96-5c6517b47eb5">
+<img width="206" alt="Highest Refund Rate 10+ Orders" src="https://github.com/user-attachments/assets/8e4399ed-f49d-4eab-9de0-e71468456354">
 <img width="254" alt="Highest Refund Rate 100+ Orders" src="https://github.com/user-attachments/assets/5a1620ec-811b-424f-a0ad-a5e3d7c532a0">
+
 
 #### Findings:
 - **High Refund Rates for Specific Laptops:** The ThinkPad Laptop has the highest refund rate at 12%, followed closely by the MacBook Air Laptop at 11%.
