@@ -141,7 +141,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 <img width="500" alt="Marketing Channels" src="https://github.com/user-attachments/assets/73a20f77-db51-4f35-b17b-cfdbe60510e4">
 
-- **Other Channels:** Despite its low number of orders (2,900) and low loyalty member conversion rate (16%), the **affiliate channel** consistently achieves the highest AOV. The **social media channel** has a low number of orders (1,293) but demonstrates strong loyalty conversion performance (50%), second only to email marketing.
+- **Other Channels:** Despite its low number of orders (2,900) and low loyalty member conversion rate (16%), the **affiliate channel** consistently achieves the highest AOV. The **social media channel** has a low number of orders (1,293) but demonstrates consistent AOV year-over-year and strong loyalty conversion performance (50%), second only to email marketing.
 
 
 #### Recommendations:
