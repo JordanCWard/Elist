@@ -222,14 +222,14 @@ The shipping times are between 1 to 3 days with a mean of 2.
 The delivery times are between 5 to 10 days with a  mean of 7.5.
 The delivery after shipping times are between 2 to 9 days with a mean of 5.5.
 
-<img width="252" alt="Shipping Days" src="https://github.com/user-attachments/assets/f2f1cf77-47e5-4ba5-8d08-e6427bc9e89f">
+<img width="198" alt="Shipping Logistics" src="https://github.com/user-attachments/assets/3ab16e75-b982-4367-ab31-89c9b2743bf0">
 <img width="220" alt="Refund Metrics" src="https://github.com/user-attachments/assets/bb0af87c-c328-4ae1-b5ce-4121d821f16e">
 
 
-redo the analysis below with the new shipping analysis workbook, data has been cleaned so it will change the output.
 
-<img width="410" alt="Delivery Metrics" src="https://github.com/user-attachments/assets/793e68cb-d825-43ca-ab14-6f7dad1f0e63">
-<img width="254" alt="Most Days to Deliver" src="https://github.com/user-attachments/assets/5352bb06-e245-42f9-8206-51d17881856d">
+
+
+redo the analysis below with the new shipping analysis workbook, data has been cleaned so it will change the output.
 
 #### Findings:
 - **Refunds and Shipping/Delivery Times:** Analysis shows no discernible patterns linking refunds to shipping or delivery times. Refunds are independent of these factors, which is a positive outcome for the process.
