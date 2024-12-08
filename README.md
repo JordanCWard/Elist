@@ -94,13 +94,16 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 ### Global Reach
 
-<img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/9d40231b-97f8-42b2-b947-093f20e18e8c">
-<img width="473" alt="AOV over 300" src="https://github.com/user-attachments/assets/f69bec02-4c2c-4446-bf73-987dc0424f15">
-
 #### Findings:
+
+<img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/9d40231b-97f8-42b2-b947-093f20e18e8c">
+
 - **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
 - **Concentration of Sales:** The top 12 countries account for 80% of total sales, highlighting the importance of maintaining a strong presence in these markets.
-- **High-AOV Countries:** After filtering for countries with 100 or more orders, 12 countries show an average order value (AOV) above $300. These countries represent 8% of total orders and 10% of total sales.
+
+<img width="400" alt="AOV over 300" src="https://github.com/user-attachments/assets/f69bec02-4c2c-4446-bf73-987dc0424f15">
+
+- **High-AOV Countries:** After filtering for countries with 100 or more orders, 12 countries have an AOV above $300. These countries represent 8% of total orders and 10% of total sales.
 
 #### Recommendations:
 - **Prioritize Top Markets:** Continue to focus on the top 12 countries driving 80% of sales, ensuring a strong presence and tailored strategies to maintain momentum, particularly in capturing retained value from 2020.
@@ -134,13 +137,13 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Findings:
 - **Key Channels:** The **direct channel** is the most successful at acquiring customers (~84K) and generating loyalty signups (~32.9K) but has a moderate conversion rate to loyalty members (39%). The **email channel** ranks second in customer acquisition (~19K) and has the highest loyalty conversion rate (58%). 
-- **Other Channels:** Despite its low number of orders (2,900) and low loyalty member conversion rate (16%), the **affiliate channel** achieves the highest average order value. The **social media channel** has a low number of orders (1,293) but demonstrates strong loyalty conversion performance (50%), second only to email marketing.
+- **Other Channels:** Despite its low number of orders (2,900) and low loyalty member conversion rate (16%), the **affiliate channel** achieves the highest AOV. The **social media channel** has a low number of orders (1,293) but demonstrates strong loyalty conversion performance (50%), second only to email marketing.
 - **Data Gaps:** Marketing channels are unidentified for 85 "unknown" and 1,387 "blank" customers.
 
 #### Recommendations:
 - **Direct Channel:** Focus marketing efforts on promoting products to further leverage its large customer base. Deprioritize loyalty program marketing due to its relatively lower success in converting customers to loyalty members.
 - **Email Channel:** Emphasize acquiring more customers while leveraging its high loyalty conversion rate to grow loyalty program participation.
-- **Affiliate Channel:** Shift focus toward customer acquisition, capitalizing on its high average order value. Deprioritize loyalty program efforts for this channel due to its low loyalty conversion performance.
+- **Affiliate Channel:** Shift focus toward customer acquisition, capitalizing on its high AOV. Deprioritize loyalty program efforts for this channel due to its low loyalty conversion performance.
 - **Social Media Channel:** Concentrate marketing efforts on acquiring more loyalty members, leveraging its strong loyalty conversion rate. Consider strategies to increase overall order volume for improved channel performance.
 
 
@@ -154,12 +157,12 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Findings:
 - **High Refund Rates for Specific Laptops:** The ThinkPad Laptop has the highest refund rate at 12%, followed closely by the MacBook Air Laptop at 11%.
-- **Correlation Between Average Order Value and Refund Rates:** A strong correlation (R-squared = 0.8843) exists, suggesting that higher-priced items are more likely to have higher refund rates.
+- **Correlation Between AOV and Refund Rates:** A strong correlation (R-squared = 0.8843) exists, suggesting that higher-priced items are more likely to have higher refund rates.
 - **Country-Specific Refund Trends:** Five countries with five or more orders have refund rates of at least 20%, despite their low order volumes. Eight countries with 100 or more orders have refund rates of at least 7%, indicating potential systemic issues.
 
 #### Recommendations:
 - **Investigate High Refund Rates for Laptops:** Conduct an in-depth analysis of the ThinkPad Laptop and MacBook Air Laptop to determine the root causes of their high refund rates. Implement targeted improvements to reduce refunds.
-- **Monitor and Manage High-Value Product Refund Trends:** Develop strategies for mitigating refunds on high-priced items, such as better customer education, enhanced product descriptions, or stricter quality control. Regularly review the relationship between average order value and refund rates to ensure acceptable levels.
+- **Monitor and Manage High-Value Product Refund Trends:** Develop strategies for mitigating refunds on high-priced items, such as better customer education, enhanced product descriptions, or stricter quality control. Regularly review the relationship between AOV and refund rates to ensure acceptable levels.
 - **Address Country-Specific Refund Issues:** Analyze the countries with small order volumes and high refund rates to identify and address unique regional factors. For the countries with over 100 orders and refund rates of 7% or more, implement localized measures to reduce refund rates, such as improved logistics, better customer support, or tailored return policies.
 
 
@@ -170,7 +173,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="501" alt="Mobile App" src="https://github.com/user-attachments/assets/3cdc1095-a95b-4bba-aeaf-9abeead4a61b">
 
 #### Findings:
-- **Mobile App Performance:** Sales and order growth spiked in 2020 (114% increase in sales, 237% increase in orders) but slowed in 2021 (42% sales growth, 165% order growth) and declined significantly in 2022 (41% drop in sales, 39% drop in orders). The average order value (AOV) decreased steadily from $111 in 2019 to $36 in 2022, reflecting a shift toward smaller item purchases such as the Samsung Charging Cable Pack (351% growth in 2021) and the Samsung Webcam (128% growth in 2021).
+- **Mobile App Performance:** Sales and order growth spiked in 2020 (114% increase in sales, 237% increase in orders) but slowed in 2021 (42% sales growth, 165% order growth) and declined significantly in 2022 (41% drop in sales, 39% drop in orders). The AOV decreased steadily from $111 in 2019 to $36 in 2022, reflecting a shift toward smaller item purchases such as the Samsung Charging Cable Pack (351% growth in 2021) and the Samsung Webcam (128% growth in 2021).
 - **Website Performance:** Total sales surged in 2020 (164% growth) but declined by 11% in 2021 and 46% in 2022, with order growth patterns varying. The website's AOV has generally increased, from $237 in 2019 to $294 in 2022, with fluctuations in between. Customers primarily use the website for purchasing higher-value items.
 - **Customer Preferences:** Customers tend to purchase lower-value items on the mobile app and higher-value items on the website.
 
