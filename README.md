@@ -89,7 +89,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 ### Global Reach
 
 <img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/9d40231b-97f8-42b2-b947-093f20e18e8c">
-<img width="337" alt="AOV over 300" src="https://github.com/user-attachments/assets/f69bec02-4c2c-4446-bf73-987dc0424f15">
+<img width="473" alt="AOV over 300" src="https://github.com/user-attachments/assets/f69bec02-4c2c-4446-bf73-987dc0424f15">
 <img width="400" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
 
 
