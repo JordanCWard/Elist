@@ -153,6 +153,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Refund Rates
 
+<img width="500" alt="Refund Rate" src="https://github.com/user-attachments/assets/8514ab48-5877-46f3-821b-c95888bd8fd8">
 <img width="500" alt="AOV and Refund Rate - Scatter Plot" src="https://github.com/user-attachments/assets/f00b746c-3551-4532-b713-b34082254550">
 <img width="206" alt="Highest Refund Rate 10+ Orders" src="https://github.com/user-attachments/assets/8e4399ed-f49d-4eab-9de0-e71468456354">
 <img width="215" alt="Highest Refund Rate 100+ Orders" src="https://github.com/user-attachments/assets/784cac26-8065-4933-90bd-8116275663bc">
