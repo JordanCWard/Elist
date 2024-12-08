@@ -31,7 +31,8 @@ Excel's Data Analysis tool
 - add more info about effectiveness
 - write recommendation
 
-#### graphs/tables
+#### graphs/tables\
+- once I've decided all the ones to use, put them in one sheet in excel then use theme to change all of them
 - include various types
 - don't repeat too often
 - standardize colors, fonts, borders
