@@ -222,13 +222,12 @@ The delivery times are between 5 to 10 days with a  mean of 7.5.
 The delivery after shipping times are between 2 to 9 days with a mean of 5.5.
 
 <img width="252" alt="Shipping Days" src="https://github.com/user-attachments/assets/f2f1cf77-47e5-4ba5-8d08-e6427bc9e89f">
-
+<img width="220" alt="Refund Metrics" src="https://github.com/user-attachments/assets/bb0af87c-c328-4ae1-b5ce-4121d821f16e">
 
 
 redo the analysis below with the new shipping analysis workbook, data has been cleaned so it will change the output.
 
 <img width="410" alt="Delivery Metrics" src="https://github.com/user-attachments/assets/793e68cb-d825-43ca-ab14-6f7dad1f0e63">
-<img width="239" alt="Refund Metrics" src="https://github.com/user-attachments/assets/fadb310a-e1e9-464c-bd30-5fcff29751f4">
 <img width="254" alt="Most Days to Deliver" src="https://github.com/user-attachments/assets/5352bb06-e245-42f9-8206-51d17881856d">
 
 #### Findings:
