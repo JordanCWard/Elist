@@ -55,9 +55,6 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 ### Sales Trends
 
-
-
-
 #### Findings:
 
 <img width="350" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
