@@ -134,7 +134,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Findings:
 
-<img width="285" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/4b5c5265-bf0f-421d-81aa-832be604a65c">
+<img width="400" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/4b5c5265-bf0f-421d-81aa-832be604a65c">
 
 - **Key Channels:** The **direct channel** is the most successful at acquiring customers (~84K) and generating loyalty signups (~32.9K) but has a moderate conversion rate to loyalty members (39%). The **email channel** ranks second in customer acquisition (~19K) and has the highest loyalty conversion rate (58%).
 - **Data Gaps:** Marketing channels are unidentified for 85 "unknown" and 1,387 "blank" customers.
