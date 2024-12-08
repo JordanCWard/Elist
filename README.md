@@ -11,8 +11,6 @@
 
 #### make sure that graphs are the best chosen for what the data is showing
 
-
-
 #### rewrite current list of topics/titles better
 
 #### fix sizing of headers
@@ -21,8 +19,7 @@
 
 
 
-<br>
-<br>
+
 
 
 
@@ -58,8 +55,6 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 ### Sales Trends
 
-- Remove Sales by Month and Growth Rates?
-
 <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
 <img width="216" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
 
@@ -81,9 +76,9 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="343" alt="Product Performance Table" src="https://github.com/user-attachments/assets/5e2c905f-1f9c-4c04-96df-d8aa4f638344">
 
 #### Findings:
-- **Popular Products by Order Volume:** Apple AirPods are Elist's most popular product, accounting for 45% of all orders (48,000+ units).
 - **Top Revenue Generator:** The 27-inch 4K Gaming Monitor is Elist's highest revenue-generating product, contributing nearly $10 million (35% of total sales).
-- **Key Revenue Drivers:** Four products—Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of Elist's total revenue.
+- **Popular Products by Order Volume:** Apple AirPods are Elist's most popular product, accounting for 45% of all orders (48,000+ units).
+- **Key Revenue Drivers:** Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total revenue.
 - **Samsung Charging Cable Pack:** This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
 
 #### Recommendations:
