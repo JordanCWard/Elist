@@ -78,7 +78,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 ### Product Performance
 
 <img width="500" alt="Product Performance" src=https://github.com/user-attachments/assets/643e8dc7-8056-4bd5-a47a-02d70804d3ff>
-<img width="500" alt="Product Sales Table" src="https://github.com/user-attachments/assets/75100b5a-31e7-4fb0-887e-f29a724896d1">
+<img width="343" alt="Product Performance Table" src="https://github.com/user-attachments/assets/5e2c905f-1f9c-4c04-96df-d8aa4f638344">
 
 #### Findings:
 - **Popular Products by Order Volume:** Apple AirPods are Elist's most popular product, accounting for 45% of all orders (48,000+ units).
