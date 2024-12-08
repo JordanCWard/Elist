@@ -14,10 +14,6 @@
 <br>
 <br>
 
-finish shipping analysis in the new workbook created
-data has been cleaned to remove values that don't make sense
-recreate the second tab using the data here, second tab has old data
-
 #### Use this somewhere in the future sections
 regression analysis
 Excel's Data Analysis tool
@@ -216,28 +212,18 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 #### Shipping Times
 
-In the 108,124 orders, there are 41 outliers. The outliers excisted in two categories. The first category (18 orders) had shipping dates before the purchase date. The second (23 orders) had abnormally long shipping days, between 25 to 1297 days. Since this is a small group of outliers, this data should be looked at individually to determine if there is an issue with the data that needs to be fixed.
-After omitting those 41 outliers, the rest of the data had little to note.
-The shipping times are between 1 to 3 days with a mean of 2.
-The delivery times are between 5 to 10 days with a  mean of 7.5.
-The delivery after shipping times are between 2 to 9 days with a mean of 5.5.
-
 <img width="198" alt="Shipping Logistics" src="https://github.com/user-attachments/assets/3ab16e75-b982-4367-ab31-89c9b2743bf0">
 <img width="220" alt="Refund Metrics" src="https://github.com/user-attachments/assets/bb0af87c-c328-4ae1-b5ce-4121d821f16e">
 
-
-
-
-
-redo the analysis below with the new shipping analysis workbook, data has been cleaned so it will change the output.
-
 #### Findings:
-- **Refunds and Shipping/Delivery Times:** Analysis shows no discernible patterns linking refunds to shipping or delivery times. Refunds are independent of these factors, which is a positive outcome for the process.
-- **Outliers in Shipping and Delivery Times:** Qatar and Taiwan exhibit unusually high days to ship and deliver, as illustrated in the scatter plot. In addition to Taiwan, seven other countries with 100 or more orders have average delivery times exceeding 8 days.
+- **Outliers in Orders:** Out of 108,124 orders, 41 outliers were identified. 18 orders have shipping dates that precede the purchase date. 23 orders exhibit abnormally long shipping times, ranging from 25 to 1297 days. These outliers represent a small fraction of the dataset and warrant separate analysis to uncover potential data quality issues, specifically related to the purchase date column.
+- **Shipping and Delivery Times** After excluding the 41 outliers, shipping times range from 1 to 3 days with an average of 2 days and delivery times range from 5 to 10 days with an average of 7.5 days.
+- **Refund Analysis:** The refund rate shows no correlation with shipping or delivery times, indicating that customers are not requesting refunds due to delays in shipping or delivery.
 
 #### Recommendations:
-- **Investigate Outliers:** Analyze the specific reasons for the extended shipping and delivery times in Qatar and Taiwan. Develop strategies to reduce these durations, such as identifying logistical bottlenecks or partnering with more efficient carriers.
-- **Optimize Delivery Times for High-Order Countries:** For the countries with over 100 orders and delivery times averaging more than 8 days, conduct a deeper analysis to understand delays. Implement measures to streamline processes and improve delivery speed in these regions.
+- **Addressing Outliers:** Investigate the purchase date column for the 18 orders with shipping dates preceding purchase dates to identify and correct data entry or system errors. Analyze the 23 orders with extended shipping times to determine their root cause and assess if system improvements are necessary.
+- **Data Quality Improvements:** Implement validation checks to prevent shipping dates from being earlier than purchase dates in future data entries. Set acceptable thresholds for shipping durations and develop alert systems to flag unusually long shipping times.
+- **Ongoing Monitoring:** Continue monitoring the refund process to ensure it remains independent of shipping and delivery performance. Periodically review and audit the data for consistency and accuracy to maintain its reliability.
 
 
 
