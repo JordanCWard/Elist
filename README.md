@@ -92,8 +92,6 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 <img width="473" alt="AOV over 300" src="https://github.com/user-attachments/assets/f69bec02-4c2c-4446-bf73-987dc0424f15">
 <img width="400" alt="Average Order Value by Location (map)" src="https://github.com/user-attachments/assets/e58c7eca-8323-4c51-90d5-7ab1222932ca">
 
-
-
 #### Findings:
 - **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
 - **Concentration of Sales:** The top 12 countries account for 80% of total sales, highlighting the importance of maintaining a strong presence in these markets.
