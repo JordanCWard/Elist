@@ -1,27 +1,5 @@
 ## to do
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-#### Use this somewhere in the future sections
-regression analysis
-Excel's Data Analysis tool
-- Use Excel's Forecast.Linear or Forecast.ETS functions for basic predictive modeling.
-
-- Build a simple linear regression model to predict sales:
-- X-axis: Time (e.g., months).
-- Y-axis: Sales (total sales or per product).
 
 #### graphs/tables\
 - once I've decided all the ones to use, put them in one sheet in excel then use theme to change all of them
