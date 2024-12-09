@@ -32,11 +32,13 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 <img width="350" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
 <br>
+
 - **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000.
 <br>
 
 <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
 <br>
+
 - **Seasonal Sales Patterns:** There is a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
 - **Consumer Behavior Insights:** The sales pattern aligns with typical electronics seasonality, with holiday promotions influencing consumer purchasing decisions. October’s lower activity highlights a potential opportunity to better engage customers before the holiday season.
 <br>
@@ -57,12 +59,14 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 <img width="500" alt="Product Performance" src=https://github.com/user-attachments/assets/643e8dc7-8056-4bd5-a47a-02d70804d3ff>
 <br>
+
 - **Top Revenue Generator:** The 27-inch 4K Gaming Monitor is the highest revenue-generating product, contributing nearly $10 million (35% of total sales).
 - **Popular Products by Order Volume:** Apple AirPods are the most popular product, accounting for 45% of all orders (48,000+ units).
 <br>
 
 <img width="343" alt="Product Performance Table" src="https://github.com/user-attachments/assets/5e2c905f-1f9c-4c04-96df-d8aa4f638344">
 <br>
+
 - **Key Revenue Drivers:** Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total revenue.
 - **Samsung Charging Cable Pack:** This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
 <br>
@@ -81,12 +85,14 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 <img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/9d40231b-97f8-42b2-b947-093f20e18e8c">
 <br>
+
 - **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
 - **Concentration of Sales:** The top 12 countries account for 80% of total sales, highlighting the importance of maintaining a strong presence in these markets.
 <br>
 
 <img width="400" alt="AOV over 300" src="https://github.com/user-attachments/assets/f69bec02-4c2c-4446-bf73-987dc0424f15">
 <br>
+
 - **High-AOV Countries:** After filtering for countries with 100 or more orders, 12 countries have an AOV above $300. These countries represent 8% of total orders and 10% of total sales.
 <br>
 
@@ -105,12 +111,14 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 <img width="650" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/f43730e3-d160-435b-b393-a25c0ddb9bb9">
 <br>
+
 - **Loyalty Program Adoption and Performance:** The loyalty program, introduced in 2019, saw significant customer adoption beginning in early 2021. Since then, loyalty customers have consistently outperformed non-loyalty customers in sales and order count, a trend that has continued through 2022.
 - **Higher AOV for Loyalty Customers:** In addition to higher order volumes, loyalty customers now have a greater average order value (AOV) compared to non-loyalty customers. This indicates that loyalty members are making not only more frequent purchases but also higher-value purchases.
 <br>
 
 <img width="500" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/73228526-f72c-4d90-a229-cafb52add012">
 <br>
+
 - **Forecasted Growth for Loyalty Sales:** Regression analysis of sales data indicates that loyalty sales are projected to surpass non-loyalty sales in the future, underscoring the increasing success of the program.
 <br>
 
