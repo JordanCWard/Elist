@@ -228,7 +228,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 <img width="250" alt="Refund Metrics" src="https://github.com/user-attachments/assets/bb0af87c-c328-4ae1-b5ce-4121d821f16e">
 <br><br>
 
-- **Refund Analysis:** The refund rate shows no correlation with shipping or delivery times, indicating that customers are not requesting refunds due to delays in shipping or delivery.
+- **Refund Analysis:** Refunds show no correlation with shipping or delivery times, suggesting that customers are not requesting refunds due to delays.
 - **Outliers in Orders:** Out of 108,124 orders, 41 outliers were identified and excluded. 18 orders have shipping dates that precede the purchase date. 23 orders exhibit abnormally long shipping times, ranging from 25 to 1297 days. These outliers represent a small fraction of the dataset and warrant separate analysis to uncover potential data quality issues, specifically related to the purchase date column.
 <br><br>
 
