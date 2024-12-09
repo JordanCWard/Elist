@@ -27,14 +27,6 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - [Purchasing Platforms](#purchasing-platforms)
 - [Shipping Performance](#shipping-performance)
 
-- Product Analysis
-- Global Market
-- Loyalty Program
-- Marketing Strategies
-- Refund Analysis
-- Purchasing Platforms
-- Shipping Performance
-
 <br><br>
 
 ### Sales Insights
