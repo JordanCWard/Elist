@@ -1,9 +1,6 @@
-fix formatting between charts/graphs, outlines, colors
-
 About the Data
 Should I include the workbook and info about data cleaning?
-clean up excel file
-
+clean up excel file and add it or unnecessary?
 
 
 
