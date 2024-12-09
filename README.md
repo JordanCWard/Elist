@@ -86,14 +86,14 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/6241733d-7562-4674-a499-7ff8d3cdb220">
+<img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/e731e24b-5b31-43d5-bd74-0d4ef20486fb">
 <br><br>
 
 - **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
 - **Concentration of Sales:** The top 12 countries account for 80% of total sales, highlighting the importance of maintaining a strong presence in these markets.
 <br><br>
 
-<img width="400" alt="AOV over 300" src="https://github.com/user-attachments/assets/f69bec02-4c2c-4446-bf73-987dc0424f15">
+<img width="450" alt="AOV over 300" src="https://github.com/user-attachments/assets/3dc6d3ce-9493-4ae9-8b25-ca31e202dcfb">
 <br><br>
 
 - **High-AOV Countries:** After filtering for countries with 100 or more orders, 12 countries have an AOV above $300. These countries represent 8% of total orders and 10% of total sales.
