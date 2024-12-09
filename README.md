@@ -1,4 +1,3 @@
-
 fix formatting between charts/graphs, outlines, colors
 
 About the Data
@@ -33,7 +32,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="300" alt="Sales by Year" src="https://github.com/user-attachments/assets/b9b06f5d-5dd5-496d-8f70-6718362942bd">
+<img width="310" alt="Sales by Year" src="https://github.com/user-attachments/assets/b9b06f5d-5dd5-496d-8f70-6718362942bd">
 <br><br>
 
 - **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000.
@@ -176,8 +175,9 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Correlation Between AOV and Refund Rates:** A strong correlation exists (R-squared = 0.8843), suggesting that higher-priced items are more likely to have higher refund rates.
 <br><br>
 
-<img width="206" alt="Highest Refund Rate 10+ Orders" src="https://github.com/user-attachments/assets/8e4399ed-f49d-4eab-9de0-e71468456354"> &ensp;
-<img width="215" alt="Highest Refund Rate 100+ Orders" src="https://github.com/user-attachments/assets/784cac26-8065-4933-90bd-8116275663bc">
+<img width="250" alt="Highest Refund Rate 10+ Orders" src="https://github.com/user-attachments/assets/9455e535-94a5-47fd-876b-f1d6d471c95a">
+&ensp; &ensp; &ensp;
+<img width="250" alt="Highest Refund Rate 100+ Orders" src="https://github.com/user-attachments/assets/241dbbb1-1950-4a63-ac52-b2ab545e2e46">
 <br><br>
 
 - **Country-Specific Refund Trends:** The table on the left lists the countries with the highest refund rates among those with 10 or more orders, while the table on the right highlights the countries with the highest refund rates among those with 100 or more orders.
@@ -194,14 +194,14 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/a2d675c6-f169-4e95-bb5e-e59164b47479">
+<img width="500" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/08858155-6a92-417f-b15b-042e55b06c40">
 <br><br>
 
 - **Website Performance:** Total sales surged in 2020 (164% growth) but declined by 11% in 2021 and 46% in 2022, with order growth patterns varying. The website's AOV has generally increased, from $237 in 2019 to $294 in 2022, with fluctuations in between.
 - **Mobile App Performance:** Sales and order growth spiked in 2020, slowed in 2021 and declined significantly in 2022. The AOV decreased steadily from $111 in 2019 to $36 in 2022, reflecting a shift toward lower-cost items.
 <br><br>
 
-<img width="500" alt="Orders by Purchasing Platform" src="https://github.com/user-attachments/assets/d2e52cf7-04c7-4724-b9d9-745c1c1309e1">
+<img width="600" alt="Orders by Purchasing Platform" src="https://github.com/user-attachments/assets/8e7ff02f-f3db-4276-b43c-c0fd0c87aaf4">
 <br><br>
 
 - **Customer Preferences:** The mobile app was predominantly used for purchasing lower-cost items, with 98% of Samsung Webcam sales and 43% of Samsung Charging Cable Pack sales made through the app. Higher-value items were primarily purchased through the website, highlighting a clear platform preference based on product value.
@@ -218,13 +218,13 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="250" alt="Shipping Logistics" src="https://github.com/user-attachments/assets/3ab16e75-b982-4367-ab31-89c9b2743bf0">
+<img width="300" alt="Shipping Logistics" src="https://github.com/user-attachments/assets/62f443ac-84bc-4171-9139-1681a6451c04">
 <br><br>
 
 - **Shipping and Delivery Times** Shipping times range from 1 to 3 days with an average of 2 days and delivery times range from 5 to 10 days with an average of 7.5 days.
 <br><br>
 
-<img width="250" alt="Refund Metrics" src="https://github.com/user-attachments/assets/bb0af87c-c328-4ae1-b5ce-4121d821f16e">
+<img width="300" alt="Refund Metrics" src="https://github.com/user-attachments/assets/0dd2cc5f-2c7f-4b1f-9bfa-89e2f3411975">
 <br><br>
 
 - **Refund Analysis:** Refunds show no correlation with shipping or delivery times, suggesting that customers are not requesting refunds due to delays.
