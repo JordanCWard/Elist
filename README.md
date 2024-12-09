@@ -112,15 +112,14 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="650" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/f43730e3-d160-435b-b393-a25c0ddb9bb9">
+<img width="650" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/272d7870-ed7b-4c6d-8178-3082230df37e">
 <br><br>
 
 - **Loyalty Program Adoption and Performance:** The loyalty program, introduced in 2019, saw significant customer adoption beginning in early 2021. Since then, loyalty customers have consistently outperformed non-loyalty customers in sales and order count, a trend that has continued through 2022.
 - **Higher AOV for Loyalty Customers:** In addition to higher order volumes, loyalty customers now have a greater average order value (AOV) compared to non-loyalty customers. This indicates that loyalty members are making not only more frequent purchases but also higher-value purchases.
 <br><br>
 
-
-<img width="500" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/15200756-519e-44c2-8765-edeeb7c49b07">
+<img width="700" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/fee7738a-7843-4758-9ae2-74f301293878">
 <br><br>
 
 - **Forecasted Growth for Loyalty Sales:** Regression analysis of sales data indicates that loyalty sales are projected to surpass non-loyalty sales in the future, underscoring the increasing success of the program.
