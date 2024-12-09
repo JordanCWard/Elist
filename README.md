@@ -1,5 +1,5 @@
 
-Summary at the top
+fix formatting between charts/graphs, outlines, colors
 
 About the Data
 Should I include the workbook and info about data cleaning?
@@ -17,7 +17,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 - Sales Insights
 - Product Analysis
-- International Market
+- Global Market
 - Loyalty Program
 - Marketing Strategies
 - Refund Analysis
@@ -79,11 +79,11 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 
 
-### International Market
+### Global Market
 
 #### Findings:
 
-<img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/9d40231b-97f8-42b2-b947-093f20e18e8c">
+<img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/6241733d-7562-4674-a499-7ff8d3cdb220">
 <br><br>
 
 - **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
@@ -105,7 +105,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 
 
-#### Loyalty Program
+### Loyalty Program
 
 #### Findings:
 
@@ -116,7 +116,8 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Higher AOV for Loyalty Customers:** In addition to higher order volumes, loyalty customers now have a greater average order value (AOV) compared to non-loyalty customers. This indicates that loyalty members are making not only more frequent purchases but also higher-value purchases.
 <br><br>
 
-<img width="500" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/73228526-f72c-4d90-a229-cafb52add012">
+
+<img width="500" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/15200756-519e-44c2-8765-edeeb7c49b07">
 <br><br>
 
 - **Forecasted Growth for Loyalty Sales:** Regression analysis of sales data indicates that loyalty sales are projected to surpass non-loyalty sales in the future, underscoring the increasing success of the program.
@@ -130,7 +131,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 
 
-#### Marketing Strategies
+### Marketing Strategies
 
 #### Findings:
 
@@ -157,7 +158,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 
 
-#### Refund Analysis
+### Refund Analysis
 
 #### Findings:
 
@@ -187,7 +188,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 <br><br>
 
 
-#### Purchasing Platforms
+### Purchasing Platforms
 
 #### Findings:
 
@@ -211,7 +212,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 <br><br>
 
 
-#### Shipping Performance
+### Shipping Performance
 
 #### Findings:
 
