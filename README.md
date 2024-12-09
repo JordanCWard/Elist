@@ -201,7 +201,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Mobile App Performance:** Sales and order growth spiked in 2020, slowed in 2021 and declined significantly in 2022. The AOV decreased steadily from $111 in 2019 to $36 in 2022, reflecting a shift toward lower-cost items.
 <br><br>
 
-<img width="600" alt="Orders by Purchasing Platform" src="https://github.com/user-attachments/assets/8e7ff02f-f3db-4276-b43c-c0fd0c87aaf4">
+<img width="600" alt="Orders by Purchasing Platform" src="https://github.com/user-attachments/assets/86b05515-febc-455c-ad9a-9d9bc387a08d">
 <br><br>
 
 - **Customer Preferences:** The mobile app was predominantly used for purchasing lower-cost items, with 98% of Samsung Webcam sales and 43% of Samsung Charging Cable Pack sales made through the app. Higher-value items were primarily purchased through the website, highlighting a clear platform preference based on product value.
