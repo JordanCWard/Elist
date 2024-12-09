@@ -31,17 +31,17 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Findings:
 
 <img width="350" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
-<br>
+<br><br>
 
 - **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000.
-<br>
+<br><br>
 
 <img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
-<br>
+<br><br>
 
 - **Seasonal Sales Patterns:** There is a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
 - **Consumer Behavior Insights:** The sales pattern aligns with typical electronics seasonality, with holiday promotions influencing consumer purchasing decisions. October’s lower activity highlights a potential opportunity to better engage customers before the holiday season.
-<br>
+<br><br>
 
 #### Recommendations:
 - **Maximize November and December Promotions:** Expand marketing campaigns starting in early November to capitalize on the sales surge (18% in November and 23% in December) by highlighting exclusive deals, limited-time offers, and bundle packages to drive urgency and increase AOV.
@@ -58,18 +58,18 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Findings:
 
 <img width="500" alt="Product Performance" src=https://github.com/user-attachments/assets/643e8dc7-8056-4bd5-a47a-02d70804d3ff>
-<br>
+<br><br>
 
 - **Top Revenue Generator:** The 27-inch 4K Gaming Monitor is the highest revenue-generating product, contributing nearly $10 million (35% of total sales).
 - **Popular Products by Order Volume:** Apple AirPods are the most popular product, accounting for 45% of all orders (48,000+ units).
-<br>
+<br><br>
 
 <img width="343" alt="Product Performance Table" src="https://github.com/user-attachments/assets/5e2c905f-1f9c-4c04-96df-d8aa4f638344">
-<br>
+<br><br>
 
 - **Key Revenue Drivers:** Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total revenue.
 - **Samsung Charging Cable Pack:** This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
-<br>
+<br><br>
 
 #### Recommendations:
 - **Expand Product Catalog:** To diversify revenue streams, consider adding more products in the same categories as the top performers, focusing on in-class alternatives.
@@ -84,17 +84,17 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Findings:
 
 <img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/9d40231b-97f8-42b2-b947-093f20e18e8c">
-<br>
+<br><br>
 
 - **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
 - **Concentration of Sales:** The top 12 countries account for 80% of total sales, highlighting the importance of maintaining a strong presence in these markets.
-<br>
+<br><br>
 
 <img width="400" alt="AOV over 300" src="https://github.com/user-attachments/assets/f69bec02-4c2c-4446-bf73-987dc0424f15">
-<br>
+<br><br>
 
 - **High-AOV Countries:** After filtering for countries with 100 or more orders, 12 countries have an AOV above $300. These countries represent 8% of total orders and 10% of total sales.
-<br>
+<br><br>
 
 #### Recommendations:
 - **Prioritize Top Markets:** Continue to focus on the top 12 countries driving 80% of sales, ensuring a strong presence and tailored strategies to maintain momentum, particularly in capturing retained value from 2020.
@@ -110,17 +110,17 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Findings:
 
 <img width="650" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/f43730e3-d160-435b-b393-a25c0ddb9bb9">
-<br>
+<br><br>
 
 - **Loyalty Program Adoption and Performance:** The loyalty program, introduced in 2019, saw significant customer adoption beginning in early 2021. Since then, loyalty customers have consistently outperformed non-loyalty customers in sales and order count, a trend that has continued through 2022.
 - **Higher AOV for Loyalty Customers:** In addition to higher order volumes, loyalty customers now have a greater average order value (AOV) compared to non-loyalty customers. This indicates that loyalty members are making not only more frequent purchases but also higher-value purchases.
-<br>
+<br><br>
 
 <img width="500" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/73228526-f72c-4d90-a229-cafb52add012">
-<br>
+<br><br>
 
 - **Forecasted Growth for Loyalty Sales:** Regression analysis of sales data indicates that loyalty sales are projected to surpass non-loyalty sales in the future, underscoring the increasing success of the program.
-<br>
+<br><br>
 
 #### Recommendations:
 - **Sustain and Expand the Loyalty Program:** Continue to invest in and refine the loyalty program to maintain its positive trajectory and further boost loyalty customer engagement and revenue.
@@ -135,17 +135,17 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Findings:
 
 <img width="400" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/4b5c5265-bf0f-421d-81aa-832be604a65c">
-<br>
+<br><br>
 
 - **Key Channels:** The **direct channel** is the most successful at acquiring customers (~84K) and generating loyalty signups (~32.9K) but has a moderate conversion rate to loyalty members (39%). The **email channel** ranks second in customer acquisition (~19K) and has the highest loyalty conversion rate (58%).
 - **Data Gaps:** Marketing channels are unidentified for 85 "unknown" and 1,387 "blank" customers.
-<br>
+<br><br>
 
 <img width="500" alt="Marketing Channels" src="https://github.com/user-attachments/assets/73a20f77-db51-4f35-b17b-cfdbe60510e4">
-<br>
+<br><br>
 
 - **Other Channels:** Despite its low number of orders (2,900) and low loyalty member conversion rate (16%), the **affiliate channel** consistently achieves the highest AOV. The **social media channel** has a low number of orders (1,293) but demonstrates consistent AOV year-over-year and strong loyalty conversion performance (50%), second only to email marketing.
-<br>
+<br><br>
 
 #### Recommendations:
 - **Direct Channel:** Focus marketing efforts on promoting products to maximize the large customer base, while deprioritizing loyalty program marketing due to its relatively lower success in converting customers to members.
@@ -162,23 +162,23 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Findings:
 
 <img width="500" alt="Refund Rate" src="https://github.com/user-attachments/assets/8514ab48-5877-46f3-821b-c95888bd8fd8">
-<br>
+<br><br>
 
 - **High Refund Rates for Specific Laptops:** The ThinkPad Laptop has the highest refund rate at 12%, followed closely by the MacBook Air Laptop at 11%.
-<br>
+<br><br>
 
 <img width="500" alt="AOV and Refund Rate - Scatter Plot" src="https://github.com/user-attachments/assets/f00b746c-3551-4532-b713-b34082254550">
-<br>
+<br><br>
 
 - **Correlation Between AOV and Refund Rates:** A strong correlation exists (R-squared = 0.8843), suggesting that higher-priced items are more likely to have higher refund rates.
-<br>
+<br><br>
 
 <img width="206" alt="Highest Refund Rate 10+ Orders" src="https://github.com/user-attachments/assets/8e4399ed-f49d-4eab-9de0-e71468456354"> &ensp;
 <img width="215" alt="Highest Refund Rate 100+ Orders" src="https://github.com/user-attachments/assets/784cac26-8065-4933-90bd-8116275663bc">
-<br>
+<br><br>
 
 - **Country-Specific Refund Trends:** The table on the left lists the countries with the highest refund rates among those with 10 or more orders, while the table on the right highlights the countries with the highest refund rates among those with 100 or more orders.
-<br>
+<br><br>
 
 #### Recommendations:
 - **Investigate High Refund Rates for Laptops:** Conduct an in-depth analysis of the ThinkPad Laptop and MacBook Air Laptop to identify the root causes of their high refund rates and implement targeted improvements to reduce them.
@@ -192,17 +192,17 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Findings:
 
 <img width="410" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/a2d675c6-f169-4e95-bb5e-e59164b47479">
-<br>
+<br><br>
 
 - **Website Performance:** Total sales surged in 2020 (164% growth) but declined by 11% in 2021 and 46% in 2022, with order growth patterns varying. The website's AOV has generally increased, from $237 in 2019 to $294 in 2022, with fluctuations in between.
 - **Mobile App Performance:** Sales and order growth spiked in 2020, slowed in 2021 and declined significantly in 2022. The AOV decreased steadily from $111 in 2019 to $36 in 2022, reflecting a shift toward lower-cost items.
-<br>
+<br><br>
 
 <img width="500" alt="Orders by Purchasing Platform" src="https://github.com/user-attachments/assets/d2e52cf7-04c7-4724-b9d9-745c1c1309e1">
-<br>
+<br><br>
 
 - **Customer Preferences:** The mobile app was predominantly used for purchasing lower-cost items, with 98% of Samsung Webcam sales and 43% of Samsung Charging Cable Pack sales made through the app. Higher-value items were primarily purchased through the website, highlighting a clear platform preference based on product value.
-<br>
+<br><br>
 
 #### Recommendations:
 - **Mobile App Strategy:** Focus marketing efforts on lower-value items that align with customer purchase behavior, while expanding the inventory of popular products like the Samsung Charging Cable Pack and Samsung Webcam to maximize their demand.
@@ -216,17 +216,17 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Findings:
 
 <img width="198" alt="Shipping Logistics" src="https://github.com/user-attachments/assets/3ab16e75-b982-4367-ab31-89c9b2743bf0">
-<br>
+<br><br>
 
 - **Shipping and Delivery Times** Shipping times range from 1 to 3 days with an average of 2 days and delivery times range from 5 to 10 days with an average of 7.5 days.
-<br>
+<br><br>
 
 <img width="220" alt="Refund Metrics" src="https://github.com/user-attachments/assets/bb0af87c-c328-4ae1-b5ce-4121d821f16e">
-<br>
+<br><br>
 
 - **Refund Analysis:** The refund rate shows no correlation with shipping or delivery times, indicating that customers are not requesting refunds due to delays in shipping or delivery.
 - **Outliers in Orders:** Out of 108,124 orders, 41 outliers were identified and excluded. 18 orders have shipping dates that precede the purchase date. 23 orders exhibit abnormally long shipping times, ranging from 25 to 1297 days. These outliers represent a small fraction of the dataset and warrant separate analysis to uncover potential data quality issues, specifically related to the purchase date column.
-<br>
+<br><br>
 
 #### Recommendations:
 
