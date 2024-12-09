@@ -137,14 +137,14 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="400" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/4b5c5265-bf0f-421d-81aa-832be604a65c">
+<img width="400" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/ed3e6e61-375a-4578-ba93-1b81e949790c">
 <br><br>
 
 - **Key Channels:** The **direct channel** is the most successful at acquiring customers (~84K) and generating loyalty signups (~32.9K) but has a moderate conversion rate to loyalty members (39%). The **email channel** ranks second in customer acquisition (~19K) and has the highest loyalty conversion rate (58%).
 - **Data Gaps:** Marketing channels are unidentified for 85 "unknown" and 1,387 "blank" customers.
 <br><br>
 
-<img width="500" alt="Marketing Channels" src="https://github.com/user-attachments/assets/73a20f77-db51-4f35-b17b-cfdbe60510e4">
+<img width="500" alt="Marketing Channels" src="https://github.com/user-attachments/assets/b0b2f563-b460-467d-b5a5-17a1c48139fd">
 <br><br>
 
 - **Other Channels:** Despite its low number of orders (2,900) and low loyalty member conversion rate (16%), the **affiliate channel** consistently achieves the highest AOV. The **social media channel** has a low number of orders (1,293) but demonstrates consistent AOV year-over-year and strong loyalty conversion performance (50%), second only to email marketing.
@@ -164,13 +164,13 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="500" alt="Refund Rate" src="https://github.com/user-attachments/assets/8514ab48-5877-46f3-821b-c95888bd8fd8">
+<img width="500" alt="Refund Rate" src="https://github.com/user-attachments/assets/093c7b94-ef04-48cb-9212-4711162dff40">
 <br><br>
 
 - **High Refund Rates for Specific Laptops:** The ThinkPad Laptop has the highest refund rate at 12%, followed closely by the MacBook Air Laptop at 11%.
 <br><br>
 
-<img width="500" alt="AOV and Refund Rate - Scatter Plot" src="https://github.com/user-attachments/assets/f00b746c-3551-4532-b713-b34082254550">
+<img width="500" alt="AOV and Refund Rate - Scatter Plot" src="https://github.com/user-attachments/assets/8d5769c1-d7ec-4dc7-a17f-3ba6afaf1a38">
 <br><br>
 
 - **Correlation Between AOV and Refund Rates:** A strong correlation exists (R-squared = 0.8843), suggesting that higher-priced items are more likely to have higher refund rates.
