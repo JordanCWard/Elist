@@ -1,31 +1,9 @@
-## to do
-
-Currently on purchasing platform
-need to finish cleaning up the last two, moving graphs into data where they're relevant
-Then finish cleaning graphs with info below this
-
-
-#### graphs/tables
-- once I've decided all the ones to use, put them in one sheet in excel then use theme to change all of them
-- include various types
-- don't repeat too often
-- standardize colors, fonts, borders
-- put them before or after info?
-- remove gridlines
-
-#### make sure that graphs are the best chosen for what the data is showing
-
-#### rewrite current list of topics/titles better
 
 Summary at the top
 
-#### fix sizing of headers
-
-#### clean up excel file
-
-
-
-
+About the Data
+Should I include the workbook and info about data cleaning?
+clean up excel file
 
 
 
@@ -33,33 +11,22 @@ Summary at the top
 
 ### Overview
 
-Elist, established in 2018, is an e-commerce business specializing in popular electronics. Initially focused on the local market, Elist has grown to serve customers worldwide. Their products are available for purchase through both their website and mobile app. To engage their audience, they utilize various marketing strategies such as email marketing, SEO tactics, and affiliate programs. Among their top-selling items are electronics from major brands like Apple, Samsung, and ThinkPad.
+Elist, founded in 2018, is a global e-commerce company specializing in popular electronics. Originally serving the local market, the company has expanded its reach to customers worldwide, offering products through both its website and mobile app. Elist engages its audience through a variety of marketing strategies, including affiliate programs, email campaigns, and social media initiatives. Top-selling products include electronics from renowned brands like Apple, Samsung, and ThinkPad.
 
-The company has vast amounts of data on its (fill in topics). This data, previously underutilised, is now being thoroughly analysed to uncover critical insights aimed at enhancing their commercial performance. The project provides insights and recommendations on the following key areas:
+Elist possesses extensive sales data that was previously underutilized. This data is now being analyzed to uncover valuable insights and drive improved commercial performance. The project focuses on providing insights and recommendations in the following key areas:
 
-### Current list of topics
-- Sales Trends: Focused on ____ (Focused on Revenue, Orders Placed, and Average Order Value (AOV).)
-- Product Performance: Focused on ____ (An analysis of different product lines and their market impact.)
-- Global Reach: Focused on ____
-- Loyalty Program: Focused on ____ (Loyalty Programme Performance - Assessment of the loyalty programme's effectiveness and its future.)
-- Marketing Channels: Focused on ____ (Marketing Channel Effectiveness - Analysis of various marketing channels and their return on investment.)
-- Purchasing Platform: Focused on ____
-- Refund Rates: Focused on ____
-- Operational Effectiveness: Focused on ____ (Evaluation of logistics and operational efficiency.)
+- Sales Insights
+- Product Analysis
+- International Market
+- Loyalty Program
+- Marketing Strategies
+- Refund Analysis
+- Purchasing Platforms
+- Shipping Performance
 
-- The SQL queries performed to uncover these general insights are found here.
+<br><br>
 
-- Targeted SQL queries relating to these categories can also be found here.
-
-- Tableau dashboard can be found here.
-
-
-
-
-
-### <p align="center"> Deep-Dive Insights </p>
-
-### Sales Trends
+### Sales Insights
 
 #### Findings:
 
@@ -79,7 +46,10 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - **Investigate Drop-off Causes:** Conduct customer surveys and analyze competitor trends to understand consumer behavior in October and other slower months, testing incentives like early-bird discounts and pre-holiday bundles to encourage purchases before the deal season starts in November.
 
 
-### Product Performance
+
+
+
+### Product Analysis
 
 #### Findings:
 
@@ -98,7 +68,10 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - **Optimize Samsung Charging Cable Pack Strategy:** Increase profitability by exploring price adjustments or introducing a bundled version of the product to capture additional value.
 
 
-### Global Reach
+
+
+
+### International Market
 
 #### Findings:
 
@@ -115,6 +88,9 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - **Prioritize Top Markets:** Continue to focus on the top 12 countries driving 80% of sales, ensuring a strong presence and tailored strategies to maintain momentum, particularly in capturing retained value from 2020.
 - **Explore High-AOV Markets:** Develop targeted efforts to penetrate the 12 high-AOV countries, leveraging consumer preferences for premium products to drive significant sales growth.
 - **Market Analysis for Expansion:** Conduct in-depth analysis to identify similarities among countries, using these insights to pinpoint new market opportunities and refine global expansion strategies.
+
+
+
 
 
 #### Loyalty Program
@@ -136,7 +112,8 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 
 
-#### Marketing Channels
+
+#### Marketing Strategies
 
 #### Findings:
 
@@ -157,7 +134,10 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 - **Social Media Channel:** Concentrate marketing efforts on acquiring more loyalty members by leveraging the strong loyalty conversion rate, while exploring strategies to increase overall order volume for better channel performance.
 
 
-#### Refund Rates
+
+
+
+#### Refund Analysis
 
 #### Findings:
 
@@ -181,7 +161,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 
 
-#### Purchasing Platform
+#### Purchasing Platforms
 
 #### Findings:
 
@@ -201,10 +181,7 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 
 
 
-#### Shipping Times
-
-
-
+#### Shipping Performance
 
 #### Findings:
 
@@ -230,5 +207,4 @@ The company has vast amounts of data on its (fill in topics). This data, previou
 The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/elist_analysis/blob/main/Elist_ERD.png).
 
 # About the Data
-Include file about data cleaning here
-Include workbook for more analysis here
+Should I include the workbook and info about data cleaning?
