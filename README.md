@@ -98,7 +98,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Recommendations:
 - **Prioritize Top Markets:** Continue to focus on the top 12 countries driving 80% of sales, ensuring a strong presence and tailored strategies to maintain momentum, particularly in capturing retained value from 2020.
-- **Explore High-AOV Markets:** Develop targeted efforts to penetrate the 12 high-AOV countries, leveraging consumer preferences for premium products to drive significant sales growth.
+- **Explore High-AOV Markets:** Develop targeted efforts to increase order volume in the 12 high-AOV countries, leveraging consumer preferences for premium products to drive significant sales growth.
 - **Market Analysis for Expansion:** Conduct in-depth analysis to identify similarities among countries, using these insights to pinpoint new market opportunities and refine global expansion strategies.
 <br><br>
 
