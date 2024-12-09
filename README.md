@@ -33,13 +33,13 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="300" alt="Sales by Year" src="https://github.com/user-attachments/assets/905af2c4-9424-47ce-8048-c1644e0c5d20">
+<img width="300" alt="Sales by Year" src="https://github.com/user-attachments/assets/b9b06f5d-5dd5-496d-8f70-6718362942bd">
 <br><br>
 
 - **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000.
 <br><br>
 
-<img width="500" alt="Seasonality" src="https://github.com/user-attachments/assets/e47024fc-952f-498e-a384-5f110f9b5650">
+<img width="700" alt="Seasonality" src="https://github.com/user-attachments/assets/25288eba-b5a6-471c-92ba-d4b9fdd0add5">
 <br><br>
 
 - **Seasonal Sales Patterns:** There is a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
@@ -60,17 +60,17 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="500" alt="Product Performance" src=https://github.com/user-attachments/assets/643e8dc7-8056-4bd5-a47a-02d70804d3ff>
+<img width="600" alt="Product Performance" src=https://github.com/user-attachments/assets/1c1f3fa4-b5ca-4a86-8cec-30b86b95fe13>
 <br><br>
 
 - **Top Revenue Generator:** The 27-inch 4K Gaming Monitor is the highest revenue-generating product, contributing nearly $10 million (35% of total sales).
 - **Popular Products by Order Volume:** Apple AirPods are the most popular product, accounting for 45% of all orders (48,000+ units).
 <br><br>
 
-<img width="343" alt="Product Performance Table" src="https://github.com/user-attachments/assets/5e2c905f-1f9c-4c04-96df-d8aa4f638344">
+<img width="469" alt="Product Performance Table" src="https://github.com/user-attachments/assets/79bbf0f5-54a7-4eac-a8dc-b65a4548dc45">
 <br><br>
 
-- **Key Revenue Drivers:** Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total revenue.
+- **Key Revenue Drivers:** Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total sales.
 - **Samsung Charging Cable Pack:** This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
 <br><br>
 
