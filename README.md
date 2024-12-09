@@ -1,8 +1,9 @@
+#### Notes for myself
 About the Data
 Should I include the workbook and info about data cleaning?
 clean up excel file and add it or unnecessary?
 
-
+<br><br>
 
 
 
