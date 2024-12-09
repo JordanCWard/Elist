@@ -19,6 +19,14 @@ Elist, founded in 2018, is a global e-commerce company specializing in popular e
 Elist possesses extensive sales data that was previously underutilized. This data is now being analyzed to uncover valuable insights and drive improved commercial performance. The project focuses on providing insights and recommendations in the following key areas:
 
 - [Sales Insights](#sales-insights)
+- [Product Analysis](#product-analysis)
+- [Global Market](#global-market)
+- [Loyalty Program](#loyalty-program)
+- [Marketing Strategies](#marketing-strategies)
+- [Refund Analysis](#refund-analysis)
+- [Purchasing Platforms](#purchasing-platforms)
+- [Shipping Performance](#shipping-performance)
+
 - Product Analysis
 - Global Market
 - Loyalty Program
