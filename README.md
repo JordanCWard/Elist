@@ -7,6 +7,9 @@ clean up excel file
 
 
 
+
+
+
 # <p align="center"> Elist Sales Analysis </p>
 
 ### Overview
@@ -216,13 +219,13 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="198" alt="Shipping Logistics" src="https://github.com/user-attachments/assets/3ab16e75-b982-4367-ab31-89c9b2743bf0">
+<img width="250" alt="Shipping Logistics" src="https://github.com/user-attachments/assets/3ab16e75-b982-4367-ab31-89c9b2743bf0">
 <br><br>
 
 - **Shipping and Delivery Times** Shipping times range from 1 to 3 days with an average of 2 days and delivery times range from 5 to 10 days with an average of 7.5 days.
 <br><br>
 
-<img width="220" alt="Refund Metrics" src="https://github.com/user-attachments/assets/bb0af87c-c328-4ae1-b5ce-4121d821f16e">
+<img width="250" alt="Refund Metrics" src="https://github.com/user-attachments/assets/bb0af87c-c328-4ae1-b5ce-4121d821f16e">
 <br><br>
 
 - **Refund Analysis:** The refund rate shows no correlation with shipping or delivery times, indicating that customers are not requesting refunds due to delays in shipping or delivery.
