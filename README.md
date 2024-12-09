@@ -5,7 +5,7 @@ About the Data
 Should I include the workbook and info about data cleaning?
 clean up excel file
 
-[Sales Insights](#sales-insights)
+
 
 
 
@@ -18,7 +18,7 @@ Elist, founded in 2018, is a global e-commerce company specializing in popular e
 
 Elist possesses extensive sales data that was previously underutilized. This data is now being analyzed to uncover valuable insights and drive improved commercial performance. The project focuses on providing insights and recommendations in the following key areas:
 
-- Sales Insights
+- [Sales Insights](#sales-insights)
 - Product Analysis
 - Global Market
 - Loyalty Program
