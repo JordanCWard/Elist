@@ -161,7 +161,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="500" alt="Refund Rate" src="https://github.com/user-attachments/assets/093c7b94-ef04-48cb-9212-4711162dff40">
+<img width="600" alt="Refund Rate" src="https://github.com/user-attachments/assets/8dc973f2-febf-43a0-9aa1-4fcfc98072eb">
 <br><br>
 
 - **High Refund Rates for Specific Laptops:** The ThinkPad Laptop has the highest refund rate at 12%, followed closely by the MacBook Air Laptop at 11%.
