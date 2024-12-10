@@ -116,7 +116,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Higher AOV for Loyalty Customers:** In addition to higher order volumes, loyalty customers now have a greater average order value (AOV) compared to non-loyalty customers. This indicates that loyalty members are making not only more frequent purchases but also higher-value purchases.
 <br><br>
 
-<img width="700" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/fee7738a-7843-4758-9ae2-74f301293878">
+<img width="700" alt="Loyalty vs Non-Loyalty Sales Forecast" src="https://github.com/user-attachments/assets/ede18e85-0355-499f-9cd1-cf144cd36ccf">
 <br><br>
 
 - **Forecasted Growth for Loyalty Sales:** Regression analysis of sales data indicates that loyalty sales are projected to surpass non-loyalty sales in the future, underscoring the increasing success of the program.
