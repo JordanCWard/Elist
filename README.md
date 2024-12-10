@@ -6,7 +6,6 @@ re-order the sections?
 <br><br>
 
 
-
 # <p align="center"> Elist Analysis </p>
 
 ### Overview
@@ -116,7 +115,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Higher AOV for Loyalty Customers:** In addition to higher order volumes, loyalty customers now have a greater average order value (AOV) compared to non-loyalty customers. This indicates that loyalty members are making not only more frequent purchases but also higher-value purchases.
 <br><br>
 
-<img width="700" alt="Loyalty vs Non-Loyalty Sales" src="https://github.com/user-attachments/assets/9d4fb16e-a647-4c39-800e-627df524ee71">
+<img width="800" alt="Loyalty vs Non-Loyalty Sales" src="https://github.com/user-attachments/assets/9d4fb16e-a647-4c39-800e-627df524ee71">
 <br><br>
 
 - **Forecasted Growth for Loyalty Sales:** Regression analysis of sales data indicates that loyalty sales are projected to surpass non-loyalty sales in the future, underscoring the increasing success of the program.
