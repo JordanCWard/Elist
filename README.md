@@ -111,20 +111,21 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 <img width="650" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/272d7870-ed7b-4c6d-8178-3082230df37e">
 <br><br>
 
-- **Loyalty Program Adoption and Performance:** The loyalty program, introduced in 2019, saw significant customer adoption beginning in early 2021. Since then, loyalty customers have consistently outperformed non-loyalty customers in sales and order count, a trend that has continued through 2022.
-- **Higher AOV for Loyalty Customers:** In addition to higher order volumes, loyalty customers now have a greater average order value (AOV) compared to non-loyalty customers. This indicates that loyalty members are making not only more frequent purchases but also higher-value purchases.
+- **Loyalty Program Adoption and Performance:** The loyalty program, introduced in 2019, saw significant customer adoption beginning in early 2021. Loyalty members consistently outperformed non-loyalty customers in terms of sales and order count from early 2021 through 2022.
+- **Higher AOV for Loyalty Customers:** Loyalty customers demonstrated not only higher order volumes but also a greater AOV compared to non-loyalty customers, indicating a trend of more frequent and higher-value purchases.
 <br><br>
 
 <img width="800" alt="Loyalty vs Non-Loyalty Sales" src="https://github.com/user-attachments/assets/9d4fb16e-a647-4c39-800e-627df524ee71">
 <br><br>
 
-- **Forecasted Growth for Loyalty Sales:** Regression analysis of sales data indicates that loyalty sales are projected to surpass non-loyalty sales in the future, underscoring the increasing success of the program.
+- **Fluctuation in Loyalty Sales Performance:** While loyalty sales surpassed non-loyalty sales in April 2021, they fell below non-loyalty sales during the last four months of 2022, signaling a potential decline in loyalty engagement.
 <br><br>
 
 #### Recommendations:
-- **Sustain and Expand the Loyalty Program:** Continue to invest in and refine the loyalty program to maintain its positive trajectory and further boost loyalty customer engagement and revenue.
-- **Increase Focus on Loyalty Customer Growth:** Prioritize initiatives that encourage more customers to join the loyalty program, leveraging its demonstrated ability to drive higher sales and order values.
-- **Monitor and Enhance Effectiveness:** Regularly analyze the differences between loyalty and non-loyalty customer behaviors to identify opportunities for targeted improvements in program offerings and incentives.
+- **Investigate Recent Decline:** Conduct a detailed analysis to identify the factors contributing to the decline in loyalty sales over the last four months of 2022.
+- **Enhance Engagement Strategies:** Revise and strengthen loyalty program initiatives to reinvigorate customer engagement and return to previous sales trends.
+- **Targeted Campaigns:** Develop targeted marketing campaigns to further encourage frequent and higher-value purchases among loyalty customers.
+- **Ongoing Monitoring:** Establish a robust mechanism to continuously monitor loyalty sales performance and proactively address emerging trends or issues.
 <br><br>
 
 
