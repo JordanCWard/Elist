@@ -35,7 +35,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000.
 <br><br>
 
-<img width="700" alt="Seasonality" src="https://github.com/user-attachments/assets/25288eba-b5a6-471c-92ba-d4b9fdd0add5">
+<img width="700" alt="Seasonality" src="https://github.com/user-attachments/assets/96bf1b5c-9e63-499d-afe7-4866a8892994">
 <br><br>
 
 - **Seasonal Sales Patterns:** There is a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
