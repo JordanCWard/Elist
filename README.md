@@ -127,7 +127,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="800" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/1238d785-a1e9-4d9f-b860-4f0e974bb0ba">
+<img width="800" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/c6da4ae0-da9b-45fa-9d21-03302c9a7ecc">
 <br><br>
 
 - **Loyalty Program Adoption and Performance:** The loyalty program, introduced in 2019, saw significant customer adoption beginning in 2021. Loyalty members consistently outperformed non-loyalty customers in terms of sales and order count from 2021 through 2022.
