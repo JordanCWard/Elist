@@ -65,7 +65,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Popular Products by Order Volume:** Apple AirPods are the most popular product, accounting for 45% of all orders (48,000+ units).
 <br><br>
 
-<img width="469" alt="Product Performance Table" src="https://github.com/user-attachments/assets/79bbf0f5-54a7-4eac-a8dc-b65a4548dc45">
+<img width="500" alt="Product Performance Table" src="https://github.com/user-attachments/assets/148f7f61-acb3-48fb-a43b-744d46ca739a">
 <br><br>
 
 - **Key Revenue Drivers:** Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total sales.
