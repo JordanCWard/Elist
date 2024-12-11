@@ -143,7 +143,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Recommendations:
 - **Investigate Recent Decline:** Conduct a detailed analysis to identify the factors contributing to the decline in loyalty sales over the last four months of 2022.
 - **Enhance Engagement Strategies:** Revise and strengthen loyalty program initiatives to reinvigorate customer engagement and return to previous sales trends.
-- **Targeted Campaigns:** Develop targeted marketing campaigns to further encourage frequent and higher-value purchases among loyalty customers.
+- **Targeted Campaigns:** Develop targeted marketing campaigns to further encourage frequent and higher-value purchases among loyalty customers to continue increasing the AOV.
 - **Ongoing Monitoring:** Establish a robust mechanism to continuously monitor loyalty sales performance and proactively address emerging trends or issues.
 <br><br>
 
