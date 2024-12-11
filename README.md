@@ -235,7 +235,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 <img width="500" alt="Product Performance - mobile app" src="https://github.com/user-attachments/assets/0b5bf24a-e4cb-4d9b-81bc-519e95b8ff35">
 <br><br>
 
-- **Mobile App Performance:** Total sales and orders spiked in 2020, slowed in 2021 and declined significantly in 2022. The AOV decreased steadily from $111 in 2019 to $36 in 2022, reflecting a shift toward lower-cost items.
+- **Mobile App Performance:** Total sales and order growth surged in 2020, saw slower growth in 2021, and experienced a sharp decline in 2022. Meanwhile, the AOV consistently dropped from $111 in 2019 to $36 in 2022, indicating a shift toward lower-cost items.
 <br><br>
 
 <img width="600" alt="Orders by Purchasing Platform" src="https://github.com/user-attachments/assets/86b05515-febc-455c-ad9a-9d9bc387a08d">
