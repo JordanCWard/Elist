@@ -276,9 +276,9 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Recommendations:
 
-- **Data Quality Improvements:** Implement validation checks to prevent shipping dates from preceding purchase dates, set thresholds for shipping durations, and create alert systems to flag unusually long shipping times.
-- **Ongoing Monitoring:** Continue monitoring the refund process to ensure its independence from shipping and delivery performance, while periodically reviewing and auditing the data for consistency and accuracy to maintain reliability.
 - **Addressing Outliers:** Investigate the purchase date column for the 18 orders with shipping dates preceding purchase dates to correct data entry or system errors, and analyze the 23 orders with extended shipping times to identify their root cause and determine if system improvements are needed.
+- **Data Quality Improvements:** Implement validation checks to prevent shipping dates from preceding purchase dates. Set thresholds for shipping durations and create alert systems to flag unusually long shipping times.
+- **Ongoing Monitoring:** Continue monitoring the refund process to ensure its independence from shipping and delivery performance, while periodically reviewing and auditing the data for consistency and accuracy to maintain reliability.
 <br><br>
 
 
