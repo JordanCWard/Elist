@@ -158,7 +158,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="500" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/c2b20c83-7109-4591-8881-06527193e120">
+<img width="600" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/ee9d2c43-bf1b-47c9-9cdb-7d0e0ae3e06a">
 <br><br>
 
 - **Key Channels:** The **direct channel** is the most successful at acquiring customers (~84K) and generating loyalty signups (~32.9K) but has a moderate conversion rate to loyalty members (39%). The **email channel** ranks second in customer acquisition (~19K) and has the highest loyalty conversion rate (58%).
