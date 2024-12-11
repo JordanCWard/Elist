@@ -83,7 +83,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="350" alt="Sales by Location" src="https://github.com/user-attachments/assets/e731e24b-5b31-43d5-bd74-0d4ef20486fb">
+<img width="400" alt="Sales by Location" src="https://github.com/user-attachments/assets/3b01aeff-a0fc-4cd6-90bc-674dee0cd5a9">
 <br><br>
 
 - **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
