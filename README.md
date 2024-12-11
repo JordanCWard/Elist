@@ -104,7 +104,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Concentration of Sales:** The top 12 countries account for 80% of total sales, highlighting the importance of maintaining a strong presence in these markets.
 <br><br>
 
-<img width="460" alt="AOV over 300" src="https://github.com/user-attachments/assets/5707cb65-c384-41e8-9a34-d06d2b794b07">
+<img width="460" alt="AOV over 300" src="https://github.com/user-attachments/assets/78b60da7-82ef-4c19-9862-253865ecc652">
 <br><br>
 
 - **High-AOV Countries:** After filtering for countries with 100 or more orders, 12 countries have an AOV above $300. These countries represent 8% of total orders and 10% of total sales.
