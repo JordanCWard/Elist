@@ -26,6 +26,12 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 <br><br>
 
+
+
+
+
+
+
 ### Sales Insights
 
 #### Findings:
@@ -49,6 +55,10 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Optimize for March Rebound:** Prepare a targeted campaign to capitalize on the 18% sales rebound in March, focusing on customers who paused spending after the holidays, and promote spring deals or "fresh start" themes tied to new product launches or upgrades
 - **Investigate Drop-off Causes:** Conduct customer surveys and analyze competitor trends to understand consumer behavior in October and other slower months, testing incentives like early-bird discounts and pre-holiday bundles to encourage purchases before the deal season starts in November.
 <br><br>
+
+
+
+
 
 
 
@@ -79,6 +89,10 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 
 
+
+
+
+
 ### Global Market
 
 #### Findings:
@@ -90,7 +104,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Concentration of Sales:** The top 12 countries account for 80% of total sales, highlighting the importance of maintaining a strong presence in these markets.
 <br><br>
 
-<img width="450" alt="AOV over 300" src="https://github.com/user-attachments/assets/3dc6d3ce-9493-4ae9-8b25-ca31e202dcfb">
+<img width="460" alt="AOV over 300" src="https://github.com/user-attachments/assets/5707cb65-c384-41e8-9a34-d06d2b794b07">
 <br><br>
 
 - **High-AOV Countries:** After filtering for countries with 100 or more orders, 12 countries have an AOV above $300. These countries represent 8% of total orders and 10% of total sales.
@@ -101,6 +115,10 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Explore High-AOV Markets:** Develop targeted efforts to increase order volume in the 12 high-AOV countries, leveraging consumer preferences for premium products to drive significant sales growth.
 - **Market Analysis for Expansion:** Conduct in-depth analysis to identify similarities among countries, using these insights to pinpoint new market opportunities and refine global expansion strategies.
 <br><br>
+
+
+
+
 
 
 
@@ -131,6 +149,11 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 
 
+
+
+
+
+
 ### Marketing Strategies
 
 #### Findings:
@@ -154,6 +177,10 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Affiliate Channel:** Shift the focus toward customer acquisition to capitalize on the high AOV, while deprioritizing loyalty program efforts for this channel due to its low conversion performance.
 - **Social Media Channel:** Concentrate marketing efforts on acquiring more loyalty members by leveraging the strong loyalty conversion rate, while exploring strategies to increase overall order volume for better channel performance.
 <br><br>
+
+
+
+
 
 
 
@@ -189,6 +216,12 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 <br><br>
 
 
+
+
+
+
+
+
 ### Purchasing Platforms
 
 #### Findings:
@@ -211,6 +244,12 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Website Strategy:** Emphasize high-value items in marketing campaigns, leveraging the website's alignment with premium purchases, and ensure the site provides an optimal experience for customers seeking expensive products.
 - **Cross-Channel Opportunity:** Use cross-promotion to encourage app users to complete higher-value purchases on the website, leveraging exclusive deals or bundles to entice them to explore premium items.
 <br><br>
+
+
+
+
+
+
 
 
 ### Shipping Performance
@@ -236,6 +275,11 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Ongoing Monitoring:** Continue monitoring the refund process to ensure its independence from shipping and delivery performance, while periodically reviewing and auditing the data for consistency and accuracy to maintain reliability.
 - **Addressing Outliers:** Investigate the purchase date column for the 18 orders with shipping dates preceding purchase dates to correct data entry or system errors, and analyze the 23 orders with extended shipping times to identify their root cause and determine if system improvements are needed.
 <br><br>
+
+
+
+
+
 
 
 
