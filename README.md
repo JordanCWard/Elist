@@ -30,7 +30,8 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="402" alt="Sales by Year" src="https://github.com/user-attachments/assets/7a841eb4-1200-4688-bb63-97fcc32d6b76">
+<img width="320" alt="Sales by Year" src="https://github.com/user-attachments/assets/496a7b04-cfc9-41e6-b981-1a9e566d56ac">
+
 <br><br>
 
 - **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000.
