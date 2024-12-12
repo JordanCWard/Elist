@@ -1,8 +1,16 @@
 #### Notes for myself
-About the Data
-Should I include the workbook and info about data cleaning?
-clean up excel file and add it or unnecessary?
-re-order the sections?
+- Use stackedit to edit readme (https://stackedit.io/app#)
+- add erd to overview links
+- more specific title
+- section of executive summary of high level trends, things I would reference in the future, big trends
+- remove decimals from any $ tables/graphs
+- sales growth rate by month, change to red/green because it's pos/neg
+- global market graph, include rest of world so it sums to 100%
+- aov > 300 remove green, too many colors in other places too, less highlighting, text is for highlighting
+- loyalty/non-loyalty no smoothing (remove other smoothing if it exists)
+- 7 to 10 viz, remove scatter plot, only need text
+- remove 10+ and 100+ orders tables, only include entries with 12 highest orders then talk about their refund rates
+- include change log (issue log)
 <br><br>
 <br><br>
 
@@ -290,6 +298,3 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 ## ERD
 The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/elist_analysis/blob/main/Elist_ERD.png).
-
-# About the Data
-Should I include the workbook and info about data cleaning?
