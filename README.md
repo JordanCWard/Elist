@@ -1,4 +1,5 @@
 #### Notes for myself
+- Which products are increasing sales over time versus decreasing
 - Use stackedit to edit readme (https://stackedit.io/app#)
 - add erd to overview links
 - more specific title
