@@ -1,9 +1,10 @@
 #### Notes for myself
 - Which products are increasing sales over time versus decreasing
+- section of executive summary of high level trends, things I would reference in the future, big trends, combine loyalty and marketing into one high level insight
+- Make a decision about loyalty program, maybe it shouldn't continue? more analysis is needed. more definitive decision for loyalty recommendations, my final answer for loyalty program is that it's undecided, more discussion is needed (cost of loyalty program, focus on specific marketing channels - only include this in executive summary)
 - Use stackedit to edit readme (https://stackedit.io/app#)
 - add erd to overview links
 - more specific title
-- section of executive summary of high level trends, things I would reference in the future, big trends
 - remove decimals from any $ tables/graphs
 - sales growth rate by month, change to red/green because it's pos/neg
 - global market graph, include rest of world so it sums to 100%
