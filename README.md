@@ -14,7 +14,7 @@
 - remove 10+ and 100+ orders tables, only include entries with 12 highest orders then talk about their refund rates
 - include change log (issue log)
 <br><br>
-<br>
+<br><br>
 
 
 # <p align="center"> Elist Analysis </p>
