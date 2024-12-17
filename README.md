@@ -3,16 +3,15 @@
 - section of executive summary of high level trends, things I would reference in the future, big trends, combine loyalty and marketing into one high level insight
 - Make a decision about loyalty program, maybe it shouldn't continue? more analysis is needed. more definitive decision for loyalty recommendations, my final answer for loyalty program is that it's undecided, more discussion is needed (cost of loyalty program, focus on specific marketing channels - only include this in executive summary)
 - add erd to overview links
-- more specific title
-- aov > 300 remove green, too many colors in other places too, less highlighting, text is for highlighting
-- 7 to 10 viz
+- 7 to 10 viz (ideally one per topic)
 - global market graphs, for AOV, use top 12 countries, rest are irrelevant
 - remove 10+ and 100+ orders tables, only include entries with 12 highest orders then talk about their refund rates
+- remove colors from graphs with too many colors, text is for highlighting
 - include change log (issue log)
 <br>
 
 
-# <p align="center"> Elist Analysis </p>
+# <p align="center"> Elist Sales and Market Review </p>
 
 ### Overview
 
@@ -42,13 +41,13 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Findings:
 
 <img width="320" alt="Sales by Year" src="https://github.com/user-attachments/assets/496a7b04-cfc9-41e6-b981-1a9e566d56ac">
-<br>
+<br><br>
 
 - **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000.
 <br>
 
 <img width="700" alt="Seasonality" src="https://github.com/user-attachments/assets/75c867f9-c9c3-46b1-ae18-c25c7a1c66b2">
-<br>
+<br><br>
 
 - **Seasonal Sales Patterns:** There is a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
 - **Consumer Behavior Insights:** The sales pattern aligns with typical electronics seasonality, with holiday promotions influencing consumer purchasing decisions. October’s lower activity highlights a potential opportunity to better engage customers before the holiday season.
@@ -73,14 +72,14 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Findings:
 
 <img width="600" alt="Product Performance" src=https://github.com/user-attachments/assets/43d01fc8-6dc0-43b3-8e9d-55efeeb65f2e>
-<br>
+<br><br>
 
 - **Top Revenue Generator:** The 27-inch 4K Gaming Monitor is the highest revenue-generating product, contributing nearly $10 million (35% of total sales).
 - **Popular Products by Order Volume:** Apple AirPods are the most popular product, accounting for 45% of all orders (48,000+ units).
 <br>
 
 <img width="500" alt="Product Performance Table" src="https://github.com/user-attachments/assets/148f7f61-acb3-48fb-a43b-744d46ca739a">
-<br>
+<br><br>
 
 - **Key Revenue Drivers:** Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total sales.
 - **Samsung Charging Cable Pack:** This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
@@ -103,14 +102,14 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 #### Findings:
 
 <img width="400" alt="Sales by Location" src="https://github.com/user-attachments/assets/a67ae5cd-78e6-433c-9968-7238aac7a30b">
-<br>
+<br><br>
 
 - **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
 - **Concentration of Sales:** The top 12 countries account for 80% of total sales, highlighting the importance of maintaining a strong presence in these markets.
 <br>
 
 <img width="460" alt="AOV over 300" src="https://github.com/user-attachments/assets/6ecb48fb-8a50-474e-95db-84ec8ae56064">
-<br>
+<br><br>
 
 Do I even need this table? Do I care about these countries?
 
@@ -135,14 +134,14 @@ Do I even need this table? Do I care about these countries?
 #### Findings:
 
 <img width="800" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/e4af1c0c-500d-455c-9781-253bac58a665">
-<br>
+<br><br>
 
 - **Loyalty Program Adoption and Performance:** The loyalty program, introduced in 2019, saw significant customer adoption beginning in 2021. Loyalty members consistently outperformed non-loyalty customers in terms of sales and order count from 2021 through 2022.
 - **Higher AOV for Loyalty Customers:** Loyalty customers demonstrated not only higher order volumes but also a greater AOV compared to non-loyalty customers, indicating a trend of more frequent and higher-value purchases.
 <br>
 
 <img width="800" alt="Loyalty vs Non-Loyalty Sales" src="https://github.com/user-attachments/assets/e6b90015-89f1-4cb5-8ffd-7c2e2795baa0">
-<br>
+<br><br>
 
 - **Fluctuation in Loyalty Sales Performance:** While loyalty sales surpassed non-loyalty sales in April 2021, they fell below non-loyalty sales during the last four months of 2022, signaling a potential decline in loyalty engagement.
 <br>
@@ -166,14 +165,14 @@ Do I even need this table? Do I care about these countries?
 #### Findings:
 
 <img width="600" alt="Loyalty + Channel" src="https://github.com/user-attachments/assets/81ba4413-c88d-4b42-bc39-2d0051538483">
-<br>
+<br><br>
 
 - **Key Channels:** The **direct channel** is the most successful at acquiring customers (~84K) and generating loyalty signups (~32.9K) but has a moderate conversion rate to loyalty members (39%). The **email channel** ranks second in customer acquisition (~19K) and has the highest loyalty conversion rate (58%).
 - **Data Gaps:** Marketing channels are unidentified for 82 "unknown" and 1,387 "blank" customers.
 <br>
 
 <img width="700" alt="Marketing Channels AOV" src="https://github.com/user-attachments/assets/696629bc-f424-4028-8c2b-3a26acbb0813">
-<br>
+<br><br>
 
 - **Other Channels:** Despite its low number of orders (2,900) and low loyalty member conversion rate (16%), the **affiliate channel** consistently achieves the highest AOV. The **social media channel** has a low number of orders (1,293) but demonstrates consistent AOV year-over-year and strong loyalty conversion performance (50%), second only to email marketing.
 <br>
@@ -197,7 +196,7 @@ Do I even need this table? Do I care about these countries?
 #### Findings:
 
 <img width="600" alt="Refund Rate" src="https://github.com/user-attachments/assets/8dc973f2-febf-43a0-9aa1-4fcfc98072eb">
-<br>
+<br><br>
 
 - **High Refund Rates for Specific Laptops:** The ThinkPad Laptop has the highest refund rate at 12%, followed closely by the MacBook Air Laptop at 11%.
 
@@ -208,7 +207,7 @@ Do I even need this table? Do I care about these countries?
 <img width="250" alt="Highest Refund Rate 10+ Orders" src="https://github.com/user-attachments/assets/9455e535-94a5-47fd-876b-f1d6d471c95a">
 &ensp; &ensp; &ensp;
 <img width="250" alt="Highest Refund Rate 100+ Orders" src="https://github.com/user-attachments/assets/241dbbb1-1950-4a63-ac52-b2ab545e2e46">
-<br>
+<br><br>
 
 - **Country-Specific Refund Trends:** The table on the left lists the countries with the highest refund rates among those with 10 or more orders, while the table on the right highlights the countries with the highest refund rates among those with 100 or more orders.
 <br>
@@ -231,7 +230,7 @@ Do I even need this table? Do I care about these countries?
 #### Findings:
 
 <img width="700" alt="Purchasing Platform" src="https://github.com/user-attachments/assets/0c512e0d-7644-4983-8b73-edb9a3c69625">
-<br>
+<br><br>
 
 - **Website Performance:** Total sales experienced significant growth in 2020, increasing by 164%, but then declined by 11% in 2021 and 46% in 2022. Both orders and AOV followed similar trends. Despite these fluctuations, all three metrics ended 2022 at levels higher than those recorded in 2019.
 
@@ -239,7 +238,7 @@ Do I even need this table? Do I care about these countries?
 <br>
 
 <img width="600" alt="Orders by Purchasing Platform" src="https://github.com/user-attachments/assets/86b05515-febc-455c-ad9a-9d9bc387a08d">
-<br>
+<br><br>
 
 - **Customer Preferences:** The mobile app was predominantly used for purchasing lower-cost items, with 98% of Samsung Webcam sales and 43% of Samsung Charging Cable Pack sales made through the app. Higher-value items were primarily purchased through the website, highlighting a clear platform preference based on product value.
 <br>
@@ -262,13 +261,13 @@ Do I even need this table? Do I care about these countries?
 #### Findings:
 
 <img width="300" alt="Shipping Logistics" src="https://github.com/user-attachments/assets/62f443ac-84bc-4171-9139-1681a6451c04">
-<br>
+<br><br>
 
 - **Shipping and Delivery Times** Shipping times range from 1 to 3 days with an average of 2 days and delivery times range from 5 to 10 days with an average of 7.5 days.
 <br>
 
 <img width="300" alt="Refund Metrics" src="https://github.com/user-attachments/assets/0dd2cc5f-2c7f-4b1f-9bfa-89e2f3411975">
-<br>
+<br><br>
 
 - **Refund Analysis:** Refunds show no correlation with shipping or delivery times, suggesting that customers are not requesting refunds due to delays.
 - **Outliers in Orders:** Out of 108,124 orders, 41 outliers were identified and excluded. 18 orders have shipping dates that precede the purchase date. 23 orders exhibit abnormally long shipping times, ranging from 25 to 1297 days. These outliers represent a small fraction of the dataset and warrant separate analysis to uncover potential data quality issues, specifically related to the purchase date column.
