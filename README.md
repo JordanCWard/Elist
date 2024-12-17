@@ -4,8 +4,6 @@
 - Make a decision about loyalty program, maybe it shouldn't continue? more analysis is needed. more definitive decision for loyalty recommendations, my final answer for loyalty program is that it's undecided, more discussion is needed (cost of loyalty program, focus on specific marketing channels - only include this in executive summary)
 - add erd to overview links
 - 7 to 10 viz (ideally one per topic)
-- global market graphs, for AOV, use top 12 countries, rest are irrelevant
-- remove 10+ and 100+ orders tables, only include entries with 12 highest orders then talk about their refund rates
 - remove colors from graphs with too many colors, text is for highlighting
 - include change log (issue log)
 <br>
@@ -40,7 +38,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="320" alt="Sales by Year" src="https://github.com/user-attachments/assets/496a7b04-cfc9-41e6-b981-1a9e566d56ac">
+<img width="400" alt="Sales by Year" src="https://github.com/user-attachments/assets/3ced1996-ffdb-43df-8ce1-38b48d833fcd">
 <br><br>
 
 - **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000.
@@ -78,7 +76,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Popular Products by Order Volume:** Apple AirPods are the most popular product, accounting for 45% of all orders (48,000+ units).
 <br>
 
-<img width="500" alt="Product Performance Table" src="https://github.com/user-attachments/assets/148f7f61-acb3-48fb-a43b-744d46ca739a">
+<img width="500" alt="Product Performance Table" src="https://github.com/user-attachments/assets/0d342415-d3af-43bc-89f0-96935f3b95da">
 <br><br>
 
 - **Key Revenue Drivers:** Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total sales.
@@ -103,24 +101,15 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 <img width="400" alt="Sales by Location" src="https://github.com/user-attachments/assets/1a439c5e-3e84-4415-aac1-5dd30e1f0151">
 <br><br>
-<img width="292" alt="Sales by Location" src="" />
 
 - **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
-- **Concentration of Sales:** The top 12 countries account for 80% of total sales, highlighting the importance of maintaining a strong presence in these markets.
-<br>
-
-<img width="460" alt="AOV over 300" src="https://github.com/user-attachments/assets/6ecb48fb-8a50-474e-95db-84ec8ae56064">
-<br><br>
-
-Do I even need this table? Do I care about these countries?
-
-- **High-AOV Countries:** After filtering for countries with 100 or more orders, 12 countries have an AOV above $300. These countries represent 8% of total orders and 10% of total sales.
-<br>
+- **Concentration of Sales:** The top 12 countries account for 80% of total sales, emphasizing their critical role in overall business performance.
+- **High-AOV Country:** Among the top-performing countries, Japan (JP) stands out with a significantly higher AOV of $393.
 
 #### Recommendations:
-- **Prioritize Top Markets:** Continue to focus on the top 12 countries driving 80% of sales, ensuring a strong presence and tailored strategies to maintain momentum, particularly in capturing retained value from 2020.
-- **Explore High-AOV Markets:** Develop targeted efforts to increase order volume in the 12 high-AOV countries, leveraging consumer preferences for premium products to drive significant sales growth.
-- **Market Analysis for Expansion:** Conduct in-depth analysis to identify similarities among countries, using these insights to pinpoint new market opportunities and refine global expansion strategies.
+- **Prioritize Top Markets:** Continue to focus on the top 12 countries that drive 80% of total sales by developing tailored strategies to sustain and grow performance in these regions.
+- **Optimize Growth in Japan:** Conduct further analysis to capitalize on Japan’s preference for premium products, leveraging its high AOV to drive significant sales growth.
+- **Enhance Tailored Strategies:** Ensure localized efforts in top markets, including Japan, to align with consumer preferences and improve overall market penetration.
 <br>
 
 
@@ -196,25 +185,29 @@ Do I even need this table? Do I care about these countries?
 
 #### Findings:
 
+<img width="450" alt="Refund Rate table" src="https://github.com/user-attachments/assets/92432db0-3d37-4fa9-96ad-447ecafd85de" />
+<br><br>
+
+- **Country-Specific:** The United Kingdom, Canada, and India have the highest refund rates at 7%, which is 2% higher than the overall average of 5%.
+
 <img width="600" alt="Refund Rate" src="https://github.com/user-attachments/assets/8dc973f2-febf-43a0-9aa1-4fcfc98072eb">
 <br><br>
 
 - **High Refund Rates for Specific Laptops:** The ThinkPad Laptop has the highest refund rate at 12%, followed closely by the MacBook Air Laptop at 11%.
 
-
-- **Correlation Between AOV and Refund Rates:** A strong correlation exists (R-squared = 0.8843), suggesting that higher-priced items are more likely to have higher refund rates.
+- **Correlation Between AOV and Refund Rates:** There is a strong correlation (R-squared = 0.8843) between AOV and refund rates, indicating that higher-priced items are more likely to experience higher refund rates.
 <br>
 
 
 
-
-- **Country-Specific Refund Trends:** The table on the left lists the countries with the highest refund rates among those with 10 or more orders, while the table on the right highlights the countries with the highest refund rates among those with 100 or more orders.
 <br>
 
 #### Recommendations:
-- **Investigate High Refund Rates for Laptops:** Conduct an in-depth analysis of the ThinkPad Laptop and MacBook Air Laptop to identify the root causes of their high refund rates and implement targeted improvements to reduce them.
-- **Monitor and Manage High-Value Product Refund Trends:** Develop strategies to mitigate refunds on high-priced items, such as improved customer education, enhanced product descriptions, and stricter quality control, while regularly reviewing the relationship between AOV and refund rates to maintain acceptable levels.
-- **Address Country-Specific Refund Issues:** Analyze countries with small order volumes and high refund rates to identify regional factors. Implement localized measures, such as improved logistics, customer support, and tailored return policies, in countries with over 100 orders and refund rates above 6%.
+
+- **Address High Refund Rates in Key Markets:** Investigate the factors contributing to the elevated refund rates in the United Kingdom, Canada, and India to identify region-specific issues and improve customer satisfaction.
+- **Investigate High Refund Rates for Laptops:** Conduct a detailed analysis to identify the reasons for the high refund rates of the ThinkPad Laptop and MacBook Air Laptop and implement measures to address product or service-related issues.
+- **Explore the AOV-Refund Rate Relationship:** Perform further analysis on the correlation between AOV and refund rates to understand the underlying causes and develop strategies to reduce refunds for higher-priced items.
+
 <br>
 
 
