@@ -101,8 +101,9 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="400" alt="Sales by Location" src="https://github.com/user-attachments/assets/a67ae5cd-78e6-433c-9968-7238aac7a30b">
+<img width="400" alt="Sales by Location" src="https://github.com/user-attachments/assets/1a439c5e-3e84-4415-aac1-5dd30e1f0151">
 <br><br>
+<img width="292" alt="Sales by Location" src="" />
 
 - **Global Reach:** Customers placed orders from 195 countries, with the United States contributing 47% of total sales.
 - **Concentration of Sales:** The top 12 countries account for 80% of total sales, highlighting the importance of maintaining a strong presence in these markets.
@@ -204,10 +205,8 @@ Do I even need this table? Do I care about these countries?
 - **Correlation Between AOV and Refund Rates:** A strong correlation exists (R-squared = 0.8843), suggesting that higher-priced items are more likely to have higher refund rates.
 <br>
 
-<img width="250" alt="Highest Refund Rate 10+ Orders" src="https://github.com/user-attachments/assets/9455e535-94a5-47fd-876b-f1d6d471c95a">
-&ensp; &ensp; &ensp;
-<img width="250" alt="Highest Refund Rate 100+ Orders" src="https://github.com/user-attachments/assets/241dbbb1-1950-4a63-ac52-b2ab545e2e46">
-<br><br>
+
+
 
 - **Country-Specific Refund Trends:** The table on the left lists the countries with the highest refund rates among those with 10 or more orders, while the table on the right highlights the countries with the highest refund rates among those with 100 or more orders.
 <br>
