@@ -1,6 +1,5 @@
 
 #### Notes for myself
-- check all the <br> to make consistent
 - 7 to 10 viz (ideally one per topic), currently 12
 - include change log (issue log)
 <br>
