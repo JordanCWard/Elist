@@ -2,11 +2,10 @@
 - Which products are increasing sales over time versus decreasing
 - section of executive summary of high level trends, things I would reference in the future, big trends, combine loyalty and marketing into one high level insight
 - Make a decision about loyalty program, maybe it shouldn't continue? more analysis is needed. more definitive decision for loyalty recommendations, my final answer for loyalty program is that it's undecided, more discussion is needed (cost of loyalty program, focus on specific marketing channels - only include this in executive summary)
-- 7 to 10 viz (ideally one per topic), currently 15
+- add erd to overview links
+- 7 to 10 viz (ideally one per topic), currently 12
 - include change log (issue log)
 <br>
-
-
 
 
 # <p align="center"> Elist Sales and Market Review </p>
@@ -69,7 +68,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="600" alt="Product Performance" src=https://github.com/user-attachments/assets/43d01fc8-6dc0-43b3-8e9d-55efeeb65f2e>
+<img width="800" alt="Product Performance" src=https://github.com/user-attachments/assets/a4a786fd-f6d7-49a2-8885-7780ab33939e>
 <br><br>
 
 - **Key Revenue Drivers:** The 27-inch 4K Gaming Monitor is the highest revenue-generating product, contributing nearly $10 million. Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total sales.
