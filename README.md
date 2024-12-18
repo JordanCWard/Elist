@@ -1,5 +1,4 @@
 #### Notes for myself
-- section of executive summary of high level trends, things I would reference in the future, big trends, combine loyalty and marketing into one high level insight: the prioritized recommendations below is a good start but it'll be easier if I go through and pick them out myself
 - add erd to overview links
 - check all the <br> to make consistent
 - 7 to 10 viz (ideally one per topic), currently 12
