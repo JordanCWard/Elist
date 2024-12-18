@@ -1,11 +1,38 @@
 #### Notes for myself
-- Which products are increasing sales over time versus decreasing
-- section of executive summary of high level trends, things I would reference in the future, big trends, combine loyalty and marketing into one high level insight
-- Make a decision about loyalty program, maybe it shouldn't continue? more analysis is needed. more definitive decision for loyalty recommendations, my final answer for loyalty program is that it's undecided, more discussion is needed (cost of loyalty program, focus on specific marketing channels - only include this in executive summary)
+- section of executive summary of high level trends, things I would reference in the future, big trends, combine loyalty and marketing into one high level insight: the prioritized recommendations below is a good start but it'll be easier if I go through and pick them out myself
 - add erd to overview links
+- check all the <br> to make consistent
 - 7 to 10 viz (ideally one per topic), currently 12
 - include change log (issue log)
 <br>
+
+
+
+### **Prioritized Recommendations**
+
+1.  **Maximize Seasonal Promotions**: Expand marketing efforts in **November and December** to capitalize on peak sales periods and introduce **“New Year” incentives** in January to retain post-holiday shoppers.
+    
+2.  **Optimize Key Markets**:
+    
+    -   Focus on the **top 12 countries** driving 80% of sales with tailored strategies.
+    -   Leverage Japan’s high AOV by promoting premium products and targeting growth opportunities.
+3.  **Improve Refund and Data Accuracy**:
+    
+    -   Address high refund rates for **laptops** and in key markets like the **UK, Canada, and India**.
+    -   Investigate the correlation between AOV and refunds to reduce returns for high-value items.
+    -   Enhance **data quality controls** for shipping and purchase date discrepancies.
+4.  **Enhance Loyalty and Cross-Channel Strategies**:
+    
+    -   Reinvigorate the **loyalty program** by analyzing costs, improving incentives, and addressing declining engagement.
+    -   Use cross-promotion between mobile app and website channels to encourage higher-value purchases and improve performance.
+5.  **Expand Product Catalog and Pricing Strategies**: Introduce new products in top-performing categories and optimize pricing or bundling strategies for high-demand items like the **Samsung Charging Cable Pack**.
+
+
+
+
+
+
+
 
 
 # <p align="center"> Elist Sales and Market Review </p>
@@ -119,21 +146,19 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 <img width="800" alt="Loyalty Program Comparison" src="https://github.com/user-attachments/assets/e4af1c0c-500d-455c-9781-253bac58a665">
 <br><br>
 
-- **Loyalty Program Adoption and Performance:** The loyalty program, introduced in 2019, saw significant customer adoption beginning in 2021. Loyalty members consistently outperformed non-loyalty customers in terms of sales and order count from 2021 through 2022.
-- **Higher AOV for Loyalty Customers:** Loyalty customers demonstrated not only higher order volumes but also a greater AOV compared to non-loyalty customers, indicating a trend of more frequent and higher-value purchases.
-<br>
+- **Program Adoption and Performance:** The loyalty program, launched in 2019, gained significant traction in 2021. Loyalty members outperformed non-loyalty customers in sales and orders, with higher AOV in 2022.
 
 <img width="800" alt="Loyalty vs Non-Loyalty Sales" src="https://github.com/user-attachments/assets/e6b90015-89f1-4cb5-8ffd-7c2e2795baa0">
 <br><br>
 
-- **Fluctuation in Loyalty Sales Performance:** While loyalty sales surpassed non-loyalty sales in April 2021, they fell below non-loyalty sales during the last four months of 2022, signaling a potential decline in loyalty engagement.
-<br>
+- **Engagement Decline**: Engagement dropped in 2022, with narrowing differences in orders and loyalty sales falling below non-loyalty sales in the last four months.
+- **Viability Uncertainty**: The program's long-term viability is uncertain, requiring further analysis, including customer acquisition costs.
+
 
 #### Recommendations:
 - **Investigate Recent Decline:** Conduct a detailed analysis to identify the factors contributing to the decline in loyalty sales over the last four months of 2022.
-- **Enhance Engagement Strategies:** Revise and strengthen loyalty program initiatives to reinvigorate customer engagement and return to previous sales trends.
-- **Targeted Campaigns:** Develop targeted marketing campaigns to further encourage frequent and higher-value purchases among loyalty customers to continue increasing the AOV.
-- **Ongoing Monitoring:** Establish a robust mechanism to continuously monitor loyalty sales performance and proactively address emerging trends or issues.
+-**Analyze Costs**: Evaluate customer acquisition and retention costs to ensure a positive ROI.
+- **Enhance Engagement:** Revise and strengthen loyalty program initiatives to reinvigorate customer engagement and return to previous sales trends.
 <br>
 
 
