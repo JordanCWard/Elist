@@ -2,10 +2,11 @@
 - Which products are increasing sales over time versus decreasing
 - section of executive summary of high level trends, things I would reference in the future, big trends, combine loyalty and marketing into one high level insight
 - Make a decision about loyalty program, maybe it shouldn't continue? more analysis is needed. more definitive decision for loyalty recommendations, my final answer for loyalty program is that it's undecided, more discussion is needed (cost of loyalty program, focus on specific marketing channels - only include this in executive summary)
-- add erd to overview links
 - 7 to 10 viz (ideally one per topic), currently 15
 - include change log (issue log)
 <br>
+
+
 
 
 # <p align="center"> Elist Sales and Market Review </p>
