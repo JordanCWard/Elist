@@ -18,7 +18,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/elist_analysis/blob/main/Elist_ERD.png). <br>
 
 
-### Executive Summary:
+### Executive Summary
 
 This analysis outlines three key strategic priorities for Elist's growth and optimization. First, capitalizing on Japan's strong preference for premium products and high average order value (AOV) through enhanced localized strategies will increase sales and market penetration. Second, leveraging the 18% sales rebound in March with targeted campaigns aimed at re-engaging post-holiday customers, focusing on spring promotions and new product launches, presents a significant opportunity. Lastly, addressing high refund rates in the UK, Canada, and India by identifying root causes and implementing targeted solutions will improve customer satisfaction and profitability. <br> <br>
 
