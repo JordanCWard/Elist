@@ -3,8 +3,7 @@
 - section of executive summary of high level trends, things I would reference in the future, big trends, combine loyalty and marketing into one high level insight
 - Make a decision about loyalty program, maybe it shouldn't continue? more analysis is needed. more definitive decision for loyalty recommendations, my final answer for loyalty program is that it's undecided, more discussion is needed (cost of loyalty program, focus on specific marketing channels - only include this in executive summary)
 - add erd to overview links
-- 7 to 10 viz (ideally one per topic)
-- remove colors from graphs with too many colors, text is for highlighting
+- 7 to 10 viz (ideally one per topic), currently 15
 - include change log (issue log)
 <br>
 
@@ -44,7 +43,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 - **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value (AOV) of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000.
 <br>
 
-<img width="700" alt="Seasonality" src="https://github.com/user-attachments/assets/75c867f9-c9c3-46b1-ae18-c25c7a1c66b2">
+<img width="600" alt="Seasonality" src="https://github.com/user-attachments/assets/75c867f9-c9c3-46b1-ae18-c25c7a1c66b2">
 <br><br>
 
 - **Seasonal Sales Patterns:** There is a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
@@ -72,19 +71,13 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 <img width="600" alt="Product Performance" src=https://github.com/user-attachments/assets/43d01fc8-6dc0-43b3-8e9d-55efeeb65f2e>
 <br><br>
 
-- **Top Revenue Generator:** The 27-inch 4K Gaming Monitor is the highest revenue-generating product, contributing nearly $10 million (35% of total sales).
-- **Popular Products by Order Volume:** Apple AirPods are the most popular product, accounting for 45% of all orders (48,000+ units).
-<br>
-
-<img width="500" alt="Product Performance Table" src="https://github.com/user-attachments/assets/0d342415-d3af-43bc-89f0-96935f3b95da">
-<br><br>
-
-- **Key Revenue Drivers:** Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total sales.
-- **Samsung Charging Cable Pack:** This product constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
+- **Key Revenue Drivers:** The 27-inch 4K Gaming Monitor is the highest revenue-generating product, contributing nearly $10 million. Four products—the 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—together account for 96% of total sales.
+- **Popular Product:** Apple AirPods are the most popular product, accounting for 45% of all orders (48,000+ units).
+- **Inefficiency:** The Samsung Charging Cable Pack constitutes 20% of orders but contributes only 2% of total sales, indicating room for optimization.
 <br>
 
 #### Recommendations:
-- **Expand Product Catalog:** To diversify revenue streams, consider adding more products in the same categories as the top performers, focusing on in-class alternatives.
+- **Expand Product Catalog:** To diversify revenue streams, add more products in the same categories as the top performers, focusing on in-class alternatives.
 - **Optimize Samsung Charging Cable Pack Strategy:** Increase profitability by exploring price adjustments or introducing a bundled version of the product to capture additional value.
 <br>
 
@@ -252,17 +245,9 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="300" alt="Shipping Logistics" src="https://github.com/user-attachments/assets/62f443ac-84bc-4171-9139-1681a6451c04">
-<br><br>
-
 - **Shipping and Delivery Times** Shipping times range from 1 to 3 days with an average of 2 days and delivery times range from 5 to 10 days with an average of 7.5 days.
-<br>
-
-<img width="300" alt="Refund Metrics" src="https://github.com/user-attachments/assets/0dd2cc5f-2c7f-4b1f-9bfa-89e2f3411975">
-<br><br>
-
 - **Refund Analysis:** Refunds show no correlation with shipping or delivery times, suggesting that customers are not requesting refunds due to delays.
-- **Outliers in Orders:** Out of 108,124 orders, 41 outliers were identified and excluded. 18 orders have shipping dates that precede the purchase date. 23 orders exhibit abnormally long shipping times, ranging from 25 to 1297 days. These outliers represent a small fraction of the dataset and warrant separate analysis to uncover potential data quality issues, specifically related to the purchase date column.
+- **Outliers in Orders:** Out of 108,124 orders, 41 outliers were identified and excluded. Out of the 41 outliers, 18 orders have shipping dates that precede the purchase date and 23 orders exhibit abnormally long shipping times, ranging from 25 to 1297 days. These outliers represent a small fraction of the dataset and warrant separate analysis to uncover potential data quality issues, specifically related to the purchase date column.
 <br>
 
 #### Recommendations:
