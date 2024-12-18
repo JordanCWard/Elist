@@ -34,7 +34,7 @@ This analysis focuses on providing insights and recommendations in the following
 
 #### Findings:
 
-<img width="400" alt="Sales by Year" src="https://github.com/user-attachments/assets/3ced1996-ffdb-43df-8ce1-38b48d833fcd"> <br>
+<img width="350" alt="Sales by Year" src="https://github.com/user-attachments/assets/3ced1996-ffdb-43df-8ce1-38b48d833fcd"> <br>
 
 - **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000. <br> <br>
 
