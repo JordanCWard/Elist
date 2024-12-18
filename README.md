@@ -1,5 +1,6 @@
 
 #### Notes for myself
+- check all the <br> to make consistent
 - 7 to 10 viz (ideally one per topic), currently 12
 - include change log (issue log)
 <br>
@@ -15,17 +16,15 @@ Elist, founded in 2018, is a global e-commerce company specializing in popular e
 
 Elist possesses extensive sales data that was previously underutilized. This data is now being analyzed to uncover valuable insights and drive improved commercial performance.
 
-The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/elist_analysis/blob/main/Elist_ERD.png).
+The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/elist_analysis/blob/main/Elist_ERD.png). <br>
 
-<br>
 
 ### High-Impact Recommendations:
 
 - **Strategic Growth in Japan:** Capitalize on Japan’s preference for premium products and high average order value (AOV) by enhancing localized strategies to drive sales and deepen market penetration.
 - **March Sales Opportunity:** Maximize the 18% March rebound with targeted campaigns focused on post-holiday customers, featuring spring promotions and new product launches.
-- **Address Refund Rates:** Tackle high refund rates in the UK, Canada, and India by identifying root causes and implementing solutions to boost satisfaction and profitability.
+- **Address Refund Rates:** Tackle high refund rates in the UK, Canada, and India by identifying root causes and implementing solutions to boost satisfaction and profitability. <br>
 
-<br>
 
 ## <p align="center"> Analysis </p>
 
@@ -38,38 +37,22 @@ This analysis focuses on providing insights and recommendations in the following
 - [Marketing Strategies](#marketing-strategies)
 - [Refund Analysis](#refund-analysis)
 - [Purchasing Platforms](#purchasing-platforms)
-- [Shipping Performance](#shipping-performance)
-
-<br>
-
-
-
-
-
-
-
+- [Shipping Performance](#shipping-performance) <br>
 
 
 ### Sales Insights
 
 #### Findings:
 
-<img width="400" alt="Sales by Year" src="https://github.com/user-attachments/assets/3ced1996-ffdb-43df-8ce1-38b48d833fcd">
+<img width="400" alt="Sales by Year" src="https://github.com/user-attachments/assets/3ced1996-ffdb-43df-8ce1-38b48d833fcd"> <br>
 
-<br><br>
+- **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000. <br>
 
-- **Revenue and Order Trends:** Between 2019 and 2022, $28 million in revenue was generated from over 100,000 orders, with an average order value of $260. The peak year was 2020, which saw the highest revenue ($10.2 million) and AOV ($300), likely driven by increased pandemic-related spending, while 2021 recorded the highest number of orders at 36,000.
-
-<br>
-
-<img width="600" alt="Seasonality" src="https://github.com/user-attachments/assets/75c867f9-c9c3-46b1-ae18-c25c7a1c66b2">
-
-<br><br>
+<img width="600" alt="Seasonality" src="https://github.com/user-attachments/assets/75c867f9-c9c3-46b1-ae18-c25c7a1c66b2"> <br>
 
 - **Seasonal Sales Patterns:** There is a holiday sales surge, with growth rates of 18% in November and 23% in December. This is followed by significant declines in January (-10%) and February (-25%), with a rebound of 18% in March. October sees potential sales stagnation as consumers may wait for holiday deals or shop elsewhere.
-- **Consumer Behavior Insights:** The sales pattern aligns with typical electronics seasonality, with holiday promotions influencing consumer purchasing decisions. October’s lower activity highlights a potential opportunity to better engage customers before the holiday season.
+- **Consumer Behavior Insights:** The sales pattern aligns with typical electronics seasonality, with holiday promotions influencing consumer purchasing decisions. October’s lower activity highlights a potential opportunity to better engage customers before the holiday season. <br>
 
-<br>
 
 #### Recommendations:
 
