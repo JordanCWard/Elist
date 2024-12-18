@@ -178,7 +178,7 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 
 #### Findings:
 
-<img width="450" alt="Refund Rate table" src="https://github.com/user-attachments/assets/92432db0-3d37-4fa9-96ad-447ecafd85de" />
+<img width="450" alt="Refund Rate table" src="https://github.com/user-attachments/assets/19f7ca34-c5c1-4a75-bec5-6e5196476fbe" />
 <br><br>
 
 - **Country-Specific:** The United Kingdom, Canada, and India have the highest refund rates at 7%, which is 2% higher than the overall average of 5%.
