@@ -1,12 +1,3 @@
-
-#### Notes for myself
-- 7 to 10 viz (ideally one per topic), currently 12
-- include change log (issue log)
-<br>
-
-
-
-
 # <p align="center"> Elist Sales and Market Review </p>
 
 ### Overview
