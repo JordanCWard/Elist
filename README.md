@@ -6,7 +6,7 @@ Elist, founded in 2018, is a global e-commerce company specializing in popular e
 
 Elist possesses extensive sales data that was previously underutilized. This data is now being analyzed to uncover valuable insights and drive improved commercial performance.
 
-The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/elist_analysis/blob/main/Elist_ERD.png). <br>
+The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/elist_analysis/blob/main/Elist_ERD.png). <br> <br>
 
 
 ### High-Impact Recommendations:
