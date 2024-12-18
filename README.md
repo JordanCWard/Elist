@@ -22,7 +22,7 @@ The entity relation diagram (ERD) can be found [here](https://github.com/JordanC
 
 - **Strategic Growth in Japan:** Capitalize on Japan’s preference for premium products and high average order value (AOV) by enhancing localized strategies to drive sales and deepen market penetration.
 - **March Sales Opportunity:** Maximize the 18% March rebound with targeted campaigns focused on post-holiday customers, featuring spring promotions and new product launches.
-- **Address Refund Rates:** Tackle high refund rates in the UK, Canada, and India by identifying root causes and implementing solutions to boost satisfaction and profitability. <br>
+- **Address Refund Rates:** Tackle high refund rates in the UK, Canada, and India by identifying root causes and implementing solutions to boost satisfaction and profitability. <br> <br>
 
 
 ## <p align="center"> Analysis </p>
@@ -36,7 +36,7 @@ This analysis focuses on providing insights and recommendations in the following
 - [Marketing Strategies](#marketing-strategies)
 - [Refund Analysis](#refund-analysis)
 - [Purchasing Platforms](#purchasing-platforms)
-- [Shipping Performance](#shipping-performance) <br>
+- [Shipping Performance](#shipping-performance) <br> <br> <br>
 
 
 ### Sales Insights
@@ -58,7 +58,7 @@ This analysis focuses on providing insights and recommendations in the following
 - **Maximize November and December Promotions:** Expand marketing campaigns starting in early November to capitalize on the sales surge (18% in November and 23% in December) by highlighting exclusive deals, limited-time offers, and bundle packages to drive urgency and increase AOV.
 - **Retain Post-Holiday Shoppers:** Offer “New Year” incentives in January to mitigate the 10% sales decline, such as discount codes for future purchases or post-holiday clearance sales.
 - **Optimize for March Rebound:** Prepare a targeted campaign to capitalize on the 18% sales rebound in March, focusing on customers who paused spending after the holidays, and promote spring deals or "fresh start" themes tied to new product launches or upgrades
-- **Investigate Drop-off Causes:** Conduct customer surveys and analyze competitor trends to understand consumer behavior in October and other slower months, testing incentives like early-bird discounts and pre-holiday bundles to encourage purchases before the deal season starts in November. <br>
+- **Investigate Drop-off Causes:** Conduct customer surveys and analyze competitor trends to understand consumer behavior in October and other slower months, testing incentives like early-bird discounts and pre-holiday bundles to encourage purchases before the deal season starts in November. <br> <br> <br>
 
 
 
@@ -76,7 +76,7 @@ This analysis focuses on providing insights and recommendations in the following
 #### Recommendations:
 
 - **Expand Product Catalog:** To diversify revenue streams, add more products in the same categories as the top performers, focusing on in-class alternatives.
-- **Optimize Samsung Charging Cable Pack Strategy:** Increase profitability by exploring price adjustments or introducing a bundled version of the product to capture additional value. <br>
+- **Optimize Samsung Charging Cable Pack Strategy:** Increase profitability by exploring price adjustments or introducing a bundled version of the product to capture additional value. <br> <br> <br>
 
 
 
@@ -99,7 +99,7 @@ This analysis focuses on providing insights and recommendations in the following
 
 - **Prioritize Top Markets:** Continue to focus on the top 12 countries that drive 80% of total sales by developing tailored strategies to sustain and grow performance in these regions.
 - **Optimize Growth in Japan:** Conduct further analysis to capitalize on Japan’s preference for premium products, leveraging its high AOV to drive significant sales growth.
-- **Enhance Tailored Strategies:** Ensure localized efforts in top markets, including Japan, to align with consumer preferences and improve overall market penetration. <br>
+- **Enhance Tailored Strategies:** Ensure localized efforts in top markets, including Japan, to align with consumer preferences and improve overall market penetration. <br> <br> <br>
 
 
 
@@ -122,7 +122,7 @@ This analysis focuses on providing insights and recommendations in the following
 
 - **Investigate Recent Decline:** Conduct a detailed analysis to identify the factors contributing to the decline in loyalty sales over the last four months of 2022.
 -**Analyze Costs**: Evaluate customer acquisition and retention costs to ensure a positive ROI.
-- **Enhance Engagement:** Revise and strengthen loyalty program initiatives to reinvigorate customer engagement and return to previous sales trends. <br>
+- **Enhance Engagement:** Revise and strengthen loyalty program initiatives to reinvigorate customer engagement and return to previous sales trends. <br> <br> <br>
 
 
 
@@ -149,7 +149,7 @@ This analysis focuses on providing insights and recommendations in the following
 - **Direct Channel:** Focus marketing efforts on promoting products to maximize the large customer base, while deprioritizing loyalty program marketing due to its relatively lower success in converting customers to members.
 - **Email Channel:** Emphasize acquiring more customers while leveraging its high loyalty conversion rate to grow loyalty program participation.
 - **Affiliate Channel:** Shift the focus toward customer acquisition to capitalize on the high AOV, while deprioritizing loyalty program efforts for this channel due to its low conversion performance.
-- **Social Media Channel:** Concentrate marketing efforts on acquiring more loyalty members by leveraging the strong loyalty conversion rate, while exploring strategies to increase overall order volume for better channel performance. <br>
+- **Social Media Channel:** Concentrate marketing efforts on acquiring more loyalty members by leveraging the strong loyalty conversion rate, while exploring strategies to increase overall order volume for better channel performance. <br> <br> <br>
 
 
 
@@ -172,7 +172,7 @@ This analysis focuses on providing insights and recommendations in the following
 
 - **Address High Refund Rates in Key Markets:** Investigate the factors contributing to the elevated refund rates in the United Kingdom, Canada, and India to identify region-specific issues and improve customer satisfaction.
 - **Investigate High Refund Rates for Laptops:** Conduct a detailed analysis to identify the reasons for the high refund rates of the ThinkPad Laptop and MacBook Air Laptop and implement measures to address product or service-related issues.
-- **Explore the AOV-Refund Rate Relationship:** Perform further analysis on the correlation between AOV and refund rates to understand the underlying causes and develop strategies to reduce refunds for higher-priced items. <br>
+- **Explore the AOV-Refund Rate Relationship:** Perform further analysis on the correlation between AOV and refund rates to understand the underlying causes and develop strategies to reduce refunds for higher-priced items. <br> <br> <br>
 
 
 
@@ -196,7 +196,7 @@ This analysis focuses on providing insights and recommendations in the following
 
 - **Mobile App Strategy:** Focus marketing efforts on lower-value items that align with customer purchase behavior, while expanding the inventory of popular products like the Samsung Charging Cable Pack and Samsung Webcam to maximize their demand.
 - **Website Strategy:** Emphasize high-value items in marketing campaigns, leveraging the website's alignment with premium purchases, and ensure the site provides an optimal experience for customers seeking expensive products.
-- **Cross-Channel Opportunity:** Use cross-promotion to encourage app users to complete higher-value purchases on the website, leveraging exclusive deals or bundles to entice them to explore premium items. <br>
+- **Cross-Channel Opportunity:** Use cross-promotion to encourage app users to complete higher-value purchases on the website, leveraging exclusive deals or bundles to entice them to explore premium items. <br> <br> <br>
 
 
 
