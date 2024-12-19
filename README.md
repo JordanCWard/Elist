@@ -16,6 +16,7 @@ The entity relation diagram (ERD) can be found [here](https://github.com/JordanC
 - **Address Refund Rates:** Tackle high refund rates in the UK, Canada, and India by identifying root causes and implementing solutions to boost satisfaction and profitability. <br> <br>
 
 
+
 ### <p align="center"> Insights Deep-Dive </p>
 
 This analysis focuses on providing insights and recommendations in the following key areas:
