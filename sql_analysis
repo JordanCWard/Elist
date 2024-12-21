@@ -1,4 +1,4 @@
--- What were the order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years?
+-- Order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years.
 
 SELECT DATE_TRUNC(purchase_ts, quarter) AS quarter,
     COUNT(DISTINCT(orders.id)) AS order_count,
@@ -16,7 +16,28 @@ ORDER BY quarter ASC
 ;
 
 
--- For products purchased in 2022 on the website or products purchased on mobile in any year, which region has the average highest time to deliver? 
+-- Number of Macbooks ordered in USD each month in 2019 through 2020, sorted oldest to most recent.
+
+SELECT date_trunc(purchase_ts, month) AS order_month,
+  COUNT(product_name = 'Macbook Air Laptop') AS Macbook_orders
+FROM core.orders
+WHERE currency = 'USD' AND purchase_ts BETWEEN '2019-01-01' AND '2020-12-31'
+GROUP BY order_month
+ORDER BY order_month ASC;
+
+
+-- All unique combinations of product IDs and product names of Apple and Bose products.
+
+SELECT distinct(product_id),
+       product_name
+FROM core.orders
+WHERE product_name LIKE 'Apple%'
+  OR product_name LIKE 'Mac%'
+  OR product_name LIKE 'bose%'
+order by 2;
+
+
+-- Region with longest time to deliver (products purchased on mobile OR products purchased in 2022 on the website).
 
 SELECT geo_lookup.region, 
     AVG(DATE_DIFF(order_status.delivery_ts, order_status.purchase_ts, day)) time_to_deliver
@@ -34,7 +55,19 @@ ORDER BY 2 DESC
 ;
 
 
--- What was the refund rate and refund count for each product overall?
+-- For orders in 2020: purchase month, shipping month, time to ship (in days), and product name.
+
+select date_trunc(order_status.purchase_ts, month) as purchase_month,
+      date_trunc(ship_ts, month) as shipping_month,
+      date_diff(ship_ts, order_status.purchase_ts, day) as time_to_ship,
+      product_name
+FROM core.order_status
+LEFT Join core.orders
+  ON order_status.order_id = orders.id
+Where extract(year from order_status.purchase_ts) = 2020;
+
+
+-- Refund rate and refund count for each product.
 
 SELECT CASE WHEN product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name END AS product_clean, 
     SUM(CASE WHEN refund_ts IS NOT NULL THEN 1 ELSE 0 END) AS refunds, 
@@ -47,9 +80,7 @@ ORDER BY 3 DESC
 ;
 
 
-
-
--- Within each region, what is the most popular product? 
+-- Most popular product within each region.
 
 WITH sales_by_product AS (
     SELECT count(product_id) AS total_orders,
@@ -71,7 +102,7 @@ QUALIFY ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) = 1
 ;
 
 
--- How does the time to make a purchase differ between loyalty customers vs. non-loyalty customers?
+-- Average time to make a purchase after creating an account, loyalty customers vs. non-loyalty customers).
 
 SELECT AVG(DATE_DIFF(orders.purchase_ts, created_on, day)) AS time_to_purchase,
       loyalty_program
