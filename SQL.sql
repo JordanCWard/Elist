@@ -1,7 +1,6 @@
 
-Order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years.
+-- Order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years.
 
-``` sql
 SELECT 
   DATE_TRUNC(purchase_ts, quarter) AS quarter, 
   COUNT(
@@ -20,7 +19,6 @@ GROUP BY
   1 
 ORDER BY 
   quarter ASC;
-```
 
 Number of Macbooks ordered in USD each month in 2019 through 2020, sorted oldest to most recent.
 
