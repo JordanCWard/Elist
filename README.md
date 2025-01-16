@@ -67,7 +67,7 @@ This analysis focuses on providing insights and recommendations in the following
 
 #### Recommendations:
 
-- **Expand Product Catalog:** To diversify revenue streams, add more products in the same categories as the top performers, focusing on in-class alternatives.
+- **Expand Product Catalog:** To diversify revenue streams, add more products in the same categories as the top performers (27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops), focusing on in-class alternatives.
 - **Optimize Samsung Charging Cable Pack Strategy:** Increase profitability by exploring price adjustments or introducing a bundled version of the product to capture additional value. <br> <br> <br>
 
 
