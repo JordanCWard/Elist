@@ -9,6 +9,13 @@ Elist possesses extensive sales data that was previously underutilized. This dat
 The entity relation diagram (ERD) can be found [here](https://github.com/JordanCWard/elist_analysis/blob/main/Elist_ERD.png). <br> <br>
 
 
+### Executive Summary
+
+Elist’s main objectives are to leverage underutilized sales data for global revenue growth, enhance customer satisfaction by reducing refund rates, and optimize marketing efforts. Specifically, the company aims to improve brand penetration in key markets, refine product strategies to match customer buying patterns, and strengthen overall commercial performance through data-driven initiatives.
+
+From 2019 to 2022, Elist generated $28 million in revenue from over 100,000 orders, with peak performance in 2020 and an average order value of $260. Holiday sales surged in November and December, then dropped sharply in January and February before rebounding in March. Four products—27" 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops—account for 96% of total sales, while Japan stands out with the highest AOV ($393). Refund rates exceed the 5% average in the UK, Canada, and India (7%), especially for premium laptops. The loyalty program spiked in 2021 but waned in late 2022, and platform preferences show the website primarily attracts buyers of higher-value products, whereas the mobile app caters to lower-cost purchases. <br> <br>
+
+
 ### High-Impact Recommendations:
 
 - **Strategic Growth in Japan:** Capitalize on Japan’s preference for premium products and high average order value (AOV) by enhancing localized strategies to drive sales and deepen market penetration.
