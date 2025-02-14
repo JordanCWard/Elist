@@ -1,5 +1,6 @@
 # <p align="center"> Elist Sales and Market Review </p>
 
+
 ### Overview
 
 Elist, founded in 2018, is a global e-commerce company specializing in popular electronics. Originally serving the local market, the company has expanded its reach to customers worldwide, offering products through both its website and mobile app. Elist engages its audience through a variety of marketing strategies, including affiliate programs, email campaigns, and social media initiatives. Top-selling products include electronics from renowned brands like Apple, Samsung, and ThinkPad.
